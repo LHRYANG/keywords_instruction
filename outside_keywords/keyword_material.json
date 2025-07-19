@@ -1,0 +1,62 @@
+{
+  "basic_materials": [
+    "wooden",
+    "plastic",
+    "metal",
+    "ceramic",
+    "glass",
+    "paper",
+    "leather",
+    "rubber",
+    "fabric",
+    "foam"
+  ],
+  "decorative_textiles": [
+    "velvet",
+    "satin",
+    "lace",
+    "suede",
+    "denim",
+    "corduroy",
+    "silk",
+    "crochet",
+    "tulle",
+    "resin"
+  ],
+  "natural_organic": [
+    "bamboo",
+    "straw",
+    "rattan",
+    "mossy",
+    "leafy",
+    "bark-covered",
+    "thatched",
+    "feathered",
+    "woolen",
+    "hay-filled"
+  ],
+  "sci_fi_fantasy": [
+    "holographic",
+    "crystalline",
+    "metallic",
+    "carbon-fiber",
+    "nano-textured",
+    "obsidian",
+    "plasma-coated",
+    "iridescent",
+    "translucent",
+    "quantum-fabric"
+  ],
+  "cultural_artistic": [
+    "origami-folded",
+    "shoji-paper",
+    "mosaic-tiled",
+    "embroidered",
+    "porcelain",
+    "marbled",
+    "bronze",
+    "ink-painted",
+    "terracotta",
+    "calligraphy-brushed"
+  ]
+}
