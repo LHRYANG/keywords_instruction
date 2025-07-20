@@ -42,18 +42,18 @@ if __name__ == "__main__":
         for complexity in [1, 2, 3, 0]:
             all_results = []
             print(f"Generating motion keywords with complexity {complexity} for round {kkk}...")
-            for i in range(200):
+            for i in range(20):
                 #batch_objects = noun_list[i:i + batch_size]
                 prob = random.random()
-                if  prob < 0.8:
+                if  prob < 0.9:
                     length = 1
-                elif prob<0.95:
+                elif prob<1.1:
                     length = 2
                 else:
                     length = 3
                 sampled_object = object_sampler_insider.sample(length=length, k=args.batch_size, alpha=0.75)
                 #print(sampled_object)
-                sampled_color_1 = color_sampler_insider.sample(length=length, k=5, alpha=0.25)
+                sampled_color_1 = color_sampler_insider.sample(length=length, k=5, alpha=0.75)
                 sampled_color_2 = color_sampler_outsider.sample_all(k=3)
 
                 merged = set(sampled_color_1)

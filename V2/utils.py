@@ -53,6 +53,11 @@ class KeywordSampler:
             length = random.choice(list(self.keyword_pool.keys()))
         keywords = self.keyword_pool[length]
         weights = self.weights_pool[length]
+
+        #print(keywords, weights,k)
+        if len(keywords) < k:
+            keywords = self.keyword_pool[1]
+            weights = self.weights_pool[1]
         adjusted_weights = [w**alpha for w in weights]
         return random.choices(keywords, weights=adjusted_weights, k=k)
 
@@ -94,6 +99,7 @@ class TypedKeywordSampler:
 
 
 
+
 def create_attribute_samplers(folder: str, avoid_name= None) -> list[TypedKeywordSampler]:
     samplers = []
     for file in Path(folder).glob("*.json"):
@@ -116,7 +122,25 @@ def sample_reference_text(samplers: list, k: int = 3, kk: int = 5) -> str:
     return "\n".join(lines)
 
 
-def batch_generate(model, tokenizer, object_names: List[str], prompts: List[str], max_new_tokens=512, outtype="list") -> List[Dict]:
+
+def create_attribute_samplers2(folder: str, use_name= None) -> list[TypedKeywordSampler]:
+    samplers = []
+
+
+    for file in Path(folder).glob("*.json"):
+        use = False 
+        for avd in use_name:
+            if avd in file.stem:
+                use = True 
+        if not use:
+            continue
+        samplers.append(TypedKeywordSampler(str(file)))
+    return samplers
+
+
+
+
+def batch_generate(model, tokenizer, object_names: List[str], prompts: List[str], max_new_tokens=512, outtype="list", task=None) -> List[Dict]:
     
     chat_texts = [
         tokenizer.apply_chat_template(
@@ -142,7 +166,7 @@ def batch_generate(model, tokenizer, object_names: List[str], prompts: List[str]
         # 解码生成部分
         decoded = tokenizer.decode(output_ids[input_len:], skip_special_tokens=True).strip()
         if outtype == "list":
-            parsed = extract_phrase_pairs_from_text(decoded, item)
+            parsed = extract_phrase_pairs_from_text(decoded, item, task=task)
             results.append(parsed)
         elif outtype == "json":
             try:
@@ -178,7 +202,7 @@ def is_english_text(s: str, ratio: float = 0.95) -> bool:
     return len(english_chars) / max(1, len(s)) >= ratio
 
 
-def extract_phrase_pairs_from_text(decoded: str, object_name: str) -> dict | None:
+def extract_phrase_pairs_from_text(decoded: str, object_name: str, task: str) -> dict | None:
     """
     从 LLM 输出中提取所有 (text1, text2) 英文句对。
     
@@ -201,7 +225,15 @@ def extract_phrase_pairs_from_text(decoded: str, object_name: str) -> dict | Non
             phrase1 = part1.strip(" \"'")
             phrase2 = part2.strip(" \"'")
             if is_english_text(phrase1) and is_english_text(phrase2):
-                results.append([phrase1, phrase2])
+                if task =="global":
+                    words1 = set(phrase1.split())
+                    words2 = set(phrase2.split())
+                    if len(words1.symmetric_difference(words2)) < 3:
+                        results.append([phrase1, phrase2])
+                    # else:
+                    #     print(words1, words2)
+                else:
+                    results.append([phrase1, phrase2])
         except Exception:
             continue  # 忽略解析失败的 pair
 

@@ -1,0 +1,62 @@
+{
+  "surface_states": [
+    "smooth",
+    "rough",
+    "glossy",
+    "matte",
+    "bumpy",
+    "polished",
+    "grainy",
+    "porous",
+    "cracked",
+    "scratched"
+  ],
+  "natural_textures": [
+    "mossy",
+    "leafy",
+    "bark-like",
+    "sandy",
+    "rocky",
+    "icy",
+    "muddy",
+    "pebbled",
+    "fibrous",
+    "wood-grain"
+  ],
+  "industrial_textures": [
+    "metallic",
+    "rusted",
+    "weathered",
+    "chipped",
+    "brushed",
+    "perforated",
+    "embossed",
+    "carbon-fiber",
+    "ribbed",
+    "welded"
+  ],
+  "fabric_textures": [
+    "velvety",
+    "fuzzy",
+    "knitted",
+    "quilted",
+    "pleated",
+    "lacy",
+    "wrinkled",
+    "padded",
+    "woven",
+    "fringed"
+  ],
+  "fantasy_textures": [
+    "iridescent",
+    "translucent",
+    "crystalline",
+    "holographic",
+    "molten",
+    "glowing",
+    "pixelated",
+    "magnetic-patterned",
+    "fractal-textured",
+    "glitchy"
+  ]
+}

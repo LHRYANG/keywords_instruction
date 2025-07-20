@@ -1,0 +1,3062 @@
+[
+  {
+    "object": "moth",
+    "expanded_keywords": [
+      [
+        "a moth fluttering at sunset",
+        "a moth fluttering at midnight"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "ant",
+    "expanded_keywords": [
+      [
+        "an ant foraging at sunset",
+        "an ant foraging at sunrise"
+      ],
+      [
+        "an ant under a tree in autumn",
+        "an ant under a tree in winter"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "fish",
+    "expanded_keywords": [
+      [
+        "a fish in a pond during spring",
+        "a fish in a pond during winter"
+      ],
+      [
+        "a fish in a tropical aquarium",
+        "a fish in a cold aquarium"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "skirt",
+    "expanded_keywords": [
+      [
+        "a silk skirt in autumn",
+        "a silk skirt in summer"
+      ]
+    ]
+  },
+  {
+    "object": "people",
+    "expanded_keywords": [
+      [
+        "people at the beach",
+        "people at the park"
+      ],
+      [
+        "people during the sunset",
+        "people during the sunrise"
+      ],
+      [
+        "people in a warm setting",
+        "people in a cold setting"
+      ],
+      [
+        "people on a summer evening",
+        "people on a winter evening"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "hammer",
+    "expanded_keywords": [
+      [
+        "a hammer on a wooden workbench",
+        "a hammer on a metal workbench"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "pillow",
+    "expanded_keywords": [
+      [
+        "a pillow on a beach",
+        "a pillow on a park"
+      ],
+      [
+        "a pillow during sunset",
+        "a pillow during sunrise"
+      ],
+      [
+        "a pillow at midnight",
+        "a pillow at noon"
+      ]
+    ]
+  },
+  {
+    "object": "silver trophy",
+    "expanded_keywords": [
+      [
+        "a silver trophy displayed at a city street during rush hour",
+        "a silver trophy displayed at a city street during a golden hour"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "red tent",
+    "expanded_keywords": [
+      [
+        "a red tent in a sunny day",
+        "a red tent in a cloudy day"
+      ]
+    ]
+  },
+  {
+    "object": "garlic bulb",
+    "expanded_keywords": [
+      [
+        "a garlic bulb on a wooden table during a sunny day",
+        "a garlic bulb on a wooden table during a cloudy day"
+      ],
+      [
+        "a garlic bulb in a farmer’s market during a sunny day",
+        "a garlic bulb in a farmer’s market during a cloudy day"
+      ]
+    ]
+  },
+  {
+    "object": "baseball bat",
+    "expanded_keywords": [
+      [
+        "a baseball bat on a wooden table in a modern city",
+        "a baseball bat on a wooden table in a modern age"
+      ],
+      [
+        "a baseball bat used during a sunny day at a park",
+        "a baseball bat used during a cloudy day at a park"
+      ],
+      [
+        "a baseball bat in a recreational_and_sports activity of hiking in a misty atmosphere",
+        "a baseball bat in a recreational_and_sports activity of climbing in a misty atmosphere"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "red cup",
+    "expanded_keywords": [
+      [
+        "a red cup on a wooden table during a sunny day",
+        "a red cup on a wooden table during a cloudy day"
+      ]
+    ]
+  },
+  {
+    "object": "pool fountain",
+    "expanded_keywords": [
+      [
+        "a pool fountain with crystal-textured water",
+        "a pool fountain with fractal-textured water"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "shampoo bottle",
+    "expanded_keywords": [
+      [
+        "a shampoo bottle on a wooden table during a sunny day",
+        "a shampoo bottle on a wooden table during a cloudy day"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "bus",
+    "expanded_keywords": [
+      [
+        "a bus on a rainy day",
+        "a bus on a snowy day"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "trunk",
+    "expanded_keywords": [
+      [
+        "a leather trunk in moonlight",
+        "a leather trunk in daytime"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "branch",
+    "expanded_keywords": [
+      [
+        "a branch in the moonlight",
+        "a branch in the sunlight"
+      ],
+      [
+        "a branch in spring",
+        "a branch in autumn"
+      ],
+      [
+        "a branch during a stormy day",
+        "a branch during a calm day"
+      ]
+    ]
+  },
+  {
+    "object": "fence",
+    "expanded_keywords": [
+      [
+        "a wooden fence in autumn",
+        "a wooden fence in summer"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "lighthouse",
+    "expanded_keywords": [
+      [
+        "a lighthouse on a foggy beach",
+        "a lighthouse on a sunny beach"
+      ],
+      [
+        "a lighthouse at twilight",
+        "a lighthouse at sunrise"
+      ],
+      [
+        "a lighthouse in a stormy sea",
+        "a lighthouse in a calm sea"
+      ]
+    ]
+  },
+  {
+    "object": "chopstick",
+    "expanded_keywords": [
+      [
+        "a pair of chopsticks on a table",
+        "a pair of chopsticks on a desk"
+      ],
+      [
+        "a pair of chopsticks during sunrise",
+        "a pair of chopsticks during sunset"
+      ],
+      [
+        "a pair of chopsticks in autumn",
+        "a pair of chopsticks in summer"
+      ]
+    ]
+  },
+  {
+    "object": "building",
+    "expanded_keywords": [
+      [
+        "a historical building in autumn",
+        "a historical building in summer"
+      ],
+      [
+        "an office building in the night",
+        "an office building in the afternoon"
+      ],
+      [
+        "a residential building in winter",
+        "a residential building in spring"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "score",
+    "expanded_keywords": [
+      [
+        "a score on a wooden stand in a concert hall during sunset",
+        "a score on a wooden stand in a concert hall during twilight"
+      ]
+    ]
+  },
+  {
+    "object": "tv",
+    "expanded_keywords": [
+      [
+        "a tv on a bookshelf in the evening",
+        "a tv on a bookshelf in the morning"
+      ],
+      [
+        "a tv in a stadium during a thunderstorm",
+        "a tv in a stadium during a sunset"
+      ],
+      [
+        "a tv on a canvas in the field during a twilight",
+        "a tv on a canvas in the field during a thunderstorm"
+      ]
+    ]
+  },
+  {
+    "object": "binder",
+    "expanded_keywords": [
+      [
+        "a binder on a bookshelf",
+        "a binder on a desk"
+      ],
+      [
+        "a binder at a stadium",
+        "a binder at a library"
+      ],
+      [
+        "a binder in the evening",
+        "a binder in the morning"
+      ],
+      [
+        "a binder in a foggy park",
+        "a binder in a sunny park"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "pilot",
+    "expanded_keywords": [
+      [
+        "a pilot sitting in the cockpit of an airplane during sunset",
+        "a pilot sitting in the cockpit of an airplane during sunrise"
+      ],
+      [
+        "a pilot standing on the tarmac at a foggy airport",
+        "a pilot standing on the tarmac at a sunny airport"
+      ]
+    ]
+  },
+  {
+    "object": "honeycomb",
+    "expanded_keywords": [
+      [
+        "a honeycomb at sunrise",
+        "a honeycomb at night"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "laptop",
+    "expanded_keywords": [
+      [
+        "a laptop on a desk during sunset",
+        "a laptop on a desk during sunrise"
+      ],
+      [
+        "a laptop on a desk in a stadium",
+        "a laptop on a desk in a field"
+      ],
+      [
+        "a laptop on a desk in winter",
+        "a laptop on a desk in summer"
+      ],
+      [
+        "a laptop on a desk at twilight",
+        "a laptop on a desk at night"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "cloud",
+    "expanded_keywords": [
+      [
+        "a cloud in a blue sky",
+        "a cloud in a sunset sky"
+      ]
+    ]
+  },
+  {
+    "object": "phone",
+    "expanded_keywords": [
+      [
+        "a phone during sunset",
+        "a phone during thunderstorm"
+      ]
+    ]
+  },
+  {
+    "object": "house",
+    "expanded_keywords": [
+      [
+        "a house in twilight",
+        "a house in sunset"
+      ]
+    ]
+  },
+  {
+    "object": "paper",
+    "expanded_keywords": [
+      [
+        "a stack of paper on a desk",
+        "a stack of paper on a bookshelf"
+      ]
+    ]
+  },
+  {
+    "object": "headphone",
+    "expanded_keywords": [
+      [
+        "a headphone on a desk",
+        "a headphone on a bed"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "dog",
+    "expanded_keywords": [
+      [
+        "a dog at sunrise",
+        "a dog at sunset"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "marshall",
+    "expanded_keywords": [
+      [
+        "a marshall during sunrise",
+        "a marshall during sunset"
+      ],
+      [
+        "a marshall in a windless area",
+        "a marshall in a stormy area"
+      ],
+      [
+        "a marshall in autumn",
+        "a marshall in winter"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "leaf",
+    "expanded_keywords": [
+      [
+        "a leaf on the ground in autumn",
+        "a leaf on the ground in winter"
+      ],
+      [
+        "a leaf floating in a stream during rainforest dawn",
+        "a leaf floating in a stream during rainforest dusk"
+      ],
+      [
+        "a leaf falling into a pond at sunset",
+        "a leaf falling into a pond at sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a microphone on a stand in a windless field",
+        "a microphone on a stand in a stormy field"
+      ],
+      [
+        "a microphone at a conference in a foggy cityscape",
+        "a microphone at a conference in a sunny cityscape"
+      ],
+      [
+        "a microphone on a stage during a performance in a cloudy rainforest",
+        "a microphone on a stage during a performance in a sunny rainforest"
+      ]
+    ]
+  },
+  {
+    "object": "bicycle",
+    "expanded_keywords": [
+      [
+        "a bicycle during the sunset",
+        "a bicycle during the sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a tree in a foggy field",
+        "a tree in a sunny field"
+      ],
+      [
+        "a tree in autumn",
+        "a tree in winter"
+      ],
+      [
+        "a tree in a stormy beachside",
+        "a tree in a calm beachside"
+      ],
+      [
+        "a tree at sunset",
+        "a tree at sunrise"
+      ],
+      [
+        "a tree in a rainforest",
+        "a tree in a desert"
+      ]
+    ]
+  },
+  {
+    "object": "glass",
+    "expanded_keywords": [
+      [
+        "a glass on the table during daytime",
+        "a glass on the table during sunset"
+      ],
+      [
+        "a glass half full on the counter in a kitchen",
+        "a glass half empty on the counter in a kitchen"
+      ]
+    ]
+  },
+  {
+    "object": "bridge",
+    "expanded_keywords": [
+      [
+        "a bridge over a river in autumn",
+        "a bridge over a river in summer"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "person",
+    "expanded_keywords": [
+      [
+        "a person reading a book in a library during daytime",
+        "a person reading a book in a library during twilight"
+      ]
+    ]
+  },
+  {
+    "object": "log",
+    "expanded_keywords": [
+      [
+        "a log in the forest during sunset",
+        "a log in the forest during autumn"
+      ],
+      [
+        "a log on the beach at twilight",
+        "a log on the beach at daytime"
+      ],
+      [
+        "a log in the garden during dawn",
+        "a log in the garden during dusk"
+      ],
+      [
+        "a log in the foggy forest",
+        "a log in the clear forest"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "toolbox",
+    "expanded_keywords": [
+      [
+        "a toolbox inside a truck during a summer afternoon",
+        "a toolbox inside a truck during a winter afternoon"
+      ],
+      [
+        "a toolbox on a shelf in a hardware store during the day",
+        "a toolbox on a shelf in a hardware store during the night"
+      ],
+      [
+        "a toolbox on a carpenter’s bench in a forest during twilight",
+        "a toolbox on a carpenter’s bench in a forest during dawn"
+      ]
+    ]
+  },
+  {
+    "object": "crow",
+    "expanded_keywords": [
+      [
+        "a crow flying over the beach",
+        "a crow flying over the stadium"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "graffiti",
+    "expanded_keywords": [
+      [
+        "graffiti on a wall during sunset",
+        "graffiti on a wall during twilight"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "controller",
+    "expanded_keywords": [
+      [
+        "a controller on a gaming console during daytime",
+        "a controller on a gaming console during sunset"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "baby",
+    "expanded_keywords": [
+      [
+        "a baby in a stroller at dawn",
+        "a baby in a stroller at sunset"
+      ],
+      [
+        "a baby sleeping in a crib in a garden",
+        "a baby sleeping in a crib in a winter garden"
+      ],
+      [
+        "a baby wearing a hat in a foggy park",
+        "a baby wearing a hat in a sunny park"
+      ],
+      [
+        "a baby in a bathtub during nighttime",
+        "a baby in a bathtub during daytime"
+      ],
+      [
+        "a baby playing with toys on a winter sidewalk",
+        "a baby playing with toys on a summer sidewalk"
+      ]
+    ]
+  },
+  {
+    "object": "cloud",
+    "expanded_keywords": [
+      [
+        "a white cloud in daytime sky",
+        "a white cloud in sunset sky"
+      ],
+      [
+        "a gray cloud in autumn sky",
+        "a gray cloud in winter sky"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "garage",
+    "expanded_keywords": [
+      [
+        "a garage with snow on the ground",
+        "a garage with leaves on the ground"
+      ],
+      [
+        "a garage with a door open",
+        "a garage with a door closed"
+      ]
+    ]
+  },
+  {
+    "object": "jacket",
+    "expanded_keywords": [
+      [
+        "a jacket on the street in winter",
+        "a jacket on the street in summer"
+      ],
+      [
+        "a jacket in a pub during the evening",
+        "a jacket in a pub during the noon"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "diver",
+    "expanded_keywords": [
+      [
+        "a diver underwater in spring",
+        "a diver underwater in winter"
+      ]
+    ]
+  },
+  {
+    "object": "teapot",
+    "expanded_keywords": [
+      [
+        "a teapot on a stone countertop in a kitchen",
+        "a teapot on a wooden countertop in a kitchen"
+      ],
+      [
+        "a teapot on a table in a pub during twilight",
+        "a teapot on a table in a pub during sunset"
+      ],
+      [
+        "a teapot on a tray at a dining table",
+        "a teapot on a tray at a picnic table"
+      ]
+    ]
+  },
+  {
+    "object": "spider",
+    "expanded_keywords": [
+      [
+        "a spider in the twilight web",
+        "a spider in the stormy web"
+      ]
+    ]
+  },
+  {
+    "object": "microscope",
+    "expanded_keywords": [
+      [
+        "a microscope in a dimly lit room",
+        "a microscope in a brightly lit room"
+      ]
+    ]
+  },
+  {
+    "object": "curtain",
+    "expanded_keywords": [
+      [
+        "a curtain in a twilight living room",
+        "a curtain in a daytime living room"
+      ],
+      [
+        "a curtain in a street at night",
+        "a curtain in a street at sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "bench",
+    "expanded_keywords": [
+      [
+        "a wooden bench in the park during sunrise",
+        "a wooden bench in the park during sunset"
+      ],
+      [
+        "a bench in the daytime at the stadium",
+        "a bench in the nighttime at the stadium"
+      ],
+      [
+        "a red bench in the field under fog",
+        "a green bench in the field under fog"
+      ]
+    ]
+  },
+  {
+    "object": "sticker",
+    "expanded_keywords": [
+      [
+        "a sticker on a mirror",
+        "a sticker on a wallet"
+      ],
+      [
+        "a sticker on a fridge",
+        "a sticker on a skateboard"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "newspaper",
+    "expanded_keywords": [
+      [
+        "a newspaper on a snowy balcony",
+        "a newspaper on a summer balcony"
+      ]
+    ]
+  },
+  {
+    "object": "headphone",
+    "expanded_keywords": [
+      [
+        "a white headphone on a wooden desk during sunset",
+        "a white headphone on a wooden desk during sunrise"
+      ],
+      [
+        "a black headphone on a concrete floor during snow",
+        "a black headphone on a concrete floor during summer"
+      ],
+      [
+        "green headphones in an ancient library during twilight",
+        "green headphones in an ancient library during daytime"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "bookshelf",
+    "expanded_keywords": [
+      [
+        "a bookshelf in the twilight of a library",
+        "a bookshelf in the sunset of a library"
+      ]
+    ]
+  },
+  {
+    "object": "couch",
+    "expanded_keywords": [
+      [
+        "a cozy couch in a modern living room",
+        "a cozy couch in a traditional living room"
+      ]
+    ]
+  },
+  {
+    "object": "cup",
+    "expanded_keywords": [
+      [
+        "a white cup during a sunrise",
+        "a white cup during a hurricane"
+      ]
+    ]
+  },
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a tree in the backyard",
+        "a tree in the forest"
+      ],
+      [
+        "a tree in autumn",
+        "a tree in summer"
+      ]
+    ]
+  },
+  {
+    "object": "bicycle",
+    "expanded_keywords": [
+      [
+        "a bicycle on the balcony with the night view",
+        "a bicycle on the balcony with the daytime view"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "chair",
+    "expanded_keywords": [
+      [
+        "a chair in autumn",
+        "a chair in summer"
+      ],
+      [
+        "a chair in a cityscape",
+        "a chair in a park"
+      ],
+      [
+        "a chair in winter",
+        "a chair in spring"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "roof",
+    "expanded_keywords": [
+      [
+        "a roof in twilight",
+        "a roof in sunset"
+      ],
+      [
+        "a roof in autumn",
+        "a roof in winter"
+      ]
+    ]
+  },
+  {
+    "object": "table",
+    "expanded_keywords": [
+      [
+        "a wooden table in a backyard",
+        "a wooden table in a cityscape"
+      ],
+      [
+        "a round table in the evening",
+        "a round table in the morning"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "tadpole",
+    "expanded_keywords": [
+      [
+        "a tadpole in a pond during spring",
+        "a tadpole in a pond during summer"
+      ]
+    ]
+  },
+  {
+    "object": "bow",
+    "expanded_keywords": [
+      [
+        "a bow on a winter tree",
+        "a bow on a summer tree"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "car",
+    "expanded_keywords": [
+      [
+        "a car driving during a storm",
+        "a car driving during a sunset"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "bridge",
+    "expanded_keywords": [
+      [
+        "a bridge in the village during autumn",
+        "a bridge in the village during winter"
+      ],
+      [
+        "a bridge spanning the lake in spring",
+        "a bridge spanning the lake in summer"
+      ],
+      [
+        "a bridge in the stadium during a nighttime event",
+        "a bridge in the stadium during a daytime event"
+      ]
+    ]
+  },
+  {
+    "object": "cocoon",
+    "expanded_keywords": [
+      [
+        "a cocoon on the branch of a tree in autumn",
+        "a cocoon on the branch of a tree in spring"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "pawn",
+    "expanded_keywords": [
+      [
+        "a pawn on a chessboard during twilight",
+        "a pawn on a chessboard during sunset"
+      ],
+      [
+        "a pawn on a chessboard under stormy weather",
+        "a pawn on a chessboard under winter weather"
+      ]
+    ]
+  },
+  {
+    "object": "backpack",
+    "expanded_keywords": [
+      [
+        "a green backpack on a rainy afternoon desk",
+        "a green backpack on a sunny afternoon desk"
+      ]
+    ]
+  },
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a microphone on a stand in a field",
+        "a microphone on a stand in twilight"
+      ],
+      [
+        "a microphone on a stand in a beach",
+        "a microphone on a stand in autumn"
+      ]
+    ]
+  },
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a microphone at a news conference",
+        "a microphone at a press conference"
+      ],
+      [
+        "a microphone on a lectern in a church",
+        "a microphone on a lectern in a school"
+      ],
+      [
+        "a microphone hanging from a stand at a conference",
+        "a microphone hanging from a stand at a rally"
+      ]
+    ]
+  },
+  {
+    "object": "bottle",
+    "expanded_keywords": [
+      [
+        "a bottle in a storm",
+        "a bottle in a sunset"
+      ],
+      [
+        "a bottle in winter",
+        "a bottle in autumn"
+      ],
+      [
+        "a bottle in a stadium",
+        "a bottle in a field"
+      ]
+    ]
+  },
+  {
+    "object": "rocket",
+    "expanded_keywords": [
+      [
+        "a rocket launching at sunrise",
+        "a rocket launching at sunset"
+      ],
+      [
+        "a rocket on the launchpad in a stadium",
+        "a rocket on the launchpad in a forest"
+      ],
+      [
+        "a rocket ascending during a storm",
+        "a rocket ascending during an autumn storm"
+      ],
+      [
+        "a rocket landing on a beach",
+        "a rocket landing on a field"
+      ],
+      [
+        "a rocket flying through a winter sky",
+        "a rocket flying through a twilight sky"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "enterprise",
+    "expanded_keywords": [
+      [
+        "an enterprise conference room with modern furniture",
+        "an enterprise conference room with vintage furniture"
+      ],
+      [
+        "an enterprise headquarters on a sunny day",
+        "an enterprise headquarters on a rainy day"
+      ],
+      [
+        "an enterprise retail store during the morning",
+        "an enterprise retail store during the afternoon"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "forest",
+    "expanded_keywords": [
+      [
+        "a forest during twilight",
+        "a forest during sunrise"
+      ],
+      [
+        "a forest in winter",
+        "a forest in autumn"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "wetsuit",
+    "expanded_keywords": [
+      [
+        "a wetsuit in winter",
+        "a wetsuit in summer"
+      ]
+    ]
+  },
+  {
+    "object": "fence",
+    "expanded_keywords": [
+      [
+        "a wooden fence in twilight",
+        "a wooden fence in sunset"
+      ],
+      [
+        "a wooden fence by the stadium",
+        "a wooden fence by the field"
+      ],
+      [
+        "a wooden fence in winter",
+        "a wooden fence in autumn"
+      ]
+    ]
+  },
+  {
+    "object": "tv",
+    "expanded_keywords": [
+      [
+        "a tv in a living room during the evening",
+        "a tv in a living room during the daylight"
+      ],
+      [
+        "a tv on a table in a stadium during the sunset",
+        "a tv on a table in a stadium during the sunrise"
+      ],
+      [
+        "a tv in a forest during the autumn",
+        "a tv in a forest during the spring"
+      ],
+      [
+        "a tv in a stormy room",
+        "a tv in a calm room"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "salad",
+    "expanded_keywords": [
+      [
+        "a salad in autumn",
+        "a salad in winter"
+      ]
+    ]
+  },
+  {
+    "object": "fence",
+    "expanded_keywords": [
+      [
+        "a metal fence in autumn",
+        "a metal fence in summer"
+      ],
+      [
+        "a bamboo fence in the city",
+        "a bamboo fence in the countryside"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "bottle",
+    "expanded_keywords": [
+      [
+        "a bottle on a snowy kitchen countertop",
+        "a bottle on a sunny kitchen countertop"
+      ],
+      [
+        "a bottle on the riverbank during autumn",
+        "a bottle on the riverbank during summer"
+      ],
+      [
+        "a bottle at a garden party during sunset",
+        "a bottle at a garden party during sunrise"
+      ],
+      [
+        "a bottle on the lake during a calm evening",
+        "a bottle on the lake during a stormy evening"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "radish",
+    "expanded_keywords": [
+      [
+        "a radish in winter",
+        "a radish in autumn"
+      ]
+    ]
+  },
+  {
+    "object": "backpack",
+    "expanded_keywords": [
+      [
+        "a green backpack in a garden",
+        "a green backpack in a kitchen"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "bottle",
+    "expanded_keywords": [
+      [
+        "a bottle on a snowy kitchen countertop",
+        "a bottle on a summer kitchen countertop"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "stroller",
+    "expanded_keywords": [
+      [
+        "a stroller during sunset",
+        "a stroller during sunrise"
+      ]
+    ]
+  },
+  {
+    "object": "streetlight",
+    "expanded_keywords": [
+      [
+        "a streetlight in the twilight",
+        "a streetlight in the sunrise"
+      ],
+      [
+        "a streetlight on a snowy street",
+        "a streetlight on a sunny street"
+      ]
+    ]
+  },
+  {
+    "object": "newspaper",
+    "expanded_keywords": [
+      [
+        "a newspaper on a snowy sidewalk",
+        "a newspaper on a sunny sidewalk"
+      ],
+      [
+        "a newspaper under a bamboo roof",
+        "a newspaper under a thatched roof"
+      ],
+      [
+        "a newspaper during snowfall",
+        "a newspaper during sunrise"
+      ]
+    ]
+  },
+  {
+    "object": "crayfish",
+    "expanded_keywords": [
+      [
+        "a crayfish during twilight",
+        "a crayfish during sunset"
+      ]
+    ]
+  },
+  {
+    "object": "rock",
+    "expanded_keywords": [
+      [
+        "a rock in the dawn",
+        "a rock in the twilight"
+      ],
+      [
+        "a rock during snowfall",
+        "a rock during snowstorm"
+      ]
+    ]
+  },
+  {
+    "object": "wetsuit",
+    "expanded_keywords": [
+      [
+        "a wetsuit during a snowfall",
+        "a wetsuit during a sunset"
+      ],
+      [
+        "a wetsuit in a snowy environment",
+        "a wetsuit in a sunny environment"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "rifle",
+    "expanded_keywords": [
+      [
+        "a rifle in a medieval battle",
+        "a rifle in a futuristic battle"
+      ],
+      [
+        "a rifle during sunrise",
+        "a rifle during sunset"
+      ]
+    ]
+  },
+  {
+    "object": "clown",
+    "expanded_keywords": [
+      [
+        "a clown performing at a carnival",
+        "a clown performing at a circus"
+      ]
+    ]
+  },
+  {
+    "object": "window",
+    "expanded_keywords": [
+      [
+        "a window in a snowy environment",
+        "a window in a sunny environment"
+      ],
+      [
+        "a window during a snowfall",
+        "a window during a snowstorm"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "log",
+    "expanded_keywords": [
+      [
+        "a log in a forest during twilight",
+        "a log in a forest during sunset"
+      ],
+      [
+        "a log by the beach during snowfall",
+        "a log by the beach during snowstorm"
+      ],
+      [
+        "a log on a mountain trail during autumn",
+        "a log on a mountain trail during winter"
+      ],
+      [
+        "a log in the countryside during dawn",
+        "a log in the countryside during sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "sink faucet",
+    "expanded_keywords": [
+      [
+        "a sink faucet on a tree branch",
+        "a sink faucet near a tree branch"
+      ]
+    ]
+  },
+  {
+    "object": "orchard tree",
+    "expanded_keywords": [
+      [
+        "an orchard tree in autumn",
+        "an orchard tree in spring"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "volleyball",
+    "expanded_keywords": [
+      [
+        "a volleyball on a beach during sunset",
+        "a volleyball on a beach during daytime"
+      ],
+      [
+        "a volleyball in an indoor gym during winter",
+        "a volleyball in an indoor gym during summer"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "lantern",
+    "expanded_keywords": [
+      [
+        "a lantern on a table by a fireplace",
+        "a lantern on a table by a lake"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "bluebirdwfc",
+    "expanded_keywords": [
+      [
+        "a bluebirdwfc by a lake at sunset",
+        "a bluebirdwfc by a lake at sunrise"
+      ]
+    ]
+  },
+  {
+    "object": "fox",
+    "expanded_keywords": [
+      [
+        "a fox in a snowy forest",
+        "a fox in a twilight forest"
+      ],
+      [
+        "a fox on a carpet",
+        "a fox on a rug"
+      ],
+      [
+        "a fox during sunset",
+        "a fox during sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "banana",
+    "expanded_keywords": [
+      [
+        "a banana on a snowy carpet",
+        "a banana on a twilight carpet"
+      ],
+      [
+        "a banana at sunrise",
+        "a banana at sunset"
+      ],
+      [
+        "a banana in a library during daytime",
+        "a banana in a library during evening"
+      ],
+      [
+        "a banana in a forest during autumn",
+        "a banana in a forest during winter"
+      ]
+    ]
+  },
+  {
+    "object": "net",
+    "expanded_keywords": [
+      [
+        "a fishing net in twilight",
+        "a fishing net in daytime"
+      ],
+      [
+        "a beach net in autumn",
+        "a beach net in summer"
+      ],
+      [
+        "a spider web net in sunset",
+        "a spider web net in sunrise"
+      ],
+      [
+        "a soccer goal net at a night stadium",
+        "a soccer goal net at a daytime stadium"
+      ]
+    ]
+  },
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a tree in the forest during twilight",
+        "a tree in the forest during sunset"
+      ]
+    ]
+  },
+  {
+    "object": "mountain",
+    "expanded_keywords": [
+      [
+        "a mountain during twilight",
+        "a mountain during daytime"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "cloud",
+    "expanded_keywords": [
+      [
+        "a cloud floating in the sky during sunset",
+        "a cloud floating in the sky during daytime"
+      ]
+    ]
+  },
+  {
+    "object": "sailboat",
+    "expanded_keywords": [
+      [
+        "a sailboat on the lake during sunset",
+        "a sailboat on the lake during twilight"
+      ],
+      [
+        "a sailboat on the lake in autumn",
+        "a sailboat on the lake in winter"
+      ],
+      [
+        "a sailboat on the ocean near the forest",
+        "a sailboat on the ocean near the lake"
+      ],
+      [
+        "a sailboat on a river in the morning",
+        "a sailboat on a river in the evening"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "broom",
+    "expanded_keywords": [
+      [
+        "a broom in the twilight forest",
+        "a broom in the sunset forest"
+      ],
+      [
+        "a broom in the library",
+        "a broom in the garden"
+      ]
+    ]
+  },
+  {
+    "object": "paper",
+    "expanded_keywords": [
+      [
+        "a piece of paper on a wooden desk during daytime",
+        "a piece of paper on a wooden desk during twilight"
+      ],
+      [
+        "a piece of paper on a carpet during winter",
+        "a piece of paper on a carpet during autumn"
+      ],
+      [
+        "a piece of paper on a nightstand during nighttime",
+        "a piece of paper on a nightstand during sunrise"
+      ],
+      [
+        "a piece of paper on a desk in an office during daytime",
+        "a piece of paper on a desk in an office during Sunday"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "mountain",
+    "expanded_keywords": [
+      [
+        "a mountain during sunset",
+        "a mountain during snowfall"
+      ],
+      [
+        "a mountain in autumn",
+        "a mountain in summer"
+      ],
+      [
+        "a mountain at twilight",
+        "a mountain at sunrise"
+      ],
+      [
+        "a mountain in the distance",
+        "a mountain in the foreground"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "lg",
+    "expanded_keywords": [
+      [
+        "a large glass display case at a market filled with fruits",
+        "a large glass display case at a market filled with vegetables"
+      ],
+      [
+        "a large glass screen in a stormy weather condition",
+        "a large glass screen in a calm weather condition"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "baseball",
+    "expanded_keywords": [
+      [
+        "a baseball on the grass at sunset",
+        "a baseball on the grass at sunrise"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "sparkler",
+    "expanded_keywords": [
+      [
+        "a sparkler in winter",
+        "a sparkler in summer"
+      ],
+      [
+        "a sparkler at a market",
+        "a sparkler at a campsite"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "toy",
+    "expanded_keywords": [
+      [
+        "a toy airplane in a forest",
+        "a toy airplane in a city"
+      ],
+      [
+        "a toy dinosaur in twilight",
+        "a toy dinosaur in sunset"
+      ],
+      [
+        "a toy teddy bear in a library",
+        "a toy teddy bear in a pub"
+      ],
+      [
+        "a toy boat in winter",
+        "a toy boat in spring"
+      ]
+    ]
+  },
+  {
+    "object": "baby",
+    "expanded_keywords": [
+      [
+        "a baby during twilight",
+        "a baby during sunset"
+      ],
+      [
+        "a baby in winter",
+        "a baby in spring"
+      ],
+      [
+        "a baby in a room",
+        "a baby in a forest"
+      ]
+    ]
+  },
+  {
+    "object": "blind",
+    "expanded_keywords": [
+      [
+        "a blind in twilight",
+        "a blind in sunset"
+      ],
+      [
+        "a blind in snow",
+        "a blind in forest"
+      ],
+      [
+        "a blind in city",
+        "a blind in ancient city"
+      ],
+      [
+        "a blind in library",
+        "a blind in room"
+      ],
+      [
+        "a blind in night",
+        "a blind in spring"
+      ]
+    ]
+  },
+  {
+    "object": "jeep",
+    "expanded_keywords": [
+      [
+        "a jeep in twilight",
+        "a jeep in sunrise"
+      ],
+      [
+        "a jeep in a futuristic design style",
+        "a jeep in a vintage design style"
+      ]
+    ]
+  },
+  {
+    "object": "woman",
+    "expanded_keywords": [
+      [
+        "a woman in a pub",
+        "a woman in a room"
+      ]
+    ]
+  },
+  {
+    "object": "backpack",
+    "expanded_keywords": [
+      [
+        "a brown backpack at a vintage library",
+        "a brown backpack at a futuristic library"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "table",
+    "expanded_keywords": [
+      [
+        "a wooden table in a library",
+        "a glass table in a library"
+      ],
+      [
+        "a rustic table in the forest",
+        "a modern table in the forest"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a tree in the forest",
+        "a tree in the garden"
+      ],
+      [
+        "a tree in spring",
+        "a tree in autumn"
+      ],
+      [
+        "a tree in the city",
+        "a tree in the countryside"
+      ],
+      [
+        "a tree in the winter",
+        "a tree in the summer"
+      ]
+    ]
+  },
+  {
+    "object": "warrior",
+    "expanded_keywords": [
+      [
+        "a warrior standing in a forest",
+        "a warrior standing in a city"
+      ],
+      [
+        "a warrior during a sunset",
+        "a warrior during a sunrise"
+      ],
+      [
+        "a warrior in winter",
+        "a warrior in spring"
+      ],
+      [
+        "a warrior in a pub",
+        "a warrior in a library"
+      ]
+    ]
+  },
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a tree in the forest during twilight",
+        "a tree in the forest during sunset"
+      ],
+      [
+        "a tree in the winter forest",
+        "a tree in the spring forest"
+      ],
+      [
+        "a tree in the forest at sunrise",
+        "a tree in the forest at nighttime"
+      ]
+    ]
+  },
+  {
+    "object": "mountain",
+    "expanded_keywords": [
+      [
+        "a mountain during sunset",
+        "a mountain during twilight"
+      ],
+      [
+        "a mountain in a forest",
+        "a mountain in a desert"
+      ],
+      [
+        "a mountain at sunrise",
+        "a mountain at night"
+      ]
+    ]
+  },
+  {
+    "object": "building",
+    "expanded_keywords": [
+      [
+        "a building in a library",
+        "a building in a forest"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "ring",
+    "expanded_keywords": [
+      [
+        "a ring on a snowy forest floor",
+        "a ring on a green forest floor"
+      ]
+    ]
+  },
+  {
+    "object": "stick",
+    "expanded_keywords": [
+      [
+        "a stick during sunset",
+        "a stick during sunrise"
+      ],
+      [
+        "a stick in the afternoon",
+        "a stick in the evening"
+      ],
+      [
+        "a stick in winter",
+        "a stick in summer"
+      ]
+    ]
+  },
+  {
+    "object": "beetle",
+    "expanded_keywords": [
+      [
+        "a beetle on a flower in a garden during daytime",
+        "a beetle on a flower in a garden during evening"
+      ]
+    ]
+  },
+  {
+    "object": "spoon",
+    "expanded_keywords": [
+      [
+        "a spoon in a medieval kitchen",
+        "a spoon in a modern kitchen"
+      ]
+    ]
+  },
+  {
+    "object": "can",
+    "expanded_keywords": [
+      [
+        "a can during sunset",
+        "a can during sunrise"
+      ],
+      [
+        "a can in the daytime",
+        "a can in the nighttime"
+      ],
+      [
+        "a can in winter",
+        "a can in summer"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "superman",
+    "expanded_keywords": [
+      [
+        "Superman flying over the beach",
+        "Superman flying over the sunset"
+      ]
+    ]
+  },
+  {
+    "object": "bunny",
+    "expanded_keywords": [
+      [
+        "a bunny in a campsite",
+        "a bunny in a forest"
+      ]
+    ]
+  },
+  {
+    "object": "fish",
+    "expanded_keywords": [
+      [
+        "a fish swimming in a pond during the morning",
+        "a fish swimming in a pond during the afternoon"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a microphone on a stand at a conference",
+        "a microphone on a stand at a press conference"
+      ]
+    ]
+  },
+  {
+    "object": "girl",
+    "expanded_keywords": [
+      [
+        "a girl reading a book in the evening",
+        "a girl reading a book in the afternoon"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "duck",
+    "expanded_keywords": [
+      [
+        "a duck in a pond during twilight",
+        "a duck in a pond during sunset"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "sled",
+    "expanded_keywords": [
+      [
+        "a sled on a snowy street",
+        "a sled on a winter street"
+      ],
+      [
+        "a sled at a party",
+        "a sled at a picnic"
+      ],
+      [
+        "a sled on a sunset street",
+        "a sled on a sunrise street"
+      ]
+    ]
+  },
+  {
+    "object": "deer",
+    "expanded_keywords": [
+      [
+        "a deer in a snowy forest",
+        "a deer in a twilight forest"
+      ]
+    ]
+  },
+  {
+    "object": "banner",
+    "expanded_keywords": [
+      [
+        "a banner in the twilight at the festival",
+        "a banner in the sun at the festival"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a microphone on a podium in twilight",
+        "a microphone on a podium in sunset"
+      ]
+    ]
+  },
+  {
+    "object": "cashier",
+    "expanded_keywords": [
+      [
+        "a cashier at the counter during sunset",
+        "a cashier at the counter during sunrise"
+      ]
+    ]
+  },
+  {
+    "object": "rifle",
+    "expanded_keywords": [
+      [
+        "a rifle displayed in a museum during a daytime visit",
+        "a rifle displayed in a museum during a nighttime visit"
+      ]
+    ]
+  },
+  {
+    "object": "pen",
+    "expanded_keywords": [
+      [
+        "a pen on a table in the morning",
+        "a pen on a table in the evening"
+      ],
+      [
+        "a pen in a desk drawer during autumn",
+        "a pen in a desk drawer during winter"
+      ],
+      [
+        "a pen on a desk during a sunset",
+        "a pen on a desk during a sunrise"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "butterfly",
+    "expanded_keywords": [
+      [
+        "a butterfly in twilight",
+        "a butterfly in sunset"
+      ],
+      [
+        "a butterfly in spring",
+        "a butterfly in summer"
+      ]
+    ]
+  },
+  {
+    "object": "excavator",
+    "expanded_keywords": [
+      [
+        "an excavator on a construction site at sunrise",
+        "an excavator on a construction site at sunset"
+      ],
+      [
+        "an excavator working in a snowy field",
+        "an excavator working in a green field"
+      ],
+      [
+        "an excavator in a winter landscape",
+        "an excavator in a summer landscape"
+      ],
+      [
+        "an excavator parked in a street during a stormy day",
+        "an excavator parked in a street during a sunny day"
+      ],
+      [
+        "an excavator in a twilight setting",
+        "an excavator in a daylight setting"
+      ]
+    ]
+  },
+  {
+    "object": "bowl",
+    "expanded_keywords": [
+      [
+        "a bowl on a table during sunset",
+        "a bowl on a table during sunrise"
+      ],
+      [
+        "a bowl on a nightstand",
+        "a bowl on a street"
+      ]
+    ]
+  },
+  {
+    "object": "pole",
+    "expanded_keywords": [
+      [
+        "a pole in the sunset",
+        "a pole in the rainstorm"
+      ],
+      [
+        "a pole in the morning",
+        "a pole in the evening"
+      ]
+    ]
+  },
+  {
+    "object": "green palm tree",
+    "expanded_keywords": [
+      [
+        "a green palm tree in a sunny day",
+        "a green palm tree in a warm and sunny day"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "city skyline view",
+    "expanded_keywords": [
+      [
+        "city skyline view at dusk",
+        "city skyline view at noon"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "3d tv screen",
+    "expanded_keywords": [
+      [
+        "a 3d tv screen in a modern living room",
+        "a 3d tv screen in a cozy living room"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "blue ugg boot",
+    "expanded_keywords": [
+      [
+        "a blue ugg boot in a clear and sunny day",
+        "a blue ugg boot in a warm and sunny day"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "toilet",
+    "expanded_keywords": [
+      [
+        "a toilet in a clean bathroom",
+        "a toilet in a messy bathroom"
+      ],
+      [
+        "a toilet in a modern restroom",
+        "a toilet in a rustic restroom"
+      ],
+      [
+        "a toilet in a public restroom",
+        "a toilet in a private restroom"
+      ],
+      [
+        "a toilet in the morning light",
+        "a toilet in the evening light"
+      ],
+      [
+        "a toilet in a brightly lit room",
+        "a toilet in a dimly lit room"
+      ]
+    ]
+  },
+  {
+    "object": "bone",
+    "expanded_keywords": [
+      [
+        "a bone on a snowy hill",
+        "a bone on a sunny hill"
+      ],
+      [
+        "a bone in a camper’s hand at a campsite",
+        "a bone in a child’s hand at a campsite"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "chair",
+    "expanded_keywords": [
+      [
+        "a chair at sunrise",
+        "a chair at sunset"
+      ],
+      [
+        "a chair in a workshop",
+        "a chair in a forest"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "trident",
+    "expanded_keywords": [
+      [
+        "a trident in the snow",
+        "a trident in the rain"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "briefcase",
+    "expanded_keywords": [
+      [
+        "a briefcase on a modern desk",
+        "a briefcase on a vintage desk"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "sailboat",
+    "expanded_keywords": [
+      [
+        "a sailboat during sunset",
+        "a sailboat during sunrise"
+      ],
+      [
+        "a sailboat on the ocean",
+        "a sailboat on the river"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "roof",
+    "expanded_keywords": [
+      [
+        "a red roof during sunset",
+        "a red roof during sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "door",
+    "expanded_keywords": [
+      [
+        "a wooden door in the snow",
+        "a wooden door in the sunset"
+      ],
+      [
+        "a brown door in the park",
+        "a brown door in the forest"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a microphone on the stage during sunset",
+        "a microphone on the stage during sunrise"
+      ],
+      [
+        "a microphone at the conference in a snowy setting",
+        "a microphone at the conference in a prairie setting"
+      ]
+    ]
+  },
+  {
+    "object": "sail",
+    "expanded_keywords": [
+      [
+        "a sail in a stormy sea",
+        "a sail in a calm sea"
+      ],
+      [
+        "a sail in a race at dawn",
+        "a sail in a race at dusk"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "machine",
+    "expanded_keywords": [
+      [
+        "a machine in a factory",
+        "a machine in a park"
+      ],
+      [
+        "a machine in winter",
+        "a machine in summer"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "woman",
+    "expanded_keywords": [
+      [
+        "a woman in a park during sunrise",
+        "a woman in a park during sunset"
+      ],
+      [
+        "a woman at a stadium wearing a burgundy coat",
+        "a woman at a stadium wearing a coral coat"
+      ],
+      [
+        "a woman walking on a snowy path",
+        "a woman walking on a rainy path"
+      ],
+      [
+        "a woman in a medieval marketplace",
+        "a woman in a medieval library"
+      ]
+    ]
+  },
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a tree in the park during sunset",
+        "a tree in the park during sunrise"
+      ],
+      [
+        "a tree in the winter forest",
+        "a tree in the summer forest"
+      ],
+      [
+        "a tree in the twilight forest",
+        "a tree in the evening forest"
+      ],
+      [
+        "a tree in the snowy meadow",
+        "a tree in the sunny meadow"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "window",
+    "expanded_keywords": [
+      [
+        "a window in winter",
+        "a window in summer"
+      ],
+      [
+        "a window in a park",
+        "a window in a workshop"
+      ]
+    ]
+  },
+  {
+    "object": "2",
+    "expanded_keywords": [
+      [
+        "a cat on a windowsill during sunrise",
+        "a cat on a windowsill during sunset"
+      ],
+      [
+        "a cat lounging on a couch in summer",
+        "a cat lounging on a couch in winter"
+      ],
+      [
+        "a cat playing in a snowy park",
+        "a cat playing in a sunny park"
+      ]
+    ]
+  },
+  {
+    "object": "doll",
+    "expanded_keywords": [
+      [
+        "a doll on a park bench during sunset",
+        "a doll on a park bench during twilight"
+      ],
+      [
+        "a doll on a table in a daytime bedroom",
+        "a doll on a table in a nighttime bedroom"
+      ]
+    ]
+  },
+  {
+    "object": "bottle",
+    "expanded_keywords": [
+      [
+        "a bottle on a table in the sunlight",
+        "a bottle on a table in the shade"
+      ],
+      [
+        "a bottle in a park during sunset",
+        "a bottle in a park during sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "nut",
+    "expanded_keywords": [
+      [
+        "a nut in a hand during daytime",
+        "a nut in a hand during twilight"
+      ]
+    ]
+  },
+  {
+    "object": "hat",
+    "expanded_keywords": [
+      [
+        "a hat near a lake in the evening",
+        "a hat near a lake in the daytime"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "green grass",
+    "expanded_keywords": [
+      [
+        "green grass in a sunny day",
+        "green grass in a rainy day"
+      ],
+      [
+        "green grass in a medieval era",
+        "green grass in a Victorian era"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "confetti explosion",
+    "expanded_keywords": [
+      [
+        "a confetti explosion during a sunny day",
+        "a confetti explosion during a rainy day"
+      ]
+    ]
+  },
+  {
+    "object": "white bowl",
+    "expanded_keywords": [
+      [
+        "a white bowl on a wooden table in a sunny day",
+        "a white bowl on a wooden table in a rainy day"
+      ],
+      [
+        "a white bowl in a Victorian-era kitchen",
+        "a white bowl in a medieval-era kitchen"
+      ]
+    ]
+  },
+  {
+    "object": "confetti popper",
+    "expanded_keywords": [
+      [
+        "a confetti popper during a rainy day",
+        "a confetti popper during a sunny day"
+      ]
+    ]
+  },
+  {
+    "object": "spaghetti noodle",
+    "expanded_keywords": [
+      [
+        "a spaghetti noodle lying on a white background",
+        "a spaghetti noodle lying on a red background"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "small pond",
+    "expanded_keywords": [
+      [
+        "a small pond in spring",
+        "a small pond in autumn"
+      ],
+      [
+        "a small pond at dawn",
+        "a small pond at dusk"
+      ],
+      [
+        "a small pond in a forest",
+        "a small pond in a desert"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "left candle",
+    "expanded_keywords": [
+      [
+        "a left candle on a candlestick in a medieval era room",
+        "a left candle on a candlestick in a Victorian era room"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "wooden fence",
+    "expanded_keywords": [
+      [
+        "a wooden fence in a backyard",
+        "a wooden fence in a park"
+      ],
+      [
+        "a wooden fence during summer",
+        "a wooden fence during winter"
+      ],
+      [
+        "a wooden fence on a sunny day",
+        "a wooden fence on a rainy day"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "silver lock",
+    "expanded_keywords": [
+      [
+        "a silver lock on a wooden countertop",
+        "a silver lock on a wooden table"
+      ],
+      [
+        "a silver lock in a snowy scene",
+        "a silver lock in a snowy night"
+      ]
+    ]
+  },
+  {
+    "object": "photo frame",
+    "expanded_keywords": [
+      [
+        "a photo frame on a wooden countertop",
+        "a photo frame on a wooden table"
+      ],
+      [
+        "a photo frame during a sunny day",
+        "a photo frame during a cloudy day"
+      ]
+    ]
+  },
+  {
+    "object": "vintage compass",
+    "expanded_keywords": [
+      [
+        "a vintage compass on a wooden countertop during the daytime",
+        "a vintage compass on a wooden countertop during the nighttime"
+      ],
+      [
+        "a vintage compass on a city street on a cloudy day",
+        "a vintage compass on a city street on a sunny day"
+      ]
+    ]
+  },
+  {
+    "object": "beach ball",
+    "expanded_keywords": [
+      [
+        "a beach ball at the beach on a sunny day",
+        "a beach ball at the beach on a cloudy day"
+      ],
+      [
+        "a beach ball at the pool during summer day",
+        "a beach ball at the pool during winter day"
+      ],
+      [
+        "a beach ball on the sand during a beach party",
+        "a beach ball on the grass during a beach party"
+      ]
+    ]
+  },
+  {
+    "object": "tennis ball",
+    "expanded_keywords": [
+      [
+        "a tennis ball on a wooden countertop",
+        "a tennis ball on a wooden table"
+      ],
+      [
+        "a tennis ball during a sunny day match",
+        "a tennis ball during a cloudy day match"
+      ]
+    ]
+  },
+  {
+    "object": "rail car",
+    "expanded_keywords": [
+      [
+        "a rail car on a sunny day",
+        "a rail car on a cloudy day"
+      ],
+      [
+        "a rail car in a snowy scene",
+        "a rail car in a fall scene"
+      ]
+    ]
+  },
+  {
+    "object": "beer mug",
+    "expanded_keywords": [
+      [
+        "a beer mug on a rocky cliff during a cloudy day",
+        "a beer mug on a rocky cliff during a sunny day"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "person fishing",
+    "expanded_keywords": [
+      [
+        "a person fishing on a clear riverbank",
+        "a person fishing on a snowy riverbank"
+      ],
+      [
+        "a person fishing in the morning at a pond",
+        "a person fishing in the evening at a pond"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "potted plant",
+    "expanded_keywords": [
+      [
+        "a potted plant on a city street in spring",
+        "a potted plant on a city street in autumn"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "bucket",
+    "expanded_keywords": [
+      [
+        "a bucket on a beach",
+        "a bucket on a meadow"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "book",
+    "expanded_keywords": [
+      [
+        "a book in a library during autumn",
+        "a book in a library during summer"
+      ]
+    ]
+  },
+  {
+    "object": "butterfly",
+    "expanded_keywords": [
+      [
+        "a butterfly in spring",
+        "a butterfly in autumn"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "skateboard",
+    "expanded_keywords": [
+      [
+        "a skateboard being used for commuting",
+        "a skateboard being used for flying"
+      ],
+      [
+        "a skateboard in the tech store",
+        "a skateboard in the medical store"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "book",
+    "expanded_keywords": [
+      [
+        "a book on a table in the library",
+        "a book on a table in the bookstore"
+      ]
+    ]
+  },
+  {
+    "object": "hiker",
+    "expanded_keywords": [
+      [
+        "a hiker during a sunset",
+        "a hiker during a flood"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "izgalizetan",
+    "expanded_keywords": [
+      [
+        "an izgalizetan tree in autumn",
+        "an izgalizetan tree in summer"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "box",
+    "expanded_keywords": [
+      [
+        "a box on a highway",
+        "a box on a beach"
+      ],
+      [
+        "a box during sunset",
+        "a box during sunrise"
+      ],
+      [
+        "a box in a stadium",
+        "a box in a meadow"
+      ],
+      [
+        "a box in winter",
+        "a box in autumn"
+      ]
+    ]
+  },
+  {
+    "object": "lighthouse",
+    "expanded_keywords": [
+      [
+        "a lighthouse during sunset",
+        "a lighthouse during sunrise"
+      ],
+      [
+        "a lighthouse in winter",
+        "a lighthouse in autumn"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "vase",
+    "expanded_keywords": [
+      [
+        "a vase on a shelf in a meadow",
+        "a vase on a shelf in a stadium"
+      ],
+      [
+        "a vase filled with flowers on a night table",
+        "a vase filled with flowers on a night stand"
+      ]
+    ]
+  },
+  {
+    "object": "lamp",
+    "expanded_keywords": [
+      [
+        "a lamp at a stadium during the daytime",
+        "a lamp at a stadium during the night"
+      ],
+      [
+        "a lamp on a beach during sunset",
+        "a lamp on a beach during sunrise"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "headphone",
+    "expanded_keywords": [
+      [
+        "a headphone during a sunrise",
+        "a headphone during a sunset"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  null,
+  {
+    "object": "ribbon",
+    "expanded_keywords": [
+      [
+        "a green ribbon on a gift",
+        "a green ribbon on a shoe"
+      ],
+      [
+        "a white ribbon on a wreath",
+        "a white ribbon on a corsage"
+      ],
+      [
+        "a yellow ribbon in a field",
+        "a yellow ribbon in a hair"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "crane",
+    "expanded_keywords": [
+      [
+        "a crane at a construction site during daytime",
+        "a crane at a construction site during nighttime"
+      ],
+      [
+        "a crane on a snowy construction site",
+        "a crane on a beach construction site"
+      ],
+      [
+        "a crane operating in a vineyard during autumn",
+        "a crane operating in a vineyard during summer"
+      ]
+    ]
+  },
+  {
+    "object": "rose",
+    "expanded_keywords": [
+      [
+        "a rose blooming in a garden during sunset",
+        "a rose blooming in a garden during sunrise"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "wreath",
+    "expanded_keywords": [
+      [
+        "a wreath hung on a snowy door",
+        "a wreath hung on a beach door"
+      ]
+    ]
+  },
+  null,
+  null,
+  null,
+  {
+    "object": "swing",
+    "expanded_keywords": [
+      [
+        "a swing in a garden",
+        "a swing in a beach"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "waterfall",
+    "expanded_keywords": [
+      [
+        "a waterfall in autumn",
+        "a waterfall in winter"
+      ],
+      [
+        "a waterfall in the forest",
+        "a waterfall in the desert"
+      ]
+    ]
+  },
+  {
+    "object": "ear",
+    "expanded_keywords": [
+      [
+        "a lobe of an ear with piercings at a party",
+        "a lobe of an ear with piercings at a concert"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "wheelchair",
+    "expanded_keywords": [
+      [
+        "a wheelchair at sunrise on a garden path",
+        "a wheelchair at sunset on a garden path"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "mountain",
+    "expanded_keywords": [
+      [
+        "a mountain in the twilight",
+        "a mountain in the sunset"
+      ],
+      [
+        "a mountain in the morning",
+        "a mountain in the evening"
+      ],
+      [
+        "a mountain in the forest",
+        "a mountain in the garden"
+      ],
+      [
+        "a mountain in winter",
+        "a mountain in summer"
+      ]
+    ]
+  },
+  {
+    "object": "wheel",
+    "expanded_keywords": [
+      [
+        "a wheel on a skateboard in a garden",
+        "a wheel on a skateboard in a snowy garden"
+      ],
+      [
+        "a wheel on a boat at sunrise",
+        "a wheel on a boat at night"
+      ]
+    ]
+  },
+  {
+    "object": "hat",
+    "expanded_keywords": [
+      [
+        "a hat on a hat rack in the bedroom",
+        "a hat on a hat rack in the hallway"
+      ],
+      [
+        "a hat worn by a woman in the library",
+        "a hat worn by a woman in the park"
+      ],
+      [
+        "a hat on a stand in the autumn garden",
+        "a hat on a stand in the winter garden"
+      ]
+    ]
+  },
+  null,
+  {
+    "object": "bridge",
+    "expanded_keywords": [
+      [
+        "a bridge in the garden during spring",
+        "a bridge in the garden during autumn"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "spoon",
+    "expanded_keywords": [
+      [
+        "a spoon in the snow",
+        "a spoon in the library"
+      ],
+      [
+        "a spoon in the garden",
+        "a spoon in the snow"
+      ]
+    ]
+  },
+  null,
+  null,
+  {
+    "object": "mud",
+    "expanded_keywords": [
+      [
+        "mud on a forest path during twilight",
+        "mud on a forest path during sunset"
+      ]
+    ]
+  },
+  {
+    "object": "basket",
+    "expanded_keywords": [
+      [
+        "a basket in the snow",
+        "a basket in the twilight"
+      ]
+    ]
+  },
+  null
+]

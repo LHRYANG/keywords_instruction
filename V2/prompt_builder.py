@@ -85,4 +85,119 @@ def build_color_change_prompt(object_name: str, reference_text: str, reference_c
             f"[('description 1-1', 'description 1-2'), ('description 2-1', 'description 2-2'), ...]\n\n"
             f"Now, generate the color-change phrase pairs for the object: {object_name}\nOutput:\n"
         )
-        
+
+
+def build_modify_change_prompt(object_name: str, reference_text: str, reference_modify: str, max_attributes=1) -> str:
+    prompt = (
+        f"You are given the name of an object and a set of attributes that can describe or modify it.\n\n"
+        f"Your task is to generate **up to 5 natural phrase pairs**, where each pair refers to the **same object** "
+        f"but differs by **modifying exactly one attribute** from a specified attribute category.\n\n"
+        f"Requirements:\n"
+        f"- Each pair should describe the same object but with a different value for **one attribute**.\n"
+        f"- All pairs must modify attributes from the **same attribute category**.\n"
+        f"- Use natural and concise expressions that are plausible and visually distinct.\n"
+        f"- Do **not** introduce new objects, actions, or attribute categories beyond the target.\n"
+        f"- Modify **only one attribute** in each pair.\n"
+        f"Here is an example:\n"
+        f"  ('a small umbrella', 'a long umbrella'), ('a round coin', 'a rectangular coin')\n\n"
+    )
+
+    if max_attributes > 0:
+        prompt += (
+            f"- You may optionally **add up to {max_attributes} supporting attributes** "
+            f"to make the descriptions more vivid, as long as they do not change across the two phrases in a pair.\n"
+            f"- Here are some inspirations for additional attributes:\n{reference_text}\n"
+        )
+    else:
+        prompt += "- Do **not** add any extra attributes beyond the target attribute to be modified.\n"
+
+    prompt += (
+        f"\n📌 The allowed attribute category for modification is:\n{reference_modify}\n\n"
+        f"Please return only a Python list of tuples. Each tuple should contain two phrases, formatted as:\n"
+        f"[('description 1-1', 'description 1-2'), ('description 2-1', 'description 2-2'), ...]\n\n"
+        f"Now generate the phrase pairs for the object: **{object_name}**\n"
+        f"Output:\n"
+    )
+    return prompt
+
+
+
+
+def build_transform_global_prompt(object_name: str, reference_text: str, reference_scene: str, max_attributes=1) -> str:
+
+    if max_attributes == 0:
+        return (
+            f"You are given an object name. Your task is to generate up to 5 phrase pairs that describe the same object "
+            f"with only the **scene attribute changed**.\n\n"
+            f"- Each pair must refer to the exact same object, but in different scenes.\n"
+            f"- The phrases should be natural and descriptive, such as:\n"
+            f"  ('a red umbrella in rainy day', 'a red umbrella in sunny day')\n"
+            f"- Use everyday, human-like language that might appear in image captions or edit instructions.\n"
+            f"- Only vary the scene in each pair — do not change any other attributes like material, size, or shape.\n"
+            f"- You may reference the following scenes:\n{reference_scene}\n\n"
+            f"Output only the result as a Python list of string pairs, in the format:\n"
+            f"[('description 1-1', 'description 1-2'), ('description 2-1', 'description 2-2'), ...]\n\n"
+            f"Now, generate the scene-change phrase pairs for the object: {object_name}\nOutput:\n"
+        )
+    else:
+        return (
+            f"You are given an object name. Your task is to generate up to 5 phrase pairs that describe the same object "
+            f"with only the **scene attribute changed**.\n\n"
+            f"- Each pair must refer to the exact same object, but in different scenes.\n"
+            f"- The phrases should be natural and descriptive, such as:\n"
+            f"  ('a red umbrella in rainy day', 'a red umbrella in sunny day')\n"
+            f"- Use everyday, human-like language that might appear in image captions or edit instructions.\n"
+            f"- Only vary the scene in each pair — do not change any other attributes like material, size, or shape.\n"
+            f"- You may reference the following scenes:\n{reference_scene}\n\n"
+            f"You can also add {max_attributes} other attributes, such as material, state, size, position, or style to describe the object or the scene. But the difference should only be in the scene attribute. Here are some reference values for other attributes:\n{reference_text}\n\n"
+            f"Output only the result as a Python list of string pairs, in the format:\n"
+            f"[('description 1-1', 'description 1-2'), ('description 2-1', 'description 2-2'), ...]\n\n"
+            f"Now, generate the scene-change phrase pairs for the object: {object_name}\nOutput:\n"
+        )
+
+
+
+def build_replace_prompt(object_name: str, reference_text: str, max_attributes=1) -> str:
+
+    if max_attributes==0:
+        return f"""
+You are given an object name and asked to generate a list of **natural and plausible phrase pairs**, where each pair describes two objects that can reasonably **replace each other** in a scene.
+
+- Each phrase should be short and descriptive, suitable for use in visual editing prompts or image descriptions.
+- Use **common or creative substitutions**, as long as they are visually plausible in some context. For example:
+(a apple, a watermelon)
+- Use **common or creative substitutions**, as long as they are visually plausible in some context.
+
+Return only a list of 5 phrase pairs in this format:
+[
+("phrase1-1", "phrase1-2"),
+("phrase2-1", "phrase2-2"),
+...
+]
+
+Please output the results for the object: {object_name}
+Output:\n 
+"""
+    else:
+        return f"""
+You are given an object name and asked to generate a list of **natural and plausible phrase pairs**, where each pair describes two objects that can reasonably **replace each other** in a scene.
+
+- Each phrase should be short and descriptive, suitable for use in visual editing prompts or image descriptions.
+- Replacements can vary in **type, category, function, or style** — they should **not** have the same identity.
+- Use **common or creative substitutions**, as long as they are visually plausible in some context. For example:
+(a red apple, a green watermelon)
+- Each phrase may contain **up to {max_attributes} attribute{'s' if max_attributes > 1 else ''}**, such as color, material, shape, size, or function.
+
+Reference attribute keywords for inspiration:
+{reference_text}
+
+Return only a list of 5 phrase pairs in this format:
+[
+("phrase1-1", "phrase1-2"),
+("phrase2-1", "phrase2-2"),
+...
+]
+
+Please output the results for the object: {object_name}
+Output:\n 
+"""

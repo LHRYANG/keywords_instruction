@@ -1,0 +1,7754 @@
+[
+  {
+    "object": "shower",
+    "expanded_keywords": [
+      [
+        "a yellow shower curtain",
+        "a red shower curtain"
+      ],
+      [
+        "an orange shower curtain",
+        "a coral shower curtain"
+      ],
+      [
+        "a greige shower curtain",
+        "a charcoal shower curtain"
+      ],
+      [
+        "a brown shower curtain",
+        "a tan shower curtain"
+      ],
+      [
+        "a shiny yellow shower curtain",
+        "a shiny red shower curtain"
+      ]
+    ]
+  },
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a yellow tree",
+        "a red tree"
+      ],
+      [
+        "an orange tree",
+        "a coral tree"
+      ],
+      [
+        "a greige tree",
+        "a charcoal tree"
+      ],
+      [
+        "a brown tree",
+        "a tan tree"
+      ],
+      [
+        "a leafy tree",
+        "a icy tree"
+      ]
+    ]
+  },
+  {
+    "object": "stem",
+    "expanded_keywords": [
+      [
+        "a green stem",
+        "a yellow stem"
+      ],
+      [
+        "an orange stem",
+        "a tan stem"
+      ],
+      [
+        "a coral stem",
+        "a greige stem"
+      ],
+      [
+        "a brown stem",
+        "a charcoal stem"
+      ],
+      [
+        "a red stem",
+        "a white stem"
+      ]
+    ]
+  },
+  {
+    "object": "bird",
+    "expanded_keywords": [
+      [
+        "a yellow bird",
+        "a red bird"
+      ],
+      [
+        "an orange bird",
+        "a coral bird"
+      ],
+      [
+        "a greige bird",
+        "a charcoal bird"
+      ],
+      [
+        "a brown bird",
+        "a tan bird"
+      ],
+      [
+        "a shiny yellow bird",
+        "a shiny red bird"
+      ]
+    ]
+  },
+  {
+    "object": "helmet",
+    "expanded_keywords": [
+      [
+        "a yellow helmet",
+        "a red helmet"
+      ],
+      [
+        "an orange helmet",
+        "a coral helmet"
+      ],
+      [
+        "a greige helmet",
+        "a charcoal helmet"
+      ],
+      [
+        "a brown helmet",
+        "a tan helmet"
+      ],
+      [
+        "a shiny yellow helmet",
+        "a shiny red helmet"
+      ]
+    ]
+  },
+  {
+    "object": "book",
+    "expanded_keywords": [
+      [
+        "a yellow book",
+        "a red book"
+      ],
+      [
+        "an orange book with notes",
+        "a greige book with notes"
+      ],
+      [
+        "a coral book on the shelf",
+        "a charcoal book on the shelf"
+      ],
+      [
+        "a brown book with leather cover",
+        "a tan book with leather cover"
+      ],
+      [
+        "a yellow bookshelf",
+        "a red bookshelf"
+      ]
+    ]
+  },
+  {
+    "object": "face",
+    "expanded_keywords": [
+      [
+        "a face with yellow cheeks",
+        "a face with red cheeks"
+      ],
+      [
+        "a face with orange eyes",
+        "a face with coral eyes"
+      ],
+      [
+        "a face with greige lips",
+        "a face with charcoal lips"
+      ],
+      [
+        "a face with brown skin",
+        "a face with tan skin"
+      ],
+      [
+        "a face with shiny skin",
+        "a face with gradient skin"
+      ]
+    ]
+  },
+  {
+    "object": "water",
+    "expanded_keywords": [
+      [
+        "a yellow water droplet",
+        "a red water droplet"
+      ],
+      [
+        "a coral water droplet",
+        "a greige water droplet"
+      ],
+      [
+        "a brown water droplet",
+        "a tan water droplet"
+      ],
+      [
+        "a yellow water splash",
+        "a red water splash"
+      ],
+      [
+        "a coral water droplet with ripples",
+        "a greige water droplet with ripples"
+      ]
+    ]
+  },
+  {
+    "object": "ferret",
+    "expanded_keywords": [
+      [
+        "a yellow ferret",
+        "a red ferret"
+      ],
+      [
+        "an orange ferret",
+        "a coral ferret"
+      ],
+      [
+        "a greige ferret",
+        "a charcoal ferret"
+      ],
+      [
+        "a brown ferret",
+        "a tan ferret"
+      ],
+      [
+        "a fluffy yellow ferret",
+        "a silky red ferret"
+      ]
+    ]
+  },
+  {
+    "object": "sandwich",
+    "expanded_keywords": [
+      [
+        "a yellow sandwich",
+        "a red sandwich"
+      ],
+      [
+        "an orange sandwich",
+        "a coral sandwich"
+      ],
+      [
+        "a greige sandwich",
+        "a charcoal sandwich"
+      ],
+      [
+        "a brown sandwich",
+        "a tan sandwich"
+      ],
+      [
+        "a shiny yellow sandwich",
+        "a shiny red sandwich"
+      ]
+    ]
+  },
+  {
+    "object": "ipod",
+    "expanded_keywords": [
+      [
+        "an orange iPod",
+        "a yellow iPod"
+      ],
+      [
+        "a coral iPod",
+        "a greige iPod"
+      ],
+      [
+        "a tan iPod",
+        "a red iPod"
+      ],
+      [
+        "a brown iPod",
+        "a charcoal iPod"
+      ],
+      [
+        "a green iPod",
+        "a white iPod"
+      ]
+    ]
+  },
+  {
+    "object": "bird",
+    "expanded_keywords": [
+      [
+        "a yellow bird",
+        "a red bird"
+      ],
+      [
+        "an orange bird",
+        "a coral bird"
+      ],
+      [
+        "a greige bird",
+        "a charcoal bird"
+      ],
+      [
+        "a brown bird",
+        "a tan bird"
+      ],
+      [
+        "a shiny yellow bird",
+        "a shiny red bird"
+      ]
+    ]
+  },
+  {
+    "object": "building",
+    "expanded_keywords": [
+      [
+        "a yellow building",
+        "a red building"
+      ],
+      [
+        "an orange building",
+        "a greige building"
+      ],
+      [
+        "a coral building",
+        "a charcoal building"
+      ],
+      [
+        "a brown building",
+        "a tan building"
+      ],
+      [
+        "a white building with a sign",
+        "a blue building with a sign"
+      ]
+    ]
+  },
+  {
+    "object": "bookshelf",
+    "expanded_keywords": [
+      [
+        "a yellow bookshelf",
+        "a red bookshelf"
+      ],
+      [
+        "an orange bookshelf",
+        "a coral bookshelf"
+      ],
+      [
+        "a greige bookshelf",
+        "a charcoal bookshelf"
+      ],
+      [
+        "a brown bookshelf",
+        "a tan bookshelf"
+      ],
+      [
+        "a floral yellow bookshelf",
+        "a shiny red bookshelf"
+      ]
+    ]
+  },
+  {
+    "object": "comet",
+    "expanded_keywords": [
+      [
+        "a yellow comet",
+        "a red comet"
+      ],
+      [
+        "an orange comet",
+        "a coral comet"
+      ],
+      [
+        "a greige comet",
+        "a charcoal comet"
+      ],
+      [
+        "a brown comet",
+        "a tan comet"
+      ],
+      [
+        "a shiny yellow comet",
+        "a shiny red comet"
+      ]
+    ]
+  },
+  {
+    "object": "person",
+    "expanded_keywords": [
+      [
+        "a yellow person",
+        "a red person"
+      ],
+      [
+        "an orange person",
+        "a coral person"
+      ],
+      [
+        "a greige person",
+        "a charcoal person"
+      ],
+      [
+        "a brown person",
+        "a tan person"
+      ],
+      [
+        "a floral yellow person",
+        "a shiny red person"
+      ]
+    ]
+  },
+  {
+    "object": "monitor",
+    "expanded_keywords": [
+      [
+        "a red monitor",
+        "a plum monitor"
+      ],
+      [
+        "a blue monitor",
+        "a cream white monitor"
+      ],
+      [
+        "a white monitor",
+        "an aqua monitor"
+      ],
+      [
+        "an olive monitor",
+        "a brown monitor"
+      ]
+    ]
+  },
+  {
+    "object": "woman",
+    "expanded_keywords": [
+      [
+        "a woman in a red dress",
+        "a woman in a plum dress"
+      ],
+      [
+        "a woman in a blue dress",
+        "a woman in a cream white dress"
+      ],
+      [
+        "a woman in a white dress",
+        "a woman in a brown dress"
+      ],
+      [
+        "a woman in an aqua dress",
+        "a woman in an olive dress"
+      ],
+      [
+        "a woman in a plum dress",
+        "a woman in a blue dress"
+      ]
+    ]
+  },
+  {
+    "object": "classic",
+    "expanded_keywords": [
+      [
+        "a classic car",
+        "a plum classic car"
+      ],
+      [
+        "a classic leather sofa",
+        "a blue classic leather sofa"
+      ],
+      [
+        "a classic watch",
+        "a cream white classic watch"
+      ],
+      [
+        "a classic painting",
+        "a white classic painting"
+      ],
+      [
+        "a classic pair of glasses",
+        "an aqua classic pair of glasses"
+      ]
+    ]
+  },
+  {
+    "object": "silhouette",
+    "expanded_keywords": [
+      [
+        "a plum silhouette",
+        "a blue silhouette"
+      ],
+      [
+        "an olive silhouette",
+        "a cream white silhouette"
+      ],
+      [
+        "a brown silhouette",
+        "a red silhouette"
+      ],
+      [
+        "a white silhouette",
+        "a plum silhouette"
+      ],
+      [
+        "a aqua silhouette",
+        "a cream white silhouette"
+      ]
+    ]
+  },
+  {
+    "object": "butterfly",
+    "expanded_keywords": [
+      [
+        "a plum-colored butterfly",
+        "a blue-colored butterfly"
+      ],
+      [
+        "a cream white-colored butterfly",
+        "a white-colored butterfly"
+      ],
+      [
+        "a red-colored butterfly",
+        "an aqua-colored butterfly"
+      ],
+      [
+        "an olive-colored butterfly",
+        "a brown-colored butterfly"
+      ],
+      [
+        "a white-colored butterfly with orange spots",
+        "a blue-colored butterfly with orange spots"
+      ]
+    ]
+  },
+  {
+    "object": "leaf",
+    "expanded_keywords": [
+      [
+        "a red leaf",
+        "a plum leaf"
+      ],
+      [
+        "a blue leaf",
+        "a cream white leaf"
+      ],
+      [
+        "a white leaf",
+        "an aqua leaf"
+      ],
+      [
+        "an olive leaf",
+        "a brown leaf"
+      ],
+      [
+        "a sunset-colored leaf",
+        "a late afternoon leaf"
+      ]
+    ]
+  },
+  {
+    "object": "boat",
+    "expanded_keywords": [
+      [
+        "a red boat",
+        "a plum boat"
+      ],
+      [
+        "a blue boat",
+        "a cream white boat"
+      ],
+      [
+        "a white boat",
+        "an aqua boat"
+      ],
+      [
+        "an olive boat",
+        "a brown boat"
+      ],
+      [
+        "a sunset-colored boat",
+        "a midnight-colored boat"
+      ]
+    ]
+  },
+  {
+    "object": "vine",
+    "expanded_keywords": [
+      [
+        "a red vine",
+        "a plum vine"
+      ],
+      [
+        "a blue vine",
+        "a cream white vine"
+      ],
+      [
+        "a white vine",
+        "an aqua vine"
+      ],
+      [
+        "an olive vine",
+        "a brown vine"
+      ],
+      [
+        "a sunset-colored vine",
+        "a midnight-colored vine"
+      ]
+    ]
+  },
+  {
+    "object": "cone",
+    "expanded_keywords": [
+      [
+        "a cone in red",
+        "a cone in plum"
+      ],
+      [
+        "a cone in blue",
+        "a cone in cream white"
+      ],
+      [
+        "a cone in cream white",
+        "a cone in white"
+      ],
+      [
+        "a cone in aqua",
+        "a cone in olive"
+      ],
+      [
+        "a cone in brown",
+        "a cone in blue"
+      ]
+    ]
+  },
+  {
+    "object": "ball",
+    "expanded_keywords": [
+      [
+        "a red ball",
+        "a plum ball"
+      ],
+      [
+        "a blue ball",
+        "a cream white ball"
+      ],
+      [
+        "a white ball",
+        "an aqua ball"
+      ],
+      [
+        "an olive ball",
+        "a brown ball"
+      ],
+      [
+        "a sunset ball",
+        "a midnight ball"
+      ]
+    ]
+  },
+  {
+    "object": "ski",
+    "expanded_keywords": [
+      [
+        "a ski in red",
+        "a ski in plum"
+      ],
+      [
+        "a ski in blue",
+        "a ski in cream white"
+      ],
+      [
+        "a ski in white",
+        "a ski in aqua"
+      ],
+      [
+        "a ski in olive",
+        "a ski in brown"
+      ],
+      [
+        "a red ski",
+        "a blue ski"
+      ]
+    ]
+  },
+  {
+    "object": "log",
+    "expanded_keywords": [
+      [
+        "a brown log",
+        "a cream white log"
+      ],
+      [
+        "an olive log",
+        "a plum log"
+      ],
+      [
+        "a red log",
+        "a blue log"
+      ],
+      [
+        "a white log",
+        "an aqua log"
+      ],
+      [
+        "a brown log with carvings",
+        "a white log with carvings"
+      ]
+    ]
+  },
+  {
+    "object": "umbrella",
+    "expanded_keywords": [
+      [
+        "a red umbrella",
+        "a plum umbrella"
+      ],
+      [
+        "a blue umbrella",
+        "a cream white umbrella"
+      ],
+      [
+        "a white umbrella",
+        "an aqua umbrella"
+      ],
+      [
+        "an olive umbrella",
+        "a brown umbrella"
+      ],
+      [
+        "a red umbrella with flowers",
+        "a white umbrella with flowers"
+      ]
+    ]
+  },
+  {
+    "object": "pillow",
+    "expanded_keywords": [
+      [
+        "a plum pillow",
+        "a blue pillow"
+      ],
+      [
+        "a cream white pillow",
+        "a white pillow"
+      ],
+      [
+        "a red pillow",
+        "an aqua pillow"
+      ],
+      [
+        "a brown pillow",
+        "a olive pillow"
+      ],
+      [
+        "a sunset pillow",
+        "a late afternoon pillow"
+      ]
+    ]
+  },
+  {
+    "object": "flash",
+    "expanded_keywords": [
+      [
+        "a flash in blue",
+        "a flash in plum"
+      ],
+      [
+        "a flash in cream white",
+        "a flash in white"
+      ],
+      [
+        "a flash in aqua",
+        "a flash in olive"
+      ],
+      [
+        "a flash in brown",
+        "a flash in red"
+      ]
+    ]
+  },
+  {
+    "object": "heart",
+    "expanded_keywords": [
+      [
+        "a red heart",
+        "a plum heart"
+      ],
+      [
+        "an aqua heart",
+        "an olive heart"
+      ],
+      [
+        "a cream white heart",
+        "a brown heart"
+      ],
+      [
+        "a white heart",
+        "a blue heart"
+      ],
+      [
+        "a pink heart",
+        "a cream white heart"
+      ]
+    ]
+  },
+  {
+    "object": "headphone",
+    "expanded_keywords": [
+      [
+        "a silver headphone",
+        "a red headphone"
+      ],
+      [
+        "a fuchsia headphone",
+        "a coral headphone"
+      ],
+      [
+        "a cream white headphone",
+        "a white headphone"
+      ],
+      [
+        "a salmon headphone",
+        "a silver headphone"
+      ]
+    ]
+  },
+  {
+    "object": "butterfly",
+    "expanded_keywords": [
+      [
+        "a silver butterfly",
+        "a red butterfly"
+      ],
+      [
+        "a fuchsia butterfly",
+        "a coral butterfly"
+      ],
+      [
+        "a cream white butterfly",
+        "a white butterfly"
+      ],
+      [
+        "a salmon butterfly",
+        "a silver butterfly"
+      ]
+    ]
+  },
+  {
+    "object": "star",
+    "expanded_keywords": [
+      [
+        "a silver star",
+        "a red star"
+      ],
+      [
+        "a fuchsia star",
+        "a coral star"
+      ],
+      [
+        "a cream white star",
+        "a white star"
+      ],
+      [
+        "a salmon star",
+        "a silver star"
+      ],
+      [
+        "an ongoing silver star",
+        "an ongoing red star"
+      ]
+    ]
+  },
+  {
+    "object": "boat",
+    "expanded_keywords": [
+      [
+        "a silver boat",
+        "a red boat"
+      ],
+      [
+        "a fuchsia boat",
+        "a coral boat"
+      ],
+      [
+        "a cream white boat",
+        "a white boat"
+      ],
+      [
+        "a salmon boat",
+        "a silver boat"
+      ],
+      [
+        "an industrial textures boat",
+        "a fuchsia boat"
+      ]
+    ]
+  },
+  {
+    "object": "torch",
+    "expanded_keywords": [
+      [
+        "a silver torch",
+        "a red torch"
+      ],
+      [
+        "a fuchsia torch",
+        "a coral torch"
+      ],
+      [
+        "a cream white torch",
+        "a white torch"
+      ],
+      [
+        "a salmon torch",
+        "a silver torch"
+      ]
+    ]
+  },
+  {
+    "object": "canoe",
+    "expanded_keywords": [
+      [
+        "a silver canoe",
+        "a red canoe"
+      ],
+      [
+        "a fuchsia canoe",
+        "a coral canoe"
+      ],
+      [
+        "a cream white canoe",
+        "a white canoe"
+      ],
+      [
+        "a salmon canoe",
+        "a silver canoe"
+      ],
+      [
+        "a red canoe",
+        "a fuchsia canoe"
+      ]
+    ]
+  },
+  {
+    "object": "wall",
+    "expanded_keywords": [
+      [
+        "a silver wall",
+        "a red wall"
+      ],
+      [
+        "a fuchsia wall",
+        "a coral wall"
+      ],
+      [
+        "a cream white wall",
+        "a white wall"
+      ],
+      [
+        "a salmon wall",
+        "a silver wall"
+      ],
+      [
+        "a white wall",
+        "a fuchsia wall"
+      ]
+    ]
+  },
+  {
+    "object": "shirt",
+    "expanded_keywords": [
+      [
+        "a silver shirt",
+        "a red shirt"
+      ],
+      [
+        "a fuchsia shirt",
+        "a coral shirt"
+      ],
+      [
+        "a cream white shirt",
+        "a white shirt"
+      ],
+      [
+        "a salmon shirt",
+        "a silver shirt"
+      ],
+      [
+        "an ongoing red shirt",
+        "a fuchsia shirt"
+      ]
+    ]
+  },
+  {
+    "object": "basketball",
+    "expanded_keywords": [
+      [
+        "a silver basketball",
+        "a red basketball"
+      ],
+      [
+        "a fuchsia basketball",
+        "a coral basketball"
+      ],
+      [
+        "a cream white basketball",
+        "a white basketball"
+      ],
+      [
+        "a salmon basketball",
+        "a silver basketball"
+      ]
+    ]
+  },
+  {
+    "object": "football",
+    "expanded_keywords": [
+      [
+        "a silver football",
+        "a red football"
+      ],
+      [
+        "a fuchsia football",
+        "a coral football"
+      ],
+      [
+        "a cream white football",
+        "a white football"
+      ],
+      [
+        "a salmon football",
+        "a silver football"
+      ],
+      [
+        "an ongoing football match with a fuchsia ball",
+        "an ongoing football match with a cream white ball"
+      ]
+    ]
+  },
+  {
+    "object": "sailboat",
+    "expanded_keywords": [
+      [
+        "a silver sailboat",
+        "a red sailboat"
+      ],
+      [
+        "a fuchsia sailboat",
+        "a coral sailboat"
+      ],
+      [
+        "a cream white sailboat",
+        "a white sailboat"
+      ],
+      [
+        "a salmon sailboat",
+        "a silver sailboat"
+      ],
+      [
+        "an ongoing sailboat race on a fuchsia sailboat",
+        "an ongoing sailboat race on a white sailboat"
+      ]
+    ]
+  },
+  {
+    "object": "handbag",
+    "expanded_keywords": [
+      [
+        "a silver handbag",
+        "a red handbag"
+      ],
+      [
+        "a fuchsia handbag",
+        "a coral handbag"
+      ],
+      [
+        "a cream white handbag",
+        "a white handbag"
+      ],
+      [
+        "a salmon handbag",
+        "a silver handbag"
+      ],
+      [
+        "an iridescent handbag",
+        "a white handbag"
+      ]
+    ]
+  },
+  {
+    "object": "airplane",
+    "expanded_keywords": [
+      [
+        "a silver airplane",
+        "a red airplane"
+      ],
+      [
+        "a fuchsia airplane",
+        "a coral airplane"
+      ],
+      [
+        "a cream white airplane",
+        "a white airplane"
+      ],
+      [
+        "a salmon airplane",
+        "a silver airplane"
+      ],
+      [
+        "an ongoing silver airplane",
+        "an ongoing red airplane"
+      ]
+    ]
+  },
+  {
+    "object": "moon",
+    "expanded_keywords": [
+      [
+        "a silver moon shining brightly",
+        "a red moon shining brightly"
+      ],
+      [
+        "a fuchsia moon hanging in the sky",
+        "a coral moon hanging in the sky"
+      ],
+      [
+        "a cream white moon in a clear night",
+        "a white moon in a clear night"
+      ],
+      [
+        "a salmon moon with stars around",
+        "a silver moon with stars around"
+      ],
+      [
+        "an orange moon rising over the horizon",
+        "a fuchsia moon rising over the horizon"
+      ]
+    ]
+  },
+  {
+    "object": "chimney",
+    "expanded_keywords": [
+      [
+        "a silver chimney",
+        "a red chimney"
+      ],
+      [
+        "a fuchsia chimney",
+        "a coral chimney"
+      ],
+      [
+        "a cream white chimney",
+        "a white chimney"
+      ],
+      [
+        "a salmon chimney",
+        "a silver chimney"
+      ]
+    ]
+  },
+  {
+    "object": "gun",
+    "expanded_keywords": [
+      [
+        "a silver gun",
+        "a red gun"
+      ],
+      [
+        "a fuchsia gun",
+        "a coral gun"
+      ],
+      [
+        "a cream white gun",
+        "a white gun"
+      ],
+      [
+        "a salmon gun",
+        "a silver gun"
+      ],
+      [
+        "an ongoing gun",
+        "a fuchsia gun"
+      ]
+    ]
+  },
+  {
+    "object": "trophy",
+    "expanded_keywords": [
+      [
+        "a gray trophy",
+        "a maroon trophy"
+      ],
+      [
+        "a white trophy",
+        "an olive trophy"
+      ],
+      [
+        "a rose trophy",
+        "a salmon trophy"
+      ],
+      [
+        "a broad gray trophy",
+        "a broad maroon trophy"
+      ],
+      [
+        "a trophy with a white base",
+        "a trophy with a rose base"
+      ]
+    ]
+  },
+  {
+    "object": "cat",
+    "expanded_keywords": [
+      [
+        "a gray cat",
+        "a maroon cat"
+      ],
+      [
+        "a white cat with a black spot",
+        "an olive cat with a black spot"
+      ],
+      [
+        "a rose cat",
+        "a salmon cat"
+      ],
+      [
+        "a gray cat sleeping",
+        "a white cat sleeping"
+      ],
+      [
+        "a gray cat on a windowsill",
+        "a maroon cat on a windowsill"
+      ]
+    ]
+  },
+  {
+    "object": "banana",
+    "expanded_keywords": [
+      [
+        "a yellow banana",
+        "a gray banana"
+      ],
+      [
+        "a ripe yellow banana",
+        "a maroon banana"
+      ],
+      [
+        "a green banana",
+        "a white banana"
+      ],
+      [
+        "a nearly ripe yellow banana with brown spots",
+        "a rose banana"
+      ],
+      [
+        "a bright yellow banana",
+        "a aqua banana"
+      ]
+    ]
+  },
+  {
+    "object": "bicycle",
+    "expanded_keywords": [
+      [
+        "a gray bicycle",
+        "a maroon bicycle"
+      ],
+      [
+        "a white bicycle",
+        "an olive bicycle"
+      ],
+      [
+        "a rose bicycle",
+        "a salmon bicycle"
+      ],
+      [
+        "a gray bicycle with a basket",
+        "a white bicycle with a basket"
+      ],
+      [
+        "a maroon bicycle parked near a tree",
+        "a rose bicycle parked near a tree"
+      ]
+    ]
+  },
+  {
+    "object": "crayon",
+    "expanded_keywords": [
+      [
+        "a gray crayon",
+        "a maroon crayon"
+      ],
+      [
+        "a white crayon",
+        "a rose crayon"
+      ],
+      [
+        "a salmon crayon",
+        "an aqua crayon"
+      ],
+      [
+        "Note: This is a fabricated example",
+        "as crayons are not typically olive or salmon in color"
+      ],
+      [
+        "a broad gray crayon",
+        "a broad maroon crayon"
+      ]
+    ]
+  },
+  {
+    "object": "book",
+    "expanded_keywords": [
+      [
+        "a gray book",
+        "a maroon book"
+      ],
+      [
+        "a white book with a bookmark",
+        "a rose book with a bookmark"
+      ],
+      [
+        "a slim gray book",
+        "a deep olive book"
+      ],
+      [
+        "a transparent aqua book",
+        "a salmon colored book"
+      ],
+      [
+        "an IKEA printed gray book",
+        "a snowy winter white book"
+      ]
+    ]
+  },
+  {
+    "object": "bike",
+    "expanded_keywords": [
+      [
+        "a gray bike",
+        "a maroon bike"
+      ],
+      [
+        "a white bike",
+        "an olive bike"
+      ],
+      [
+        "a rose bike",
+        "a salmon bike"
+      ],
+      [
+        "a gray bike with a basket",
+        "a white bike with a basket"
+      ],
+      [
+        "a bike parked at the curb",
+        "a bike parked in the garage"
+      ]
+    ]
+  },
+  {
+    "object": "ferry",
+    "expanded_keywords": [
+      [
+        "a gray ferry",
+        "a maroon ferry"
+      ],
+      [
+        "a white ferry",
+        "an olive ferry"
+      ],
+      [
+        "a rose ferry",
+        "a salmon ferry"
+      ],
+      [
+        "a broad gray ferry",
+        "a broad maroon ferry"
+      ],
+      [
+        "a ferry lifting heavy cargo",
+        "a ferry lifting light cargo"
+      ]
+    ]
+  },
+  {
+    "object": "tuba",
+    "expanded_keywords": [
+      [
+        "a gray tuba",
+        "a maroon tuba"
+      ],
+      [
+        "a white tuba",
+        "an olive tuba"
+      ],
+      [
+        "a rose tuba",
+        "a salmon tuba"
+      ],
+      [
+        "a broad gray tuba",
+        "a broad maroon tuba"
+      ],
+      [
+        "a lifting white tuba",
+        "a lifting olive tuba"
+      ]
+    ]
+  },
+  {
+    "object": "cup",
+    "expanded_keywords": [
+      [
+        "a gray cup",
+        "a maroon cup"
+      ],
+      [
+        "a white cup",
+        "a rose cup"
+      ],
+      [
+        "a slim gray cup",
+        "a slim maroon cup"
+      ],
+      [
+        "a transparent gray cup",
+        "a transparent maroon cup"
+      ],
+      [
+        "an aqua cup",
+        "an olive cup"
+      ]
+    ]
+  },
+  {
+    "object": "heart",
+    "expanded_keywords": [
+      [
+        "a gray heart",
+        "a maroon heart"
+      ],
+      [
+        "a white heart",
+        "a rose heart"
+      ],
+      [
+        "an aqua heart",
+        "an olive heart"
+      ],
+      [
+        "a salmon heart",
+        "a gray heart"
+      ],
+      [
+        "a black heart",
+        "a white heart"
+      ]
+    ]
+  },
+  {
+    "object": "spotlight",
+    "expanded_keywords": [
+      [
+        "a gray spotlight",
+        "a maroon spotlight"
+      ],
+      [
+        "a white spotlight",
+        "an olive spotlight"
+      ],
+      [
+        "a rose spotlight",
+        "a salmon spotlight"
+      ],
+      [
+        "a deep gray spotlight",
+        "a broad maroon spotlight"
+      ],
+      [
+        "a textured white spotlight",
+        "a monochrome olive spotlight"
+      ]
+    ]
+  },
+  {
+    "object": "bottle",
+    "expanded_keywords": [
+      [
+        "a gray bottle",
+        "a maroon bottle"
+      ],
+      [
+        "a white bottle",
+        "a rose bottle"
+      ],
+      [
+        "a salmon bottle",
+        "an aqua bottle"
+      ],
+      [
+        "a gray bottle with a label",
+        "a white bottle with a label"
+      ],
+      [
+        "a olive bottle",
+        "a deep gray bottle"
+      ]
+    ]
+  },
+  {
+    "object": "hummingbird",
+    "expanded_keywords": [
+      [
+        "a gray hummingbird",
+        "a maroon hummingbird"
+      ],
+      [
+        "a white hummingbird",
+        "a rose hummingbird"
+      ],
+      [
+        "a salmon hummingbird",
+        "an aqua hummingbird"
+      ],
+      [
+        "a olive hummingbird",
+        "a gray hummingbird with a white collar"
+      ],
+      [
+        "a broad hummingbird",
+        "a maroon hummingbird with green wings"
+      ]
+    ]
+  },
+  {
+    "object": "athlete",
+    "expanded_keywords": [
+      [
+        "a gray athlete",
+        "a maroon athlete"
+      ],
+      [
+        "an olive athlete",
+        "a white athlete"
+      ],
+      [
+        "a rose athlete",
+        "a salmon athlete"
+      ],
+      [
+        "a gray athlete with a broad posture",
+        "a white athlete with a slim posture"
+      ],
+      [
+        "a gray athlete lifting weights",
+        "a maroon athlete throwing a ball"
+      ]
+    ]
+  },
+  {
+    "object": "backpack",
+    "expanded_keywords": [
+      [
+        "a gray backpack",
+        "a maroon backpack"
+      ],
+      [
+        "a white backpack",
+        "an olive backpack"
+      ],
+      [
+        "a rose backpack",
+        "a salmon backpack"
+      ],
+      [
+        "a gray backpack with wheels",
+        "a white backpack with wheels"
+      ],
+      [
+        "a maroon backpack with a strap across the front",
+        "a rose backpack with a strap across the front"
+      ]
+    ]
+  },
+  {
+    "object": "column",
+    "expanded_keywords": [
+      [
+        "a beige column",
+        "a cream column"
+      ],
+      [
+        "a navy column",
+        "an aqua column"
+      ],
+      [
+        "a gold column",
+        "a brown column"
+      ],
+      [
+        "an indigo column",
+        "a white column"
+      ],
+      [
+        "a green column",
+        "a mocha column"
+      ]
+    ]
+  },
+  {
+    "object": "jean",
+    "expanded_keywords": [
+      [
+        "a navy jean jacket",
+        "a beige jean jacket"
+      ],
+      [
+        "a cream jean skirt",
+        "a brown jean skirt"
+      ],
+      [
+        "a aqua jean shorts",
+        "a gold jean shorts"
+      ],
+      [
+        "a indigo jean pants",
+        "a mocha jean pants"
+      ],
+      [
+        "a white jean dress",
+        "a silver jean dress"
+      ]
+    ]
+  },
+  {
+    "object": "walkway",
+    "expanded_keywords": [
+      [
+        "a beige walkway",
+        "a cream walkway"
+      ],
+      [
+        "a navy walkway",
+        "a brown walkway"
+      ],
+      [
+        "an indigo walkway",
+        "an aqua walkway"
+      ],
+      [
+        "a white walkway",
+        "a gold walkway"
+      ],
+      [
+        "a grey walkway",
+        "a mocha walkway"
+      ]
+    ]
+  },
+  {
+    "object": "pinotti",
+    "expanded_keywords": [
+      [
+        "a beige Pinotti chair",
+        "a cream Pinotti chair"
+      ],
+      [
+        "a navy Pinotti chair",
+        "an aqua Pinotti chair"
+      ],
+      [
+        "a gold Pinotti chair",
+        "a brown Pinotti chair"
+      ],
+      [
+        "an indigo Pinotti chair",
+        "a mocha Pinotti chair"
+      ],
+      [
+        "a beige Pinotti chair with intricate carvings",
+        "a cream Pinotti chair with intricate carvings"
+      ]
+    ]
+  },
+  {
+    "object": "kettle",
+    "expanded_keywords": [
+      [
+        "a navy kettle",
+        "a beige kettle"
+      ],
+      [
+        "an aqua kettle",
+        "a cream kettle"
+      ],
+      [
+        "a gold kettle",
+        "a brown kettle"
+      ],
+      [
+        "an indigo kettle",
+        "a navy kettle"
+      ],
+      [
+        "a silver kettle",
+        "a mocha kettle"
+      ]
+    ]
+  },
+  {
+    "object": "earring",
+    "expanded_keywords": [
+      [
+        "a beige earring",
+        "a cream earring"
+      ],
+      [
+        "a navy earring",
+        "an aqua earring"
+      ],
+      [
+        "a gold earring",
+        "a brown earring"
+      ],
+      [
+        "an indigo earring",
+        "a beige earring"
+      ],
+      [
+        "a cream earring",
+        "a navy earring"
+      ]
+    ]
+  },
+  {
+    "object": "witch",
+    "expanded_keywords": [
+      [
+        "a witch wearing a navy cloak",
+        "a witch wearing a beige cloak"
+      ],
+      [
+        "a witch with a gold wand",
+        "a witch with a cream wand"
+      ],
+      [
+        "a witch standing in the moonlit forest",
+        "a witch standing in the cream forest"
+      ],
+      [
+        "a witch with indigo eyes",
+        "a witch with aqua eyes"
+      ],
+      [
+        "a witch riding a brown broomstick",
+        "a witch riding a navy broomstick"
+      ]
+    ]
+  },
+  {
+    "object": "arch",
+    "expanded_keywords": [
+      [
+        "an arch in beige",
+        "an arch in cream"
+      ],
+      [
+        "an arch in navy",
+        "an arch in aqua"
+      ],
+      [
+        "an arch in gold",
+        "an arch in brown"
+      ],
+      [
+        "an arch in indigo",
+        "an arch in beige"
+      ],
+      [
+        "an arch in cream",
+        "an arch in navy"
+      ]
+    ]
+  },
+  {
+    "object": "vase",
+    "expanded_keywords": [
+      [
+        "a beige vase",
+        "a cream vase"
+      ],
+      [
+        "a navy vase",
+        "an aqua vase"
+      ],
+      [
+        "a gold vase",
+        "a brown vase"
+      ],
+      [
+        "an indigo vase",
+        "a beige vase"
+      ],
+      [
+        "a cream vase",
+        "a navy vase"
+      ]
+    ]
+  },
+  {
+    "object": "signboard",
+    "expanded_keywords": [
+      [
+        "a beige signboard",
+        "a cream signboard"
+      ],
+      [
+        "a navy signboard",
+        "an aqua signboard"
+      ],
+      [
+        "a gold signboard",
+        "a brown signboard"
+      ],
+      [
+        "an indigo signboard",
+        "a beige signboard with neon-lit text"
+      ],
+      [
+        "a cream signboard with weathered surface",
+        "a navy signboard with weathered surface"
+      ]
+    ]
+  },
+  {
+    "object": "picture",
+    "expanded_keywords": [
+      [
+        "a picture framed in gold",
+        "a picture framed in navy"
+      ],
+      [
+        "a picture on a brown wall",
+        "a picture on a cream wall"
+      ],
+      [
+        "a picture with a fractal-textured frame",
+        "a picture with a glowing frame"
+      ],
+      [
+        "a picture displayed in a museum",
+        "a picture displayed in a gallery"
+      ],
+      [
+        "a picture showing a sunset",
+        "a picture showing a sunrise"
+      ]
+    ]
+  },
+  {
+    "object": "pasta",
+    "expanded_keywords": [
+      [
+        "a pasta in beige",
+        "a pasta in cream"
+      ],
+      [
+        "a pasta in navy",
+        "a pasta in aqua"
+      ],
+      [
+        "a pasta in gold",
+        "a pasta in brown"
+      ],
+      [
+        "a pasta in indigo",
+        "a pasta in silver"
+      ]
+    ]
+  },
+  {
+    "object": "hand",
+    "expanded_keywords": [
+      [
+        "a beige hand",
+        "a cream hand"
+      ],
+      [
+        "a navy hand",
+        "an aqua hand"
+      ],
+      [
+        "a gold hand",
+        "a brown hand"
+      ],
+      [
+        "an indigo hand",
+        "a navy hand"
+      ],
+      [
+        "a beige hand",
+        "a gold hand"
+      ]
+    ]
+  },
+  {
+    "object": "sketch",
+    "expanded_keywords": [
+      [
+        "a sketch in beige",
+        "a sketch in cream"
+      ],
+      [
+        "a sketch in navy",
+        "a sketch in aqua"
+      ],
+      [
+        "a sketch in gold",
+        "a sketch in brown"
+      ],
+      [
+        "a sketch in indigo",
+        "a sketch in beige"
+      ],
+      [
+        "a sketch in cream",
+        "a sketch in mocha"
+      ]
+    ]
+  },
+  {
+    "object": "bench",
+    "expanded_keywords": [
+      [
+        "a beige bench",
+        "a cream bench"
+      ],
+      [
+        "a navy bench",
+        "an aqua bench"
+      ],
+      [
+        "a brown bench",
+        "a gold bench"
+      ],
+      [
+        "an indigo bench",
+        "a mocha bench"
+      ],
+      [
+        "a green bench",
+        "a silver bench"
+      ]
+    ]
+  },
+  {
+    "object": "cloth",
+    "expanded_keywords": [
+      [
+        "a beige cloth",
+        "a cream cloth"
+      ],
+      [
+        "a navy cloth",
+        "an aqua cloth"
+      ],
+      [
+        "a gold cloth",
+        "a brown cloth"
+      ],
+      [
+        "an indigo cloth",
+        "a beige cloth"
+      ],
+      [
+        "a cream cloth",
+        "a navy cloth"
+      ]
+    ]
+  },
+  {
+    "object": "tree root",
+    "expanded_keywords": [
+      [
+        "a purple tree root",
+        "a red tree root"
+      ],
+      [
+        "a magenta tree root",
+        "a lime tree root"
+      ],
+      [
+        "a canary yellow tree root",
+        "a coral tree root"
+      ],
+      [
+        "a navy tree root",
+        "a mauve tree root"
+      ],
+      [
+        "a purple tree root with mossy texture",
+        "a red tree root with bark-covered texture"
+      ]
+    ]
+  },
+  {
+    "object": "brown bag",
+    "expanded_keywords": [
+      [
+        "a brown bag",
+        "a purple bag"
+      ],
+      [
+        "a brown bag",
+        "a red bag"
+      ],
+      [
+        "a brown bag",
+        "a magenta bag"
+      ],
+      [
+        "a brown bag",
+        "a lime bag"
+      ],
+      [
+        "a brown bag",
+        "a canary yellow bag"
+      ]
+    ]
+  },
+  {
+    "object": "people observing",
+    "expanded_keywords": [
+      [
+        "people observing in purple robes",
+        "people observing in red robes"
+      ],
+      [
+        "people observing in magenta cloaks",
+        "people observing in lime jackets"
+      ],
+      [
+        "people observing in canary yellow hats",
+        "people observing in coral scarves"
+      ],
+      [
+        "people observing in navy coats",
+        "people observing in mauve shirts"
+      ]
+    ]
+  },
+  {
+    "object": "tree branch",
+    "expanded_keywords": [
+      [
+        "a purple tree branch",
+        "a red tree branch"
+      ],
+      [
+        "a magenta tree branch",
+        "a lime tree branch"
+      ],
+      [
+        "a canary yellow tree branch",
+        "a coral tree branch"
+      ],
+      [
+        "a navy tree branch",
+        "a mauve tree branch"
+      ],
+      [
+        "a magenta tree branch with mossy texture",
+        "a red tree branch with bark-covered texture"
+      ]
+    ]
+  },
+  {
+    "object": "few candle",
+    "expanded_keywords": [
+      [
+        "a few purple candles",
+        "a few red candles"
+      ],
+      [
+        "a few magenta candles",
+        "a few lime candles"
+      ],
+      [
+        "a few canary yellow candles",
+        "a few coral candles"
+      ],
+      [
+        "a few navy candles",
+        "a few mauve candles"
+      ],
+      [
+        "a few purple candles with wooden holders",
+        "a few red candles with wooden holders"
+      ]
+    ]
+  },
+  {
+    "object": "pope francis",
+    "expanded_keywords": [
+      [
+        "Pope Francis in a purple cassock",
+        "Pope Francis in a red cassock"
+      ],
+      [
+        "Pope Francis wearing a magenta hat",
+        "Pope Francis wearing a lime hat"
+      ],
+      [
+        "Pope Francis with a canary yellow stole",
+        "Pope Francis with a coral stole"
+      ],
+      [
+        "Pope Francis in a navy cloak",
+        "Pope Francis in a mauve cloak"
+      ]
+    ]
+  },
+  {
+    "object": "frozen water",
+    "expanded_keywords": [
+      [
+        "a frozen water puddle on the sidewalk",
+        "a magenta frozen water puddle on the sidewalk"
+      ],
+      [
+        "a purple ice patch from a frozen water spill",
+        "a red ice patch from a frozen water spill"
+      ],
+      [
+        "frozen water droplets glistening on a tree branch",
+        "magenta frozen water droplets glistening on a tree branch"
+      ],
+      [
+        "a block of frozen water in a clear container",
+        "a coral block of frozen water in a clear container"
+      ],
+      [
+        "icy patches of frozen water on the park paths",
+        "navy icy patches of frozen water on the park paths"
+      ]
+    ]
+  },
+  {
+    "object": "birthday hat",
+    "expanded_keywords": [
+      [
+        "a purple birthday hat",
+        "a red birthday hat"
+      ],
+      [
+        "a magenta birthday hat",
+        "a lime birthday hat"
+      ],
+      [
+        "a canary yellow birthday hat",
+        "a coral birthday hat"
+      ],
+      [
+        "a navy birthday hat",
+        "a mauve birthday hat"
+      ]
+    ]
+  },
+  {
+    "object": "white sheep",
+    "expanded_keywords": [
+      [
+        "a white sheep",
+        "a purple sheep"
+      ],
+      [
+        "a white sheep",
+        "a red sheep"
+      ],
+      [
+        "a white sheep",
+        "a magenta sheep"
+      ],
+      [
+        "a white sheep",
+        "a lime sheep"
+      ],
+      [
+        "a white sheep",
+        "a canary yellow sheep"
+      ]
+    ]
+  },
+  {
+    "object": "blue table",
+    "expanded_keywords": [
+      [
+        "a blue table",
+        "a purple table"
+      ],
+      [
+        "a blue table",
+        "a red table"
+      ],
+      [
+        "a blue table",
+        "a magenta table"
+      ],
+      [
+        "a blue table",
+        "a lime table"
+      ],
+      [
+        "a blue table",
+        "a canary yellow table"
+      ]
+    ]
+  },
+  {
+    "object": "doritos bag",
+    "expanded_keywords": [
+      [
+        "a doritos bag in purple",
+        "a doritos bag in red"
+      ],
+      [
+        "a doritos bag in magenta",
+        "a doritos bag in lime"
+      ],
+      [
+        "a doritos bag in canary yellow",
+        "a doritos bag in coral"
+      ],
+      [
+        "a doritos bag in navy",
+        "a doritos bag in mauve"
+      ],
+      [
+        "a doritos bag with holographic texture in canary yellow",
+        "a doritos bag with holographic texture in purple"
+      ]
+    ]
+  },
+  {
+    "object": "white shirt",
+    "expanded_keywords": [
+      [
+        "a white shirt",
+        "a purple shirt"
+      ],
+      [
+        "a white shirt",
+        "a red shirt"
+      ],
+      [
+        "a white shirt",
+        "a magenta shirt"
+      ],
+      [
+        "a white shirt",
+        "a lime shirt"
+      ],
+      [
+        "a white shirt",
+        "a canary yellow shirt"
+      ]
+    ]
+  },
+  {
+    "object": "center man",
+    "expanded_keywords": [
+      [
+        "a center man in purple",
+        "a center man in red"
+      ],
+      [
+        "a center man in magenta",
+        "a center man in lime"
+      ],
+      [
+        "a center man in canary yellow",
+        "a center man in coral"
+      ],
+      [
+        "a center man in navy",
+        "a center man in mauve"
+      ]
+    ]
+  },
+  {
+    "object": "drum set",
+    "expanded_keywords": [
+      [
+        "a purple drum set",
+        "a red drum set"
+      ],
+      [
+        "a magenta drum set",
+        "a lime drum set"
+      ],
+      [
+        "a canary yellow drum set",
+        "a coral drum set"
+      ],
+      [
+        "a navy drum set",
+        "a mauve drum set"
+      ],
+      [
+        "a magenta drum set with wooden legs",
+        "a lime drum set with metal legs"
+      ]
+    ]
+  },
+  {
+    "object": "yellow object",
+    "expanded_keywords": [
+      [
+        "a yellow object",
+        "a purple object"
+      ],
+      [
+        "a yellow object",
+        "a red object"
+      ],
+      [
+        "a yellow object",
+        "a magenta object"
+      ],
+      [
+        "a yellow object",
+        "a lime object"
+      ],
+      [
+        "a yellow object",
+        "a canary yellow object"
+      ]
+    ]
+  },
+  {
+    "object": "yellow leaf",
+    "expanded_keywords": [
+      [
+        "a yellow leaf",
+        "a purple leaf"
+      ],
+      [
+        "a yellow leaf",
+        "a red leaf"
+      ],
+      [
+        "a yellow leaf",
+        "a magenta leaf"
+      ],
+      [
+        "a yellow leaf",
+        "a lime leaf"
+      ],
+      [
+        "a yellow leaf",
+        "a canary yellow leaf"
+      ]
+    ]
+  },
+  {
+    "object": "tv",
+    "expanded_keywords": [
+      [
+        "a pumpkin-colored tv",
+        "a dusty rose tv"
+      ],
+      [
+        "an orange tv",
+        "a lemon tv"
+      ],
+      [
+        "a pink tv",
+        "a green tv"
+      ],
+      [
+        "a mint tv",
+        "a white tv"
+      ],
+      [
+        "a red tv",
+        "a blue tv"
+      ]
+    ]
+  },
+  {
+    "object": "squirrel",
+    "expanded_keywords": [
+      [
+        "a dusty rose squirrel",
+        "a pumpkin squirrel"
+      ],
+      [
+        "a green squirrel",
+        "a mint squirrel"
+      ],
+      [
+        "an orange squirrel",
+        "a pink squirrel"
+      ],
+      [
+        "a lemon squirrel",
+        "a green squirrel with sandy fur"
+      ],
+      [
+        "a pink squirrel",
+        "a dusty rose squirrel with mossy texture"
+      ]
+    ]
+  },
+  {
+    "object": "toy",
+    "expanded_keywords": [
+      [
+        "a dusty rose toy",
+        "an orange toy"
+      ],
+      [
+        "a lemon toy",
+        "a pink toy"
+      ],
+      [
+        "a green toy",
+        "a mint toy"
+      ],
+      [
+        "a pumpkin toy",
+        "a dusty rose toy"
+      ],
+      [
+        "an orange toy",
+        "a green toy"
+      ]
+    ]
+  },
+  {
+    "object": "flower",
+    "expanded_keywords": [
+      [
+        "a dusty rose flower",
+        "a pumpkin flower"
+      ],
+      [
+        "a lemon flower",
+        "a pink flower"
+      ],
+      [
+        "a green flower",
+        "a mint flower"
+      ],
+      [
+        "a orange flower",
+        "a dusty rose flower"
+      ],
+      [
+        "a white flower",
+        "a lemon flower"
+      ]
+    ]
+  },
+  {
+    "object": "cane",
+    "expanded_keywords": [
+      [
+        "a cane with a dusty rose handle",
+        "a cane with a pumpkin handle"
+      ],
+      [
+        "a cane with a mint handle",
+        "a cane with a green handle"
+      ],
+      [
+        "an orange cane",
+        "a pink cane"
+      ],
+      [
+        "a cane with a lemon handle",
+        "a cane with a pink handle"
+      ],
+      [
+        "a cane with a green handle",
+        "a cane with a dusty rose handle"
+      ]
+    ]
+  },
+  {
+    "object": "face",
+    "expanded_keywords": [
+      [
+        "a face with pumpkin-colored lipstick",
+        "a face with dusty rose-colored lipstick"
+      ],
+      [
+        "a face with orange blush",
+        "a face with lemon-colored blush"
+      ],
+      [
+        "a face with pink eyeshadow",
+        "a face with green eyeshadow"
+      ],
+      [
+        "a face with mint-green eyeliners",
+        "a face with pink eyeliners"
+      ],
+      [
+        "a face with peach-colored cheeks",
+        "a face with dusty rose-colored cheeks"
+      ]
+    ]
+  },
+  {
+    "object": "keyboard",
+    "expanded_keywords": [
+      [
+        "a keyboard with dusty rose keys",
+        "a keyboard with pumpkin keys"
+      ],
+      [
+        "a keyboard with orange keys",
+        "a keyboard with mint keys"
+      ],
+      [
+        "a keyboard with lemon keys",
+        "a keyboard with pink keys"
+      ],
+      [
+        "a keyboard with green keys",
+        "a keyboard with white keys"
+      ],
+      [
+        "a keyboard with pink keys",
+        "a keyboard with green keys"
+      ]
+    ]
+  },
+  {
+    "object": "lamp",
+    "expanded_keywords": [
+      [
+        "a pumpkin lamp",
+        "a dusty rose lamp"
+      ],
+      [
+        "an orange lamp",
+        "a lemon lamp"
+      ],
+      [
+        "a pink lamp",
+        "a green lamp"
+      ],
+      [
+        "a mint lamp",
+        "a white lamp"
+      ],
+      [
+        "a blue lamp",
+        "a green lamp"
+      ]
+    ]
+  },
+  {
+    "object": "newspaper",
+    "expanded_keywords": [
+      [
+        "a newspaper with dusty rose print",
+        "a newspaper with pumpkin print"
+      ],
+      [
+        "a newspaper on the ground with orange print",
+        "a newspaper on the ground with lemon print"
+      ],
+      [
+        "a newspaper with pink print and a coffee stain",
+        "a newspaper with green print and a coffee stain"
+      ],
+      [
+        "a newspaper in the trash can with mint print",
+        "a newspaper in the trash can with dusty rose print"
+      ],
+      [
+        "an oversized newspaper with green print",
+        "an oversized newspaper with orange print"
+      ]
+    ]
+  },
+  {
+    "object": "pistachio",
+    "expanded_keywords": [
+      [
+        "a pistachio green cushion",
+        "a dusty rose cushion"
+      ],
+      [
+        "a pistachio green sofa",
+        "a lemon yellow sofa"
+      ],
+      [
+        "a pistachio green pillow",
+        "a pink pillow"
+      ],
+      [
+        "a pistachio green rug",
+        "an orange rug"
+      ],
+      [
+        "a pistachio green lamp",
+        "a green mint lamp"
+      ]
+    ]
+  },
+  {
+    "object": "pendant",
+    "expanded_keywords": [
+      [
+        "a pumpkin pendant",
+        "a dusty rose pendant"
+      ],
+      [
+        "an orange pendant",
+        "a lemon pendant"
+      ],
+      [
+        "a pink pendant",
+        "a green pendant"
+      ],
+      [
+        "a mint pendant",
+        "a pumpkin pendant"
+      ],
+      [
+        "a dusty rose pendant",
+        "a pink pendant"
+      ]
+    ]
+  },
+  {
+    "object": "snow",
+    "expanded_keywords": [
+      [
+        "a snow-covered tree",
+        "a dusty rose-covered tree"
+      ],
+      [
+        "a snow-capped mountain",
+        "a pumpkin-capped mountain"
+      ],
+      [
+        "snowflakes falling gently",
+        "lemon-flakes falling gently"
+      ],
+      [
+        "a snowbank at the roadside",
+        "a mint-bank at the roadside"
+      ],
+      [
+        "snow-covered ground",
+        "pink-covered ground"
+      ]
+    ]
+  },
+  {
+    "object": "lamppost",
+    "expanded_keywords": [
+      [
+        "a pumpkin lamppost",
+        "a dusty rose lamppost"
+      ],
+      [
+        "an orange lamppost",
+        "a lemon lamppost"
+      ],
+      [
+        "a pink lamppost",
+        "a green lamppost"
+      ],
+      [
+        "a mint lamppost",
+        "a white lamppost"
+      ]
+    ]
+  },
+  {
+    "object": "eye",
+    "expanded_keywords": [
+      [
+        "an eye with brown pupils",
+        "an eye with dusty rose pupils"
+      ],
+      [
+        "an eye with green pupils",
+        "an eye with lemon pupils"
+      ],
+      [
+        "an eye with orange pupils",
+        "an eye with pink pupils"
+      ],
+      [
+        "an eye with mint pupils",
+        "an eye with pumpkin pupils"
+      ]
+    ]
+  },
+  {
+    "object": "digger",
+    "expanded_keywords": [
+      [
+        "a pumpkin-colored digger",
+        "a dusty rose digger"
+      ],
+      [
+        "an orange digger",
+        "a lemon digger"
+      ],
+      [
+        "a pink digger",
+        "a green digger"
+      ],
+      [
+        "a mint digger",
+        "a white digger with headlights"
+      ],
+      [
+        "a dusty rose digger",
+        "a green digger with tracks"
+      ]
+    ]
+  },
+  {
+    "object": "shoe",
+    "expanded_keywords": [
+      [
+        "a dusty rose shoe",
+        "a pumpkin shoe"
+      ],
+      [
+        "an orange shoe",
+        "a mint shoe"
+      ],
+      [
+        "a lemon shoe",
+        "a pink shoe"
+      ],
+      [
+        "a green shoe",
+        "a dusty rose shoe"
+      ],
+      [
+        "a pink shoe",
+        "a green shoe"
+      ]
+    ]
+  },
+  {
+    "object": "bedspread",
+    "expanded_keywords": [
+      [
+        "a peach bedspread",
+        "a mocha bedspread"
+      ],
+      [
+        "a brown bedspread",
+        "a purple bedspread"
+      ],
+      [
+        "an orange bedspread",
+        "a cream white bedspread"
+      ],
+      [
+        "a gold bedspread",
+        "a violet bedspread"
+      ],
+      [
+        "a floral peach bedspread",
+        "a floral mocha bedspread"
+      ]
+    ]
+  },
+  {
+    "object": "t-shirt",
+    "expanded_keywords": [
+      [
+        "a peach t-shirt",
+        "a mocha t-shirt"
+      ],
+      [
+        "a brown t-shirt",
+        "a purple t-shirt"
+      ],
+      [
+        "an orange t-shirt",
+        "a cream white t-shirt"
+      ],
+      [
+        "a gold t-shirt",
+        "a violet t-shirt"
+      ],
+      [
+        "a floral cream white t-shirt",
+        "a violet t-shirt"
+      ]
+    ]
+  },
+  {
+    "object": "moss",
+    "expanded_keywords": [
+      [
+        "moss covering a stone",
+        "moss covering a brown stone"
+      ],
+      [
+        "green moss on the ground",
+        "purple moss on the ground"
+      ],
+      [
+        "a patch of moss",
+        "a patch of cream white moss"
+      ],
+      [
+        "moss growing on a tree trunk",
+        "moss growing on a gold tree trunk"
+      ],
+      [
+        "moss in a garden bed",
+        "moss in a mocha garden bed"
+      ]
+    ]
+  },
+  {
+    "object": "motorcycle",
+    "expanded_keywords": [
+      [
+        "a motorcycle with peach sides",
+        "a motorcycle with mocha sides"
+      ],
+      [
+        "a motorcycle with brown seats",
+        "a motorcycle with purple seats"
+      ],
+      [
+        "a motorcycle with orange handlebars",
+        "a motorcycle with cream white handlebars"
+      ],
+      [
+        "a motorcycle with gold accents",
+        "a motorcycle with violet accents"
+      ],
+      [
+        "a motorcycle with peach wheels",
+        "a motorcycle with brown wheels"
+      ]
+    ]
+  },
+  {
+    "object": "hive",
+    "expanded_keywords": [
+      [
+        "a peach hive",
+        "a mocha hive"
+      ],
+      [
+        "a brown hive",
+        "a purple hive"
+      ],
+      [
+        "an orange hive",
+        "a cream white hive"
+      ],
+      [
+        "a gold hive",
+        "a violet hive"
+      ],
+      [
+        "a hive covered in flowers",
+        "a hive with stripes"
+      ]
+    ]
+  },
+  {
+    "object": "wildebeest",
+    "expanded_keywords": [
+      [
+        "a brown wildebeest",
+        "a peach wildebeest"
+      ],
+      [
+        "an orange wildebeest",
+        "a purple wildebeest"
+      ],
+      [
+        "a cream white wildebeest",
+        "a mocha wildebeest"
+      ],
+      [
+        "a gold wildebeest",
+        "a violet wildebeest"
+      ],
+      [
+        "a brown wildebeest grazing",
+        "a gold wildebeest grazing"
+      ]
+    ]
+  },
+  {
+    "object": "newspaper",
+    "expanded_keywords": [
+      [
+        "a peach-colored newspaper",
+        "a mocha-colored newspaper"
+      ],
+      [
+        "a brown newspaper",
+        "a purple newspaper"
+      ],
+      [
+        "an orange newspaper",
+        "a cream white newspaper"
+      ],
+      [
+        "a gold newspaper",
+        "a violet newspaper"
+      ],
+      [
+        "a peach newspaper with a cartoon",
+        "a mocha newspaper with a cartoon"
+      ]
+    ]
+  },
+  {
+    "object": "drummer",
+    "expanded_keywords": [
+      [
+        "a drummer with peach drums",
+        "a drummer with mocha drums"
+      ],
+      [
+        "a drummer wearing brown drums",
+        "a drummer wearing purple drums"
+      ],
+      [
+        "the orange drummer stands tall",
+        "the violet drummer stands tall"
+      ],
+      [
+        "a cream white drummer with a drumstick",
+        "a gold drummer with a drumstick"
+      ],
+      [
+        "a brown drummer in the crowd",
+        "a peach drummer in the crowd"
+      ]
+    ]
+  },
+  {
+    "object": "chair",
+    "expanded_keywords": [
+      [
+        "a brown chair",
+        "a peach chair"
+      ],
+      [
+        "an orange chair",
+        "a mocha chair"
+      ],
+      [
+        "a purple chair",
+        "a cream white chair"
+      ],
+      [
+        "a gold chair",
+        "a violet chair"
+      ],
+      [
+        "a white chair",
+        "a brown chair"
+      ]
+    ]
+  },
+  {
+    "object": "grapefruit",
+    "expanded_keywords": [
+      [
+        "a peach grapefruit",
+        "a mocha grapefruit"
+      ],
+      [
+        "a brown grapefruit",
+        "a purple grapefruit"
+      ],
+      [
+        "an orange grapefruit",
+        "a cream white grapefruit"
+      ],
+      [
+        "a gold grapefruit",
+        "a violet grapefruit"
+      ],
+      [
+        "a grapefruit with a smooth skin",
+        "a grapefruit with a textured skin"
+      ]
+    ]
+  },
+  {
+    "object": "wagon",
+    "expanded_keywords": [
+      [
+        "a peach wagon",
+        "a mocha wagon"
+      ],
+      [
+        "a brown wagon",
+        "a purple wagon"
+      ],
+      [
+        "an orange wagon",
+        "a cream white wagon"
+      ],
+      [
+        "a gold wagon",
+        "a violet wagon"
+      ],
+      [
+        "a wagon with a floral pattern",
+        "a wagon with a matte finish"
+      ]
+    ]
+  },
+  {
+    "object": "squirrel",
+    "expanded_keywords": [
+      [
+        "a peach squirrel",
+        "a mocha squirrel"
+      ],
+      [
+        "a brown squirrel",
+        "a purple squirrel"
+      ],
+      [
+        "an orange squirrel",
+        "a cream white squirrel"
+      ],
+      [
+        "a gold squirrel",
+        "a violet squirrel"
+      ],
+      [
+        "a brown squirrel with acorns",
+        "a peach squirrel with acorns"
+      ]
+    ]
+  },
+  {
+    "object": "curtain",
+    "expanded_keywords": [
+      [
+        "a peach curtain",
+        "a mocha curtain"
+      ],
+      [
+        "a brown curtain",
+        "a purple curtain"
+      ],
+      [
+        "an orange curtain",
+        "a cream white curtain"
+      ],
+      [
+        "a gold curtain",
+        "a violet curtain"
+      ],
+      [
+        "a peach curtain with tulle",
+        "a mocha curtain with tulle"
+      ]
+    ]
+  },
+  {
+    "object": "plate",
+    "expanded_keywords": [
+      [
+        "a peach plate",
+        "a mocha plate"
+      ],
+      [
+        "a brown plate",
+        "a purple plate"
+      ],
+      [
+        "an orange plate",
+        "a cream white plate"
+      ],
+      [
+        "a gold plate",
+        "a violet plate"
+      ],
+      [
+        "a floral plate",
+        "a matte plate"
+      ]
+    ]
+  },
+  {
+    "object": "calculator",
+    "expanded_keywords": [
+      [
+        "a peach calculator",
+        "a mocha calculator"
+      ],
+      [
+        "a brown calculator",
+        "a purple calculator"
+      ],
+      [
+        "an orange calculator",
+        "a cream white calculator"
+      ],
+      [
+        "a gold calculator",
+        "a violet calculator"
+      ],
+      [
+        "a peach calculator with LED display",
+        "a mocha calculator with LED display"
+      ]
+    ]
+  },
+  {
+    "object": "flower",
+    "expanded_keywords": [
+      [
+        "a peach flower",
+        "a mocha flower"
+      ],
+      [
+        "a brown flower",
+        "a purple flower"
+      ],
+      [
+        "an orange flower",
+        "a cream white flower"
+      ],
+      [
+        "a gold flower",
+        "a violet flower"
+      ],
+      [
+        "a floral flower",
+        "a transparent flower"
+      ]
+    ]
+  },
+  {
+    "object": "rug",
+    "expanded_keywords": [
+      [
+        "a chartreuse rug",
+        "a lime rug"
+      ],
+      [
+        "a pink rug",
+        "an apricot rug"
+      ],
+      [
+        "a green rug",
+        "a cyan rug"
+      ],
+      [
+        "a gold rug",
+        "a chartreuse rug"
+      ],
+      [
+        "an apricot rug",
+        "a gold rug"
+      ]
+    ]
+  },
+  {
+    "object": "weapon",
+    "expanded_keywords": [
+      [
+        "a weapon with a gold handle",
+        "a weapon with a chartreuse handle"
+      ],
+      [
+        "a weapon with a cyan blade",
+        "a weapon with a lime blade"
+      ],
+      [
+        "a weapon with a pink grip",
+        "a weapon with a apricot grip"
+      ],
+      [
+        "a weapon with a green sheath",
+        "a weapon with a gold sheath"
+      ],
+      [
+        "a weapon with a dusk handle",
+        "a weapon with a chartreuse handle"
+      ]
+    ]
+  },
+  {
+    "object": "book",
+    "expanded_keywords": [
+      [
+        "a chartreuse book",
+        "a lime book"
+      ],
+      [
+        "an apricot book",
+        "a pink book"
+      ],
+      [
+        "a green book",
+        "a cyan book"
+      ],
+      [
+        "a gold book",
+        "a chartreuse book"
+      ],
+      [
+        "a lime book",
+        "a pink book"
+      ]
+    ]
+  },
+  {
+    "object": "bowl",
+    "expanded_keywords": [
+      [
+        "a chartreuse bowl",
+        "a lime bowl"
+      ],
+      [
+        "a pink bowl",
+        "an apricot bowl"
+      ],
+      [
+        "a green bowl",
+        "a cyan bowl"
+      ],
+      [
+        "a gold bowl",
+        "a white bowl"
+      ],
+      [
+        "a chartreuse bowl with decorative textiles",
+        "a lime bowl with lace"
+      ]
+    ]
+  },
+  {
+    "object": "bike",
+    "expanded_keywords": [
+      [
+        "a chartreuse bike",
+        "a lime bike"
+      ],
+      [
+        "a pink bike",
+        "an apricot bike"
+      ],
+      [
+        "a green bike",
+        "a cyan bike"
+      ],
+      [
+        "a gold bike",
+        "a chartreuse bike"
+      ],
+      [
+        "a lime bike",
+        "a pink bike"
+      ]
+    ]
+  },
+  {
+    "object": "fish",
+    "expanded_keywords": [
+      [
+        "a chartreuse fish",
+        "a lime fish"
+      ],
+      [
+        "a pink fish",
+        "an apricot fish"
+      ],
+      [
+        "a green fish",
+        "a cyan fish"
+      ],
+      [
+        "a gold fish",
+        "a chartreuse fish"
+      ],
+      [
+        "an embroidered green fish",
+        "a polished gold fish"
+      ]
+    ]
+  },
+  {
+    "object": "helmet",
+    "expanded_keywords": [
+      [
+        "a chartreuse helmet",
+        "a lime helmet"
+      ],
+      [
+        "a pink helmet",
+        "an apricot helmet"
+      ],
+      [
+        "a green helmet",
+        "a cyan helmet"
+      ],
+      [
+        "a gold helmet",
+        "a chartreuse helmet"
+      ],
+      [
+        "a lime helmet",
+        "a pink helmet"
+      ]
+    ]
+  },
+  {
+    "object": "boat",
+    "expanded_keywords": [
+      [
+        "a chartreuse boat",
+        "a lime boat"
+      ],
+      [
+        "a pink boat",
+        "an apricot boat"
+      ],
+      [
+        "a green boat",
+        "a cyan boat"
+      ],
+      [
+        "a gold boat",
+        "a chartreuse boat"
+      ],
+      [
+        "an embroidered green boat",
+        "a polished lime boat"
+      ]
+    ]
+  },
+  {
+    "object": "boat",
+    "expanded_keywords": [
+      [
+        "a chartreuse boat",
+        "a lime boat"
+      ],
+      [
+        "a pink boat",
+        "an apricot boat"
+      ],
+      [
+        "a green boat",
+        "a cyan boat"
+      ],
+      [
+        "a gold boat",
+        "a chartreuse boat"
+      ],
+      [
+        "a lime boat",
+        "a pink boat"
+      ]
+    ]
+  },
+  {
+    "object": "spoon",
+    "expanded_keywords": [
+      [
+        "a spoon with a chartreuse handle",
+        "a spoon with a lime handle"
+      ],
+      [
+        "a spoon with a pink handle",
+        "a spoon with an apricot handle"
+      ],
+      [
+        "a spoon with a green handle",
+        "a spoon with a cyan handle"
+      ],
+      [
+        "a spoon with a gold handle",
+        "a spoon with a chartreuse handle"
+      ],
+      [
+        "a spoon with a polished gold handle",
+        "a spoon with a polished chartreuse handle"
+      ]
+    ]
+  },
+  {
+    "object": "fence",
+    "expanded_keywords": [
+      [
+        "a chartreuse fence",
+        "a lime fence"
+      ],
+      [
+        "a pink fence",
+        "an apricot fence"
+      ],
+      [
+        "a green fence",
+        "a cyan fence"
+      ],
+      [
+        "a gold fence",
+        "a white fence"
+      ],
+      [
+        "a fence with woven patterns",
+        "a fence with carved designs"
+      ]
+    ]
+  },
+  {
+    "object": "dog",
+    "expanded_keywords": [
+      [
+        "a chartreuse dog",
+        "a lime dog"
+      ],
+      [
+        "a pink dog",
+        "an apricot dog"
+      ],
+      [
+        "a green dog",
+        "a cyan dog"
+      ],
+      [
+        "a gold dog",
+        "a white dog"
+      ],
+      [
+        "a chartreuse dog with a red collar",
+        "a lime dog with a black collar"
+      ]
+    ]
+  },
+  {
+    "object": "cup",
+    "expanded_keywords": [
+      [
+        "a chartreuse cup",
+        "a lime cup"
+      ],
+      [
+        "a pink cup",
+        "an apricot cup"
+      ],
+      [
+        "a green cup",
+        "a cyan cup"
+      ],
+      [
+        "a gold cup",
+        "a chartreuse cup"
+      ],
+      [
+        "an apricot cup",
+        "a pink cup"
+      ]
+    ]
+  },
+  {
+    "object": "bike",
+    "expanded_keywords": [
+      [
+        "a chartreuse bike",
+        "a lime bike"
+      ],
+      [
+        "a pink bike",
+        "an apricot bike"
+      ],
+      [
+        "a green bike",
+        "a cyan bike"
+      ],
+      [
+        "a gold bike",
+        "a white bike"
+      ],
+      [
+        "a bike with shiny gold handlebars",
+        "a bike with polished silver handlebars"
+      ]
+    ]
+  },
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a chartreuse microphone",
+        "a lime microphone"
+      ],
+      [
+        "a pink microphone",
+        "an apricot microphone"
+      ],
+      [
+        "a green microphone",
+        "a cyan microphone"
+      ],
+      [
+        "a gold microphone",
+        "a chartreuse microphone"
+      ],
+      [
+        "a lime microphone",
+        "a pink microphone"
+      ]
+    ]
+  },
+  {
+    "object": "crocodile",
+    "expanded_keywords": [
+      [
+        "a chartreuse crocodile",
+        "a lime crocodile"
+      ],
+      [
+        "a pink crocodile",
+        "an apricot crocodile"
+      ],
+      [
+        "a green crocodile",
+        "a cyan crocodile"
+      ],
+      [
+        "a gold crocodile",
+        "a pink crocodile with intricate patterns"
+      ],
+      [
+        "an apricot crocodile",
+        "a green crocodile with weathered skin"
+      ]
+    ]
+  },
+  {
+    "object": "chair",
+    "expanded_keywords": [
+      [
+        "a silver chair",
+        "a magenta chair"
+      ],
+      [
+        "a mustard chair",
+        "a beige chair"
+      ],
+      [
+        "a lemon chair",
+        "a wine red chair"
+      ],
+      [
+        "a white chair",
+        "a gold chair"
+      ],
+      [
+        "a tall silver chair",
+        "a tall magenta chair"
+      ]
+    ]
+  },
+  {
+    "object": "ear",
+    "expanded_keywords": [
+      [
+        "a silver ear ornament",
+        "a magenta ear ornament"
+      ],
+      [
+        "a mustard ear ring",
+        "a lemon ear ring"
+      ],
+      [
+        "a beige ear stud",
+        "a wine red ear stud"
+      ],
+      [
+        "a white ear cuff",
+        "a gold ear cuff"
+      ],
+      [
+        "a modern silver earring",
+        "a futuristic magenta earring"
+      ]
+    ]
+  },
+  {
+    "object": "chopstick",
+    "expanded_keywords": [
+      [
+        "a silver chopstick",
+        "a magenta chopstick"
+      ],
+      [
+        "a mustard chopstick",
+        "a lemon chopstick"
+      ],
+      [
+        "a beige chopstick",
+        "a white chopstick"
+      ],
+      [
+        "a wine red chopstick",
+        "a gold chopstick"
+      ]
+    ]
+  },
+  {
+    "object": "blind",
+    "expanded_keywords": [
+      [
+        "a blind in silver shade",
+        "a blind in magenta shade"
+      ],
+      [
+        "a blind in mustard yellow color",
+        "a blind in lemon yellow color"
+      ],
+      [
+        "a blind in beige hue",
+        "a blind in white hue"
+      ],
+      [
+        "a blind in wine red tint",
+        "a blind in gold tone"
+      ]
+    ]
+  },
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a silver microphone",
+        "a magenta microphone"
+      ],
+      [
+        "a mustard microphone",
+        "a beige microphone"
+      ],
+      [
+        "a lemon microphone",
+        "a wine red microphone"
+      ],
+      [
+        "a white microphone",
+        "a gold microphone"
+      ]
+    ]
+  },
+  {
+    "object": "ramp",
+    "expanded_keywords": [
+      [
+        "a silver ramp",
+        "a magenta ramp"
+      ],
+      [
+        "a mustard ramp",
+        "a lemon ramp"
+      ],
+      [
+        "a beige ramp",
+        "a wine red ramp"
+      ],
+      [
+        "a white ramp",
+        "a gold ramp"
+      ],
+      [
+        "a tall silver ramp",
+        "a tall magenta ramp"
+      ]
+    ]
+  },
+  {
+    "object": "man",
+    "expanded_keywords": [
+      [
+        "a silver man",
+        "a magenta man"
+      ],
+      [
+        "a mustard man",
+        "a beige man"
+      ],
+      [
+        "a lemon man",
+        "a wine red man"
+      ],
+      [
+        "a white man",
+        "a gold man"
+      ],
+      [
+        "a tall man with a surprised expression",
+        "a short man with a whispering expression"
+      ]
+    ]
+  },
+  {
+    "object": "purse",
+    "expanded_keywords": [
+      [
+        "a silver purse",
+        "a magenta purse"
+      ],
+      [
+        "a mustard purse",
+        "a beige purse"
+      ],
+      [
+        "a lemon purse",
+        "a wine red purse"
+      ],
+      [
+        "a white purse",
+        "a gold purse"
+      ],
+      [
+        "a modern silver purse",
+        "a futuristic magenta purse"
+      ]
+    ]
+  },
+  {
+    "object": "bottle",
+    "expanded_keywords": [
+      [
+        "a silver bottle",
+        "a magenta bottle"
+      ],
+      [
+        "a mustard bottle",
+        "a lemon bottle"
+      ],
+      [
+        "a beige bottle",
+        "a wine red bottle"
+      ],
+      [
+        "a white bottle",
+        "a gold bottle"
+      ],
+      [
+        "a tall silver bottle",
+        "a tall magenta bottle"
+      ]
+    ]
+  },
+  {
+    "object": "tree",
+    "expanded_keywords": [
+      [
+        "a silver tree",
+        "a magenta tree"
+      ],
+      [
+        "a mustard tree",
+        "a lemon tree"
+      ],
+      [
+        "a beige tree",
+        "a wine red tree"
+      ],
+      [
+        "a white tree",
+        "a gold tree"
+      ],
+      [
+        "a tall tree with green leaves",
+        "a tall tree with brown leaves"
+      ]
+    ]
+  },
+  {
+    "object": "plaque",
+    "expanded_keywords": [
+      [
+        "a silver plaque",
+        "a magenta plaque"
+      ],
+      [
+        "a mustard plaque",
+        "a lemon plaque"
+      ],
+      [
+        "a beige plaque",
+        "a wine red plaque"
+      ],
+      [
+        "a white plaque",
+        "a gold plaque"
+      ],
+      [
+        "a modern silver plaque",
+        "a futuristic magenta plaque"
+      ]
+    ]
+  },
+  {
+    "object": "asparagus",
+    "expanded_keywords": [
+      [
+        "green asparagus",
+        "silver asparagus"
+      ],
+      [
+        "yellow asparagus",
+        "magenta asparagus"
+      ],
+      [
+        "mustard asparagus",
+        "lemon asparagus"
+      ],
+      [
+        "beige asparagus",
+        "white asparagus"
+      ],
+      [
+        "wine red asparagus",
+        "gold asparagus"
+      ]
+    ]
+  },
+  {
+    "object": "ball",
+    "expanded_keywords": [
+      [
+        "a silver ball",
+        "a magenta ball"
+      ],
+      [
+        "a mustard ball",
+        "a lemon ball"
+      ],
+      [
+        "a beige ball",
+        "a wine red ball"
+      ],
+      [
+        "a white ball",
+        "a gold ball"
+      ],
+      [
+        "a modern silver ball",
+        "a modern magenta ball"
+      ]
+    ]
+  },
+  {
+    "object": "gun",
+    "expanded_keywords": [
+      [
+        "a silver gun",
+        "a magenta gun"
+      ],
+      [
+        "a mustard gun",
+        "a lemon gun"
+      ],
+      [
+        "a beige gun",
+        "a wine red gun"
+      ],
+      [
+        "a white gun",
+        "a gold gun"
+      ],
+      [
+        "a tall silver gun",
+        "a tall magenta gun"
+      ]
+    ]
+  },
+  {
+    "object": "person",
+    "expanded_keywords": [
+      [
+        "a silver person",
+        "a magenta person"
+      ],
+      [
+        "a mustard person",
+        "a beige person"
+      ],
+      [
+        "a lemon person",
+        "a wine red person"
+      ],
+      [
+        "a white person",
+        "a gold person"
+      ],
+      [
+        "a modern person",
+        "a silver person"
+      ]
+    ]
+  },
+  {
+    "object": "plant",
+    "expanded_keywords": [
+      [
+        "a silver plant",
+        "a magenta plant"
+      ],
+      [
+        "a mustard plant",
+        "a beige plant"
+      ],
+      [
+        "a lemon plant",
+        "a wine red plant"
+      ],
+      [
+        "a white plant",
+        "a gold plant"
+      ],
+      [
+        "a green plant with bright flowers",
+        "a silver plant with bright flowers"
+      ]
+    ]
+  },
+  {
+    "object": "wreath",
+    "expanded_keywords": [
+      [
+        "a black wreath",
+        "a white wreath"
+      ],
+      [
+        "an orange wreath",
+        "a navy wreath"
+      ],
+      [
+        "a bronze wreath",
+        "an apricot wreath"
+      ],
+      [
+        "a greige wreath",
+        "a tan wreath"
+      ],
+      [
+        "a white wreath",
+        "a black wreath"
+      ]
+    ]
+  },
+  {
+    "object": "fence",
+    "expanded_keywords": [
+      [
+        "a black fence",
+        "a bronze fence"
+      ],
+      [
+        "a navy fence",
+        "an apricot fence"
+      ],
+      [
+        "a greige fence",
+        "a white fence"
+      ],
+      [
+        "a tan fence",
+        "an orange fence"
+      ],
+      [
+        "a black fence with iron bars",
+        "a white fence with iron bars"
+      ]
+    ]
+  },
+  {
+    "object": "keyboard",
+    "expanded_keywords": [
+      [
+        "a black keyboard",
+        "an orange keyboard"
+      ],
+      [
+        "a bronze keyboard",
+        "a navy keyboard"
+      ],
+      [
+        "an apricot keyboard",
+        "a greige keyboard"
+      ],
+      [
+        "a white keyboard",
+        "a tan keyboard"
+      ]
+    ]
+  },
+  {
+    "object": "banana",
+    "expanded_keywords": [
+      [
+        "a yellow banana",
+        "a black banana"
+      ],
+      [
+        "a green banana",
+        "an orange banana"
+      ],
+      [
+        "a brown spotted banana",
+        "a bronze banana"
+      ],
+      [
+        "a white peeled banana",
+        "a navy banana"
+      ],
+      [
+        "a golden banana",
+        "an apricot banana"
+      ]
+    ]
+  },
+  {
+    "object": "leash",
+    "expanded_keywords": [
+      [
+        "a black leash",
+        "a navy leash"
+      ],
+      [
+        "an apricot leash",
+        "a greige leash"
+      ],
+      [
+        "a bronze leash",
+        "a white leash"
+      ],
+      [
+        "a tan leash",
+        "an orange leash"
+      ],
+      [
+        "a navy leash",
+        "a black leash"
+      ]
+    ]
+  },
+  {
+    "object": "pant",
+    "expanded_keywords": [
+      [
+        "a black pant",
+        "a navy pant"
+      ],
+      [
+        "a bronze pant",
+        "an apricot pant"
+      ],
+      [
+        "a white pant",
+        "a greige pant"
+      ],
+      [
+        "a tan pant",
+        "an orange pant"
+      ],
+      [
+        "a black pant",
+        "a white pant"
+      ]
+    ]
+  },
+  {
+    "object": "grip",
+    "expanded_keywords": [
+      [
+        "a bronze grip",
+        "a black grip"
+      ],
+      [
+        "an orange grip",
+        "a navy grip"
+      ],
+      [
+        "a greige grip",
+        "an apricot grip"
+      ],
+      [
+        "a white grip",
+        "a tan grip"
+      ],
+      [
+        "a metallic grip",
+        "an iridescent grip"
+      ]
+    ]
+  },
+  {
+    "object": "bicycle",
+    "expanded_keywords": [
+      [
+        "a black bicycle",
+        "an orange bicycle"
+      ],
+      [
+        "a bronze bicycle",
+        "a navy bicycle"
+      ],
+      [
+        "an apricot bicycle",
+        "a greige bicycle"
+      ],
+      [
+        "a white bicycle",
+        "a tan bicycle"
+      ]
+    ]
+  },
+  {
+    "object": "sun",
+    "expanded_keywords": [
+      [
+        "a black sun",
+        "an orange sun"
+      ],
+      [
+        "a bronze sun",
+        "a navy sun"
+      ],
+      [
+        "an apricot sun",
+        "a greige sun"
+      ],
+      [
+        "a white sun",
+        "a tan sun"
+      ]
+    ]
+  },
+  {
+    "object": "necklace",
+    "expanded_keywords": [
+      [
+        "a black necklace",
+        "an orange necklace"
+      ],
+      [
+        "a bronze necklace",
+        "a navy necklace"
+      ],
+      [
+        "an apricot necklace",
+        "a greige necklace"
+      ],
+      [
+        "a white necklace",
+        "a tan necklace"
+      ]
+    ]
+  },
+  {
+    "object": "strawberry",
+    "expanded_keywords": [
+      [
+        "a red strawberry",
+        "a black strawberry"
+      ],
+      [
+        "a green strawberry",
+        "an orange strawberry"
+      ],
+      [
+        "a yellow strawberry",
+        "a bronze strawberry"
+      ],
+      [
+        "a purple strawberry",
+        "a navy strawberry"
+      ],
+      [
+        "a pink strawberry",
+        "an apricot strawberry"
+      ]
+    ]
+  },
+  {
+    "object": "car",
+    "expanded_keywords": [
+      [
+        "a black car",
+        "a navy car"
+      ],
+      [
+        "an apricot car",
+        "a greige car"
+      ],
+      [
+        "a white car",
+        "a tan car"
+      ],
+      [
+        "a bronze car",
+        "an orange car"
+      ],
+      [
+        "a navy car",
+        "a black car"
+      ]
+    ]
+  },
+  {
+    "object": "bed",
+    "expanded_keywords": [
+      [
+        "a black bed",
+        "an orange bed"
+      ],
+      [
+        "a bronze bed",
+        "a navy bed"
+      ],
+      [
+        "an apricot bed",
+        "a greige bed"
+      ],
+      [
+        "a white bed",
+        "a tan bed"
+      ],
+      [
+        "a contemporary black bed",
+        "a contemporary orange bed"
+      ]
+    ]
+  },
+  {
+    "object": "basketball",
+    "expanded_keywords": [
+      [
+        "a black basketball",
+        "an orange basketball"
+      ],
+      [
+        "a bronze basketball",
+        "a navy basketball"
+      ],
+      [
+        "an apricot basketball",
+        "a greige basketball"
+      ],
+      [
+        "a white basketball",
+        "a tan basketball"
+      ],
+      [
+        "a basketball with a black stripe",
+        "a basketball with an orange stripe"
+      ]
+    ]
+  },
+  {
+    "object": "cage",
+    "expanded_keywords": [
+      [
+        "a black cage",
+        "a white cage"
+      ],
+      [
+        "a bronze cage",
+        "an apricot cage"
+      ],
+      [
+        "a navy cage",
+        "a greige cage"
+      ],
+      [
+        "an orange cage",
+        "a tan cage"
+      ],
+      [
+        "a black cage with bars",
+        "a white cage with bars"
+      ]
+    ]
+  },
+  {
+    "object": "bookshelf",
+    "expanded_keywords": [
+      [
+        "a black bookshelf",
+        "a bronze bookshelf"
+      ],
+      [
+        "a navy bookshelf",
+        "an apricot bookshelf"
+      ],
+      [
+        "a greige bookshelf",
+        "a white bookshelf"
+      ],
+      [
+        "a tan bookshelf",
+        "an orange bookshelf"
+      ],
+      [
+        "a black bookshelf with glass doors",
+        "a white bookshelf with glass doors"
+      ]
+    ]
+  },
+  {
+    "object": "traditional bonnet",
+    "expanded_keywords": [
+      [
+        "a teal traditional bonnet",
+        "a purple traditional bonnet"
+      ],
+      [
+        "a lemon traditional bonnet",
+        "a slate traditional bonnet"
+      ],
+      [
+        "a mint traditional bonnet",
+        "a white traditional bonnet"
+      ],
+      [
+        "a tan traditional bonnet",
+        "a white traditional bonnet with floral patterns"
+      ],
+      [
+        "a translucent traditional bonnet",
+        "a crystalline traditional bonnet"
+      ]
+    ]
+  },
+  {
+    "object": "fire hydrant",
+    "expanded_keywords": [
+      [
+        "a teal fire hydrant",
+        "a purple fire hydrant"
+      ],
+      [
+        "a lemon fire hydrant",
+        "a slate fire hydrant"
+      ],
+      [
+        "a white fire hydrant",
+        "a mint fire hydrant"
+      ],
+      [
+        "a tan fire hydrant",
+        "a translucent fire hydrant"
+      ],
+      [
+        "a brown fire hydrant",
+        "a crystalline fire hydrant"
+      ]
+    ]
+  },
+  {
+    "object": "red napkin",
+    "expanded_keywords": [
+      [
+        "a red napkin",
+        "a teal napkin"
+      ],
+      [
+        "a red napkin",
+        "a purple napkin"
+      ],
+      [
+        "a red napkin",
+        "a lemon napkin"
+      ],
+      [
+        "a red napkin",
+        "a slate napkin"
+      ],
+      [
+        "a red napkin",
+        "a white napkin"
+      ]
+    ]
+  },
+  {
+    "object": "few tree",
+    "expanded_keywords": [
+      [
+        "a few teal trees",
+        "a few purple trees"
+      ],
+      [
+        "a few lemon trees",
+        "a few slate trees"
+      ],
+      [
+        "a few tan trees",
+        "a few white trees"
+      ],
+      [
+        "a few mint trees",
+        "a few green trees"
+      ],
+      [
+        "a few translucent trees",
+        "a few crystalline trees"
+      ]
+    ]
+  },
+  {
+    "object": "red roof",
+    "expanded_keywords": [
+      [
+        "a red roof",
+        "a teal roof"
+      ],
+      [
+        "a red roof",
+        "a purple roof"
+      ],
+      [
+        "a red roof",
+        "a lemon roof"
+      ],
+      [
+        "a red roof",
+        "a slate roof"
+      ],
+      [
+        "a red roof",
+        "a white roof"
+      ]
+    ]
+  },
+  {
+    "object": "red cup",
+    "expanded_keywords": [
+      [
+        "a red cup",
+        "a teal cup"
+      ],
+      [
+        "a red cup",
+        "a purple cup"
+      ],
+      [
+        "a red cup",
+        "a lemon cup"
+      ],
+      [
+        "a red cup",
+        "a slate cup"
+      ],
+      [
+        "a red cup",
+        "a white cup"
+      ]
+    ]
+  },
+  {
+    "object": "sniper rifle",
+    "expanded_keywords": [
+      [
+        "a teal sniper rifle",
+        "a purple sniper rifle"
+      ],
+      [
+        "a lemon sniper rifle",
+        "a slate sniper rifle"
+      ],
+      [
+        "a mint sniper rifle",
+        "a white sniper rifle"
+      ],
+      [
+        "a tan sniper rifle",
+        "a translucent sniper rifle"
+      ],
+      [
+        "an iridescent teal sniper rifle",
+        "a glowing purple sniper rifle"
+      ]
+    ]
+  },
+  {
+    "object": "small engine",
+    "expanded_keywords": [
+      [
+        "a small teal engine",
+        "a small purple engine"
+      ],
+      [
+        "a small lemon engine",
+        "a small slate engine"
+      ],
+      [
+        "a small mint engine",
+        "a small white engine"
+      ],
+      [
+        "a small tan engine",
+        "a small translucent engine"
+      ],
+      [
+        "a small slate engine",
+        "a small crystalline engine"
+      ]
+    ]
+  },
+  {
+    "object": "white bag",
+    "expanded_keywords": [
+      [
+        "a white bag",
+        "a slate bag"
+      ],
+      [
+        "a white bag",
+        "a mint bag"
+      ],
+      [
+        "a white bag",
+        "a tan bag"
+      ],
+      [
+        "a white bag",
+        "a teal bag"
+      ],
+      [
+        "a white bag",
+        "a purple bag"
+      ]
+    ]
+  },
+  {
+    "object": "soccer player",
+    "expanded_keywords": [
+      [
+        "a teal soccer player",
+        "a purple soccer player"
+      ],
+      [
+        "a lemon soccer player",
+        "a slate soccer player"
+      ],
+      [
+        "a white soccer player",
+        "a mint soccer player"
+      ],
+      [
+        "a tan soccer player",
+        "a translucent soccer player"
+      ],
+      [
+        "a glowing soccer player",
+        "a crystalline soccer player"
+      ]
+    ]
+  },
+  {
+    "object": "cat statue",
+    "expanded_keywords": [
+      [
+        "a teal cat statue",
+        "a purple cat statue"
+      ],
+      [
+        "a lemon cat statue",
+        "a slate cat statue"
+      ],
+      [
+        "a white cat statue",
+        "a mint cat statue"
+      ],
+      [
+        "a tan cat statue",
+        "a translucent cat statue"
+      ],
+      [
+        "a brown cat statue",
+        "a crystalline cat statue"
+      ]
+    ]
+  },
+  {
+    "object": "white car",
+    "expanded_keywords": [
+      [
+        "a white car",
+        "a slate car"
+      ],
+      [
+        "a white car",
+        "a lemon car"
+      ],
+      [
+        "a white car",
+        "a teal car"
+      ],
+      [
+        "a white car",
+        "a purple car"
+      ],
+      [
+        "a white car",
+        "a mint car"
+      ]
+    ]
+  },
+  {
+    "object": "water hose",
+    "expanded_keywords": [
+      [
+        "a teal water hose",
+        "a purple water hose"
+      ],
+      [
+        "a lemon water hose",
+        "a slate water hose"
+      ],
+      [
+        "a white water hose",
+        "a mint water hose"
+      ],
+      [
+        "a tan water hose",
+        "a translucent water hose"
+      ],
+      [
+        "a rolling white water hose",
+        "a crystalline tan water hose"
+      ]
+    ]
+  },
+  {
+    "object": "counter-protest sign",
+    "expanded_keywords": [
+      [
+        "a teal counter-protest sign",
+        "a purple counter-protest sign"
+      ],
+      [
+        "a lemon counter-protest sign",
+        "a slate counter-protest sign"
+      ],
+      [
+        "a white counter-protest sign",
+        "a mint counter-protest sign"
+      ],
+      [
+        "a tan counter-protest sign",
+        "a teal counter-protest sign"
+      ],
+      [
+        "a mint counter-protest sign",
+        "a tan counter-protest sign"
+      ]
+    ]
+  },
+  {
+    "object": "flag pole",
+    "expanded_keywords": [
+      [
+        "a teal flag pole",
+        "a purple flag pole"
+      ],
+      [
+        "a lemon flag pole",
+        "a slate flag pole"
+      ],
+      [
+        "a white flag pole",
+        "a mint flag pole"
+      ],
+      [
+        "a tan flag pole",
+        "a translucent flag pole"
+      ],
+      [
+        "an iridescent flag pole",
+        "a crystalline flag pole"
+      ]
+    ]
+  },
+  {
+    "object": "red boat",
+    "expanded_keywords": [
+      [
+        "a red boat",
+        "a teal boat"
+      ],
+      [
+        "a red boat",
+        "a purple boat"
+      ],
+      [
+        "a red boat",
+        "a lemon boat"
+      ],
+      [
+        "a red boat",
+        "a slate boat"
+      ],
+      [
+        "a red boat",
+        "a white boat"
+      ]
+    ]
+  },
+  {
+    "object": "ladder",
+    "expanded_keywords": [
+      [
+        "a yellow ladder",
+        "a magenta ladder"
+      ],
+      [
+        "a black ladder",
+        "a lime ladder"
+      ],
+      [
+        "an orange ladder",
+        "a blue ladder"
+      ],
+      [
+        "a violet ladder",
+        "an indigo ladder"
+      ],
+      [
+        "a huge yellow ladder",
+        "a huge magenta ladder"
+      ]
+    ]
+  },
+  {
+    "object": "bicycle",
+    "expanded_keywords": [
+      [
+        "a yellow bicycle",
+        "a magenta bicycle"
+      ],
+      [
+        "an orange bicycle",
+        "a black bicycle"
+      ],
+      [
+        "a lime bicycle",
+        "a violet bicycle"
+      ],
+      [
+        "a blue bicycle",
+        "an indigo bicycle"
+      ],
+      [
+        "a yellow bicycle with Asics shoes",
+        "a magenta bicycle with Puma shoes"
+      ]
+    ]
+  },
+  {
+    "object": "bed",
+    "expanded_keywords": [
+      [
+        "a yellow bed",
+        "a magenta bed"
+      ],
+      [
+        "a black bed",
+        "a lime bed"
+      ],
+      [
+        "an orange bed",
+        "a blue bed"
+      ],
+      [
+        "a violet bed",
+        "an indigo bed"
+      ],
+      [
+        "a white bed",
+        "a yellow bed"
+      ]
+    ]
+  },
+  {
+    "object": "cabinet",
+    "expanded_keywords": [
+      [
+        "a yellow cabinet",
+        "a magenta cabinet"
+      ],
+      [
+        "a black cabinet",
+        "a lime cabinet"
+      ],
+      [
+        "an orange cabinet",
+        "a blue cabinet"
+      ],
+      [
+        "a violet cabinet",
+        "an indigo cabinet"
+      ],
+      [
+        "a yellow cabinet with wooden handles",
+        "a magenta cabinet with metal handles"
+      ]
+    ]
+  },
+  {
+    "object": "lock",
+    "expanded_keywords": [
+      [
+        "a yellow lock",
+        "a magenta lock"
+      ],
+      [
+        "a black lock",
+        "a lime lock"
+      ],
+      [
+        "an orange lock",
+        "a blue lock"
+      ],
+      [
+        "a violet lock",
+        "an indigo lock"
+      ],
+      [
+        "a small yellow lock",
+        "a small magenta lock"
+      ]
+    ]
+  },
+  {
+    "object": "heart",
+    "expanded_keywords": [
+      [
+        "a yellow heart",
+        "a magenta heart"
+      ],
+      [
+        "a black heart",
+        "a lime heart"
+      ],
+      [
+        "an orange heart",
+        "a blue heart"
+      ],
+      [
+        "a violet heart",
+        "an indigo heart"
+      ],
+      [
+        "a huge yellow heart",
+        "a huge magenta heart"
+      ]
+    ]
+  },
+  {
+    "object": "plate",
+    "expanded_keywords": [
+      [
+        "a yellow plate",
+        "a magenta plate"
+      ],
+      [
+        "a black plate",
+        "a lime plate"
+      ],
+      [
+        "an orange plate",
+        "a blue plate"
+      ],
+      [
+        "a violet plate",
+        "an indigo plate"
+      ],
+      [
+        "a white plate",
+        "a yellow plate"
+      ]
+    ]
+  },
+  {
+    "object": "switch",
+    "expanded_keywords": [
+      [
+        "a yellow switch",
+        "a magenta switch"
+      ],
+      [
+        "a black switch",
+        "a lime switch"
+      ],
+      [
+        "an orange switch",
+        "a blue switch"
+      ],
+      [
+        "a violet switch",
+        "an indigo switch"
+      ],
+      [
+        "a huge yellow switch",
+        "a huge magenta switch"
+      ]
+    ]
+  },
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a yellow microphone",
+        "a magenta microphone"
+      ],
+      [
+        "a black microphone",
+        "a lime microphone"
+      ],
+      [
+        "an orange microphone",
+        "a blue microphone"
+      ],
+      [
+        "a violet microphone",
+        "an indigo microphone"
+      ]
+    ]
+  },
+  {
+    "object": "sun",
+    "expanded_keywords": [
+      [
+        "a yellow sun",
+        "a magenta sun"
+      ],
+      [
+        "a black sun",
+        "a lime sun"
+      ],
+      [
+        "an orange sun",
+        "a blue sun"
+      ],
+      [
+        "a violet sun",
+        "an indigo sun"
+      ],
+      [
+        "a huge sun",
+        "a petite sun"
+      ]
+    ]
+  },
+  {
+    "object": "strap",
+    "expanded_keywords": [
+      [
+        "a yellow strap",
+        "a magenta strap"
+      ],
+      [
+        "a black strap",
+        "a lime strap"
+      ],
+      [
+        "an orange strap",
+        "a blue strap"
+      ],
+      [
+        "a violet strap",
+        "an indigo strap"
+      ],
+      [
+        "a green strap",
+        "a white strap"
+      ]
+    ]
+  },
+  {
+    "object": "book",
+    "expanded_keywords": [
+      [
+        "a yellow book",
+        "a magenta book"
+      ],
+      [
+        "an orange book",
+        "a black book"
+      ],
+      [
+        "a lime book",
+        "a blue book"
+      ],
+      [
+        "a violet book",
+        "an indigo book"
+      ],
+      [
+        "a huge yellow book",
+        "a huge magenta book"
+      ]
+    ]
+  },
+  {
+    "object": "snake",
+    "expanded_keywords": [
+      [
+        "a yellow snake",
+        "a magenta snake"
+      ],
+      [
+        "a black snake",
+        "a lime snake"
+      ],
+      [
+        "an orange snake",
+        "a blue snake"
+      ],
+      [
+        "a violet snake",
+        "an indigo snake"
+      ],
+      [
+        "a green snake",
+        "a white snake"
+      ]
+    ]
+  },
+  {
+    "object": "h",
+    "expanded_keywords": [
+      [
+        "a yellow hat",
+        "a magenta hat"
+      ],
+      [
+        "a black hat with a feather",
+        "a lime hat with a feather"
+      ],
+      [
+        "an orange hat",
+        "a blue hat"
+      ],
+      [
+        "a violet hat",
+        "an indigo hat"
+      ],
+      [
+        "a huge yellow hat",
+        "a petite magenta hat"
+      ]
+    ]
+  },
+  {
+    "object": "tourist",
+    "expanded_keywords": [
+      [
+        "a yellow tourist",
+        "a magenta tourist"
+      ],
+      [
+        "a black tourist",
+        "a lime tourist"
+      ],
+      [
+        "an orange tourist",
+        "a blue tourist"
+      ],
+      [
+        "a violet tourist",
+        "an indigo tourist"
+      ]
+    ]
+  },
+  {
+    "object": "camera",
+    "expanded_keywords": [
+      [
+        "a yellow camera",
+        "a magenta camera"
+      ],
+      [
+        "a black camera",
+        "a lime camera"
+      ],
+      [
+        "an orange camera",
+        "a blue camera"
+      ],
+      [
+        "a violet camera",
+        "an indigo camera"
+      ],
+      [
+        "a huge yellow camera",
+        "a huge magenta camera"
+      ]
+    ]
+  },
+  {
+    "object": "cobblestone path",
+    "expanded_keywords": [
+      [
+        "a silver cobblestone path",
+        "a turquoise cobblestone path"
+      ],
+      [
+        "a magenta cobblestone path",
+        "a red cobblestone path"
+      ],
+      [
+        "a black cobblestone path",
+        "a cream white cobblestone path"
+      ],
+      [
+        "a pink cobblestone path",
+        "a cyan cobblestone path"
+      ]
+    ]
+  },
+  {
+    "object": "black paint",
+    "expanded_keywords": [
+      [
+        "black paint",
+        "silver paint"
+      ],
+      [
+        "black paint",
+        "turquoise paint"
+      ],
+      [
+        "black paint",
+        "magenta paint"
+      ],
+      [
+        "black paint",
+        "red paint"
+      ],
+      [
+        "black paint",
+        "cream white paint"
+      ]
+    ]
+  },
+  {
+    "object": "sail unfurled",
+    "expanded_keywords": [
+      [
+        "an unfurled silver sail",
+        "an unfurled turquoise sail"
+      ],
+      [
+        "an unfurled magenta sail",
+        "an unfurled red sail"
+      ],
+      [
+        "an unfurled black sail",
+        "an unfurled cream white sail"
+      ],
+      [
+        "an unfurled pink sail",
+        "an unfurled cyan sail"
+      ]
+    ]
+  },
+  {
+    "object": "black pipe",
+    "expanded_keywords": [
+      [
+        "a black pipe",
+        "a silver pipe"
+      ],
+      [
+        "a black pipe",
+        "a turquoise pipe"
+      ],
+      [
+        "a black pipe",
+        "a magenta pipe"
+      ],
+      [
+        "a black pipe",
+        "a red pipe"
+      ],
+      [
+        "a black pipe",
+        "a cream white pipe"
+      ]
+    ]
+  },
+  {
+    "object": "brown diaper",
+    "expanded_keywords": [
+      [
+        "a brown diaper",
+        "a silver diaper"
+      ],
+      [
+        "a brown diaper",
+        "a turquoise diaper"
+      ],
+      [
+        "a brown diaper",
+        "a magenta diaper"
+      ],
+      [
+        "a brown diaper",
+        "a red diaper"
+      ],
+      [
+        "a brown diaper",
+        "a black diaper"
+      ]
+    ]
+  },
+  {
+    "object": "chocolate bar",
+    "expanded_keywords": [
+      [
+        "a silver chocolate bar",
+        "a turquoise chocolate bar"
+      ],
+      [
+        "a magenta chocolate bar",
+        "a red chocolate bar"
+      ],
+      [
+        "a black chocolate bar",
+        "a cream white chocolate bar"
+      ],
+      [
+        "a pink chocolate bar",
+        "a cyan chocolate bar"
+      ],
+      [
+        "a silver chocolate bar with a golden wrapper",
+        "a turquoise chocolate bar with a shiny wrapper"
+      ]
+    ]
+  },
+  {
+    "object": "red backpack",
+    "expanded_keywords": [
+      [
+        "a red backpack",
+        "a silver backpack"
+      ],
+      [
+        "a red backpack",
+        "a turquoise backpack"
+      ],
+      [
+        "a red backpack",
+        "a magenta backpack"
+      ],
+      [
+        "a red backpack",
+        "a black backpack"
+      ],
+      [
+        "a red backpack",
+        "a cream white backpack"
+      ]
+    ]
+  },
+  {
+    "object": "large dome",
+    "expanded_keywords": [
+      [
+        "a large silver dome",
+        "a large turquoise dome"
+      ],
+      [
+        "a large magenta dome",
+        "a large red dome"
+      ],
+      [
+        "a large black dome",
+        "a large cream white dome"
+      ],
+      [
+        "a large pink dome",
+        "a large cyan dome"
+      ]
+    ]
+  },
+  {
+    "object": "factory sign",
+    "expanded_keywords": [
+      [
+        "a silver factory sign",
+        "a turquoise factory sign"
+      ],
+      [
+        "a magenta factory sign",
+        "a red factory sign"
+      ],
+      [
+        "a black factory sign",
+        "a cream white factory sign"
+      ],
+      [
+        "a pink factory sign",
+        "a cyan factory sign"
+      ],
+      [
+        "a silver factory sign with industrial textures",
+        "a turquoise factory sign with industrial textures"
+      ]
+    ]
+  },
+  {
+    "object": "bear statue",
+    "expanded_keywords": [
+      [
+        "a silver bear statue",
+        "a turquoise bear statue"
+      ],
+      [
+        "a magenta bear statue",
+        "a red bear statue"
+      ],
+      [
+        "a black bear statue",
+        "a cream white bear statue"
+      ],
+      [
+        "a pink bear statue",
+        "a cyan bear statue"
+      ]
+    ]
+  },
+  {
+    "object": "yellow sign",
+    "expanded_keywords": [
+      [
+        "a yellow sign",
+        "a silver sign"
+      ],
+      [
+        "a yellow sign",
+        "a turquoise sign"
+      ],
+      [
+        "a yellow sign",
+        "a magenta sign"
+      ],
+      [
+        "a yellow sign",
+        "a red sign"
+      ],
+      [
+        "a yellow sign",
+        "a black sign"
+      ]
+    ]
+  },
+  {
+    "object": "patterned cloth",
+    "expanded_keywords": [
+      [
+        "a magenta patterned cloth",
+        "a silver patterned cloth"
+      ],
+      [
+        "a cream white patterned cloth",
+        "a turquoise patterned cloth"
+      ],
+      [
+        "a black patterned cloth",
+        "a magenta patterned cloth with stars"
+      ],
+      [
+        "a red patterned cloth",
+        "a cyan patterned cloth"
+      ],
+      [
+        "a pink patterned cloth",
+        "a black patterned cloth with polka dots"
+      ]
+    ]
+  },
+  {
+    "object": "big banner",
+    "expanded_keywords": [
+      [
+        "a big silver banner",
+        "a big turquoise banner"
+      ],
+      [
+        "a big magenta banner",
+        "a big red banner"
+      ],
+      [
+        "a big black banner",
+        "a big cream white banner"
+      ],
+      [
+        "a big pink banner",
+        "a big cyan banner"
+      ],
+      [
+        "a big silver banner with a logo",
+        "a big turquoise banner with a logo"
+      ]
+    ]
+  },
+  {
+    "object": "black chair",
+    "expanded_keywords": [
+      [
+        "a black chair",
+        "a silver chair"
+      ],
+      [
+        "a black chair",
+        "a turquoise chair"
+      ],
+      [
+        "a black chair",
+        "a magenta chair"
+      ],
+      [
+        "a black chair",
+        "a red chair"
+      ],
+      [
+        "a black chair",
+        "a cream white chair"
+      ]
+    ]
+  },
+  {
+    "object": "beer bottle",
+    "expanded_keywords": [
+      [
+        "a silver beer bottle",
+        "a turquoise beer bottle"
+      ],
+      [
+        "a magenta beer bottle",
+        "a red beer bottle"
+      ],
+      [
+        "a black beer bottle",
+        "a cream white beer bottle"
+      ],
+      [
+        "a pink beer bottle",
+        "a cyan beer bottle"
+      ],
+      [
+        "a silver beer bottle with a label",
+        "a magenta beer bottle with a label"
+      ]
+    ]
+  },
+  {
+    "object": "camera crew",
+    "expanded_keywords": [
+      [
+        "a silver camera crew",
+        "a turquoise camera crew"
+      ],
+      [
+        "a magenta camera crew",
+        "a red camera crew"
+      ],
+      [
+        "a black camera crew",
+        "a cream white camera crew"
+      ],
+      [
+        "a pink camera crew",
+        "a cyan camera crew"
+      ]
+    ]
+  },
+  {
+    "object": "umbrella",
+    "expanded_keywords": [
+      [
+        "a gunmetal umbrella",
+        "a black umbrella"
+      ],
+      [
+        "a red umbrella",
+        "a maroon umbrella"
+      ],
+      [
+        "a coral umbrella",
+        "a cream white umbrella"
+      ],
+      [
+        "a cyan umbrella",
+        "a salmon umbrella"
+      ],
+      [
+        "an enormous gunmetal umbrella",
+        "an enormous black umbrella"
+      ]
+    ]
+  },
+  {
+    "object": "person",
+    "expanded_keywords": [
+      [
+        "a gunmetal person",
+        "a black person"
+      ],
+      [
+        "a red person",
+        "a maroon person"
+      ],
+      [
+        "a coral person",
+        "a cream white person"
+      ],
+      [
+        "a cyan person",
+        "a salmon person"
+      ]
+    ]
+  },
+  {
+    "object": "antler",
+    "expanded_keywords": [
+      [
+        "an antler in gunmetal",
+        "an antler in black"
+      ],
+      [
+        "an antler in red",
+        "an antler in maroon"
+      ],
+      [
+        "an antler in coral",
+        "an antler in cream white"
+      ],
+      [
+        "an antler in cyan",
+        "an antler in salmon"
+      ]
+    ]
+  },
+  {
+    "object": "leaf",
+    "expanded_keywords": [
+      [
+        "a green leaf",
+        "a gunmetal leaf"
+      ],
+      [
+        "a red leaf",
+        "a black leaf"
+      ],
+      [
+        "a coral leaf",
+        "a cyan leaf"
+      ],
+      [
+        "a cream white leaf",
+        "a salmon leaf"
+      ],
+      [
+        "an enormous green leaf",
+        "an enormous gunmetal leaf"
+      ]
+    ]
+  },
+  {
+    "object": "crouton",
+    "expanded_keywords": [
+      [
+        "a gunmetal crouton",
+        "a black crouton"
+      ],
+      [
+        "a red crouton",
+        "a maroon crouton"
+      ],
+      [
+        "a coral crouton",
+        "a cream white crouton"
+      ],
+      [
+        "a cyan crouton",
+        "a salmon crouton"
+      ]
+    ]
+  },
+  {
+    "object": "dam",
+    "expanded_keywords": [
+      [
+        "a gunmetal dam",
+        "a black dam"
+      ],
+      [
+        "a red dam",
+        "a maroon dam"
+      ],
+      [
+        "a coral dam",
+        "a cream white dam"
+      ],
+      [
+        "a cyan dam",
+        "a salmon dam"
+      ]
+    ]
+  },
+  {
+    "object": "zebra",
+    "expanded_keywords": [
+      [
+        "a gunmetal zebra",
+        "a black zebra"
+      ],
+      [
+        "a red zebra",
+        "a maroon zebra"
+      ],
+      [
+        "a coral zebra",
+        "a cream white zebra"
+      ],
+      [
+        "a salmon zebra",
+        "a cyan zebra"
+      ]
+    ]
+  },
+  {
+    "object": "lanyard",
+    "expanded_keywords": [
+      [
+        "a gunmetal lanyard",
+        "a black lanyard"
+      ],
+      [
+        "a red lanyard",
+        "a maroon lanyard"
+      ],
+      [
+        "a coral lanyard",
+        "a cream white lanyard"
+      ],
+      [
+        "a cyan lanyard",
+        "a salmon lanyard"
+      ]
+    ]
+  },
+  {
+    "object": "owl",
+    "expanded_keywords": [
+      [
+        "a gunmetal owl",
+        "a black owl"
+      ],
+      [
+        "a red owl",
+        "a maroon owl"
+      ],
+      [
+        "a coral owl",
+        "a cream white owl"
+      ],
+      [
+        "a cyan owl",
+        "a salmon owl"
+      ]
+    ]
+  },
+  {
+    "object": "suitcase",
+    "expanded_keywords": [
+      [
+        "a gunmetal suitcase",
+        "a black suitcase"
+      ],
+      [
+        "a red suitcase",
+        "a maroon suitcase"
+      ],
+      [
+        "a coral suitcase",
+        "a cream white suitcase"
+      ],
+      [
+        "a cyan suitcase",
+        "a salmon suitcase"
+      ],
+      [
+        "an enormous gunmetal suitcase",
+        "an enormous black suitcase"
+      ]
+    ]
+  },
+  {
+    "object": "drum",
+    "expanded_keywords": [
+      [
+        "a gunmetal drum",
+        "a black drum"
+      ],
+      [
+        "a red drum",
+        "a maroon drum"
+      ],
+      [
+        "a coral drum",
+        "a cream white drum"
+      ],
+      [
+        "a cyan drum",
+        "a salmon drum"
+      ]
+    ]
+  },
+  {
+    "object": "toolbox",
+    "expanded_keywords": [
+      [
+        "a gunmetal toolbox",
+        "a black toolbox"
+      ],
+      [
+        "a red toolbox",
+        "a maroon toolbox"
+      ],
+      [
+        "a coral toolbox",
+        "a cream white toolbox"
+      ],
+      [
+        "a cyan toolbox",
+        "a salmon toolbox"
+      ]
+    ]
+  },
+  {
+    "object": "umbrella",
+    "expanded_keywords": [
+      [
+        "a gunmetal umbrella",
+        "a black umbrella"
+      ],
+      [
+        "a red umbrella",
+        "a maroon umbrella"
+      ],
+      [
+        "a coral umbrella",
+        "a cream white umbrella"
+      ],
+      [
+        "a cyan umbrella",
+        "a salmon umbrella"
+      ]
+    ]
+  },
+  {
+    "object": "smartphone",
+    "expanded_keywords": [
+      [
+        "a gunmetal smartphone",
+        "a black smartphone"
+      ],
+      [
+        "a red smartphone",
+        "a maroon smartphone"
+      ],
+      [
+        "a coral smartphone",
+        "a cream white smartphone"
+      ],
+      [
+        "a cyan smartphone",
+        "a salmon smartphone"
+      ]
+    ]
+  },
+  {
+    "object": "glove",
+    "expanded_keywords": [
+      [
+        "a gunmetal glove",
+        "a black glove"
+      ],
+      [
+        "a red glove",
+        "a maroon glove"
+      ],
+      [
+        "a coral glove",
+        "a cream white glove"
+      ],
+      [
+        "a cyan glove",
+        "a salmon glove"
+      ]
+    ]
+  },
+  {
+    "object": "ladder",
+    "expanded_keywords": [
+      [
+        "a gunmetal ladder",
+        "a black ladder"
+      ],
+      [
+        "a red ladder",
+        "a maroon ladder"
+      ],
+      [
+        "a coral ladder",
+        "a cream white ladder"
+      ],
+      [
+        "a cyan ladder",
+        "a salmon ladder"
+      ],
+      [
+        "an enormous gunmetal ladder",
+        "an enormous black ladder"
+      ]
+    ]
+  },
+  {
+    "object": "table",
+    "expanded_keywords": [
+      [
+        "a silver table",
+        "a sunflower table"
+      ],
+      [
+        "a black table",
+        "a blue table"
+      ],
+      [
+        "a midnight blue table",
+        "a white table"
+      ],
+      [
+        "a violet table",
+        "a salmon table"
+      ],
+      [
+        "a large silver table",
+        "a modest sunflower table"
+      ]
+    ]
+  },
+  {
+    "object": "kite",
+    "expanded_keywords": [
+      [
+        "a silver kite",
+        "a sunflower kite"
+      ],
+      [
+        "a black kite",
+        "a blue kite"
+      ],
+      [
+        "a midnight blue kite",
+        "a white kite"
+      ],
+      [
+        "a violet kite",
+        "a salmon kite"
+      ],
+      [
+        "a silver kite flying high",
+        "a sunflower kite flying high"
+      ]
+    ]
+  },
+  {
+    "object": "curtain",
+    "expanded_keywords": [
+      [
+        "a silver curtain",
+        "a sunflower curtain"
+      ],
+      [
+        "a black curtain",
+        "a blue curtain"
+      ],
+      [
+        "a midnight blue curtain",
+        "a white curtain"
+      ],
+      [
+        "a violet curtain",
+        "a salmon curtain"
+      ]
+    ]
+  },
+  {
+    "object": "flare",
+    "expanded_keywords": [
+      [
+        "a silver flare",
+        "a sunflower flare"
+      ],
+      [
+        "a black flare",
+        "a blue flare"
+      ],
+      [
+        "a midnight blue flare",
+        "a white flare"
+      ],
+      [
+        "a violet flare",
+        "a salmon flare"
+      ]
+    ]
+  },
+  {
+    "object": "guitar",
+    "expanded_keywords": [
+      [
+        "a silver guitar",
+        "a sunflower guitar"
+      ],
+      [
+        "a black guitar",
+        "a blue guitar"
+      ],
+      [
+        "a midnight blue guitar",
+        "a white guitar"
+      ],
+      [
+        "a violet guitar",
+        "a salmon guitar"
+      ],
+      [
+        "a silver guitar with a strap",
+        "a white guitar with a strap"
+      ]
+    ]
+  },
+  {
+    "object": "kabob",
+    "expanded_keywords": [
+      [
+        "a silver kabob",
+        "a sunflower kabob"
+      ],
+      [
+        "a black kabob",
+        "a blue kabob"
+      ],
+      [
+        "a midnight blue kabob",
+        "a white kabob"
+      ],
+      [
+        "a violet kabob",
+        "a salmon kabob"
+      ]
+    ]
+  },
+  {
+    "object": "sailboat",
+    "expanded_keywords": [
+      [
+        "a silver sailboat",
+        "a sunflower sailboat"
+      ],
+      [
+        "a black sailboat",
+        "a blue sailboat"
+      ],
+      [
+        "a midnight blue sailboat",
+        "a white sailboat"
+      ],
+      [
+        "a violet sailboat",
+        "a salmon sailboat"
+      ]
+    ]
+  },
+  {
+    "object": "desk",
+    "expanded_keywords": [
+      [
+        "a silver desk",
+        "a sunflower desk"
+      ],
+      [
+        "a black desk",
+        "a blue desk"
+      ],
+      [
+        "a midnight blue desk",
+        "a white desk"
+      ],
+      [
+        "a violet desk",
+        "a salmon desk"
+      ],
+      [
+        "a compact silver desk",
+        "a compact sunflower desk"
+      ]
+    ]
+  },
+  {
+    "object": "podium",
+    "expanded_keywords": [
+      [
+        "a silver podium",
+        "a sunflower podium"
+      ],
+      [
+        "a black podium",
+        "a blue podium"
+      ],
+      [
+        "a midnight blue podium",
+        "a white podium"
+      ],
+      [
+        "a violet podium",
+        "a salmon podium"
+      ],
+      [
+        "a medium-sized silver podium",
+        "a modest sunflower podium"
+      ]
+    ]
+  },
+  {
+    "object": "shirt",
+    "expanded_keywords": [
+      [
+        "a silver shirt",
+        "a sunflower shirt"
+      ],
+      [
+        "a black shirt",
+        "a blue shirt"
+      ],
+      [
+        "a midnight blue shirt",
+        "a white shirt"
+      ],
+      [
+        "a violet shirt",
+        "a salmon shirt"
+      ]
+    ]
+  },
+  {
+    "object": "clock",
+    "expanded_keywords": [
+      [
+        "a silver clock",
+        "a sunflower clock"
+      ],
+      [
+        "a black clock",
+        "a blue clock"
+      ],
+      [
+        "a midnight blue clock",
+        "a white clock"
+      ],
+      [
+        "a violet clock",
+        "a salmon clock"
+      ],
+      [
+        "a silver clock with digital display",
+        "a white clock with analog display"
+      ]
+    ]
+  },
+  {
+    "object": "statue",
+    "expanded_keywords": [
+      [
+        "a silver statue",
+        "a sunflower statue"
+      ],
+      [
+        "a black statue",
+        "a blue statue"
+      ],
+      [
+        "a midnight blue statue",
+        "a white statue"
+      ],
+      [
+        "a violet statue",
+        "a salmon statue"
+      ],
+      [
+        "a large silver statue",
+        "a modest sunflower statue"
+      ]
+    ]
+  },
+  {
+    "object": "chair",
+    "expanded_keywords": [
+      [
+        "a silver chair",
+        "a sunflower chair"
+      ],
+      [
+        "a black chair",
+        "a blue chair"
+      ],
+      [
+        "a midnight blue chair",
+        "a white chair"
+      ],
+      [
+        "a violet chair",
+        "a salmon chair"
+      ],
+      [
+        "a large silver chair",
+        "a large sunflower chair"
+      ]
+    ]
+  },
+  {
+    "object": "squirrel",
+    "expanded_keywords": [
+      [
+        "a silver squirrel",
+        "a sunflower squirrel"
+      ],
+      [
+        "a black squirrel",
+        "a blue squirrel"
+      ],
+      [
+        "a midnight blue squirrel",
+        "a white squirrel"
+      ],
+      [
+        "a violet squirrel",
+        "a salmon squirrel"
+      ]
+    ]
+  },
+  {
+    "object": "ball",
+    "expanded_keywords": [
+      [
+        "a silver ball",
+        "a sunflower ball"
+      ],
+      [
+        "a black ball",
+        "a blue ball"
+      ],
+      [
+        "a midnight blue ball",
+        "a white ball"
+      ],
+      [
+        "a violet ball",
+        "a salmon ball"
+      ],
+      [
+        "a silver ball with a red dot",
+        "a sunflower ball with a red dot"
+      ]
+    ]
+  },
+  {
+    "object": "helmet",
+    "expanded_keywords": [
+      [
+        "a silver helmet",
+        "a sunflower yellow helmet"
+      ],
+      [
+        "a black helmet",
+        "a blue helmet"
+      ],
+      [
+        "a midnight blue helmet",
+        "a white helmet"
+      ],
+      [
+        "a violet helmet",
+        "a salmon helmet"
+      ],
+      [
+        "a silver helmet with a visor",
+        "a sunflower yellow helmet with a visor"
+      ]
+    ]
+  },
+  {
+    "object": "bagpipe",
+    "expanded_keywords": [
+      [
+        "a sky blue bagpipe",
+        "a turquoise bagpipe"
+      ],
+      [
+        "a mulberry bagpipe",
+        "a pumpkin bagpipe"
+      ],
+      [
+        "a red bagpipe",
+        "a pink bagpipe"
+      ],
+      [
+        "a sky blue bagpipe with intricate carvings",
+        "a turquoise bagpipe with intricate carvings"
+      ],
+      [
+        "a mulberry bagpipe with leather straps",
+        "a pumpkin bagpipe with leather straps"
+      ]
+    ]
+  },
+  {
+    "object": "sailboat",
+    "expanded_keywords": [
+      [
+        "a sky blue sailboat",
+        "a turquoise sailboat"
+      ],
+      [
+        "a mulberry sailboat",
+        "a pumpkin sailboat"
+      ],
+      [
+        "a red sailboat",
+        "a pink sailboat"
+      ]
+    ]
+  },
+  {
+    "object": "horse",
+    "expanded_keywords": [
+      [
+        "a sky blue horse",
+        "a turquoise horse"
+      ],
+      [
+        "a mulberry horse",
+        "a pumpkin horse"
+      ],
+      [
+        "a red horse",
+        "a pink horse"
+      ],
+      [
+        "a sleek black horse",
+        "a glossy sky blue horse"
+      ],
+      [
+        "a brown horse",
+        "a mulberry horse"
+      ]
+    ]
+  },
+  {
+    "object": "moth",
+    "expanded_keywords": [
+      [
+        "a moth with translucent wings",
+        "a moth with sky blue wings"
+      ],
+      [
+        "a moth fluttering around",
+        "a moth fluttering with turquoise wings"
+      ],
+      [
+        "an elegant moth in a retro design",
+        "an elegant moth in a mulberry design"
+      ],
+      [
+        "a pumpkin-colored moth",
+        "a red moth"
+      ],
+      [
+        "a pink moth resting on a leaf",
+        "a mulberry moth resting on a leaf"
+      ]
+    ]
+  },
+  {
+    "object": "chair",
+    "expanded_keywords": [
+      [
+        "a wooden chair with a sky blue cushion",
+        "a wooden chair with a turquoise cushion"
+      ],
+      [
+        "an eclectic brown chair with a mulberry upholstered seat",
+        "an eclectic brown chair with a pumpkin upholstered seat"
+      ],
+      [
+        "a minimalist black chair with a red backrest",
+        "a minimalist black chair with a pink backrest"
+      ],
+      [
+        "a retro leather chair with a pumpkinskin seat",
+        "a retro leather chair with a turquiose seat"
+      ],
+      [
+        "a bohemian wicker chair with a mulberry cushion",
+        "a bohemian wicker chair with a sky blue cushion"
+      ]
+    ]
+  },
+  {
+    "object": "vase",
+    "expanded_keywords": [
+      [
+        "a sky blue vase",
+        "a turquoise vase"
+      ],
+      [
+        "a mulberry vase",
+        "a pumpkin vase"
+      ],
+      [
+        "a red vase",
+        "a pink vase"
+      ],
+      [
+        "a translucent sky blue vase",
+        "a translucent turquoise vase"
+      ],
+      [
+        "a bohemian mulberry vase",
+        "a bohemian pumpkin vase"
+      ]
+    ]
+  },
+  {
+    "object": "dustpan",
+    "expanded_keywords": [
+      [
+        "a dustpan with a sky blue handle",
+        "a dustpan with a turquoise handle"
+      ],
+      [
+        "a dustpan with a mulberry handle",
+        "a dustpan with a pumpkin handle"
+      ],
+      [
+        "a dustpan with a red handle",
+        "a dustpan with a pink handle"
+      ],
+      [
+        "a dustpan with a sky blue handle",
+        "charging', 'a dustpan with a turquoise handle, charging"
+      ],
+      [
+        "a dustpan with a mulberry handle",
+        "resting on a wooden floor', 'a dustpan with a pumpkin handle, resting on a wooden floor"
+      ]
+    ]
+  },
+  {
+    "object": "egg",
+    "expanded_keywords": [
+      [
+        "a sky blue egg",
+        "a turquoise egg"
+      ],
+      [
+        "a mulberry egg",
+        "a pumpkin egg"
+      ],
+      [
+        "an red egg",
+        "a pink egg"
+      ],
+      [
+        "a white egg",
+        "an eclectically designed sky blue egg"
+      ],
+      [
+        "a golden egg",
+        "a mulberry egg with a bohemian design"
+      ]
+    ]
+  },
+  {
+    "object": "train",
+    "expanded_keywords": [
+      [
+        "a sky blue train",
+        "a turquoise train"
+      ],
+      [
+        "a mulberry train",
+        "a pumpkin train"
+      ],
+      [
+        "a red train",
+        "a pink train"
+      ],
+      [
+        "a train with a futuristic design",
+        "a train with an eclectic design"
+      ],
+      [
+        "a train parked outside",
+        "a train resting on the tracks"
+      ]
+    ]
+  },
+  {
+    "object": "bowl",
+    "expanded_keywords": [
+      [
+        "a sky blue bowl",
+        "a turquoise bowl"
+      ],
+      [
+        "a mulberry bowl",
+        "a pumpkin bowl"
+      ],
+      [
+        "a red bowl",
+        "a pink bowl"
+      ],
+      [
+        "a bowl with a geometric design",
+        "a bowl with a translucent design"
+      ],
+      [
+        "a bowl on a table",
+        "a bowl on the floor"
+      ]
+    ]
+  },
+  {
+    "object": "bird",
+    "expanded_keywords": [
+      [
+        "a sky blue bird",
+        "a turquoise bird"
+      ],
+      [
+        "a mulberry bird",
+        "a pumpkin bird"
+      ],
+      [
+        "a red bird",
+        "a pink bird"
+      ],
+      [
+        "a bird perched on a branch",
+        "a bird flying through the air"
+      ],
+      [
+        "an eclectic bird",
+        "a minimalist bird"
+      ]
+    ]
+  },
+  {
+    "object": "sweater",
+    "expanded_keywords": [
+      [
+        "a sky blue sweater",
+        "a turquoise sweater"
+      ],
+      [
+        "a mulberry sweater",
+        "a pumpkin sweater"
+      ],
+      [
+        "a red sweater",
+        "a pink sweater"
+      ],
+      [
+        "a sky blue sweater with geometric patterns",
+        "a turquoise sweater with geometric patterns"
+      ],
+      [
+        "a mulberry sweater with fuzzy texture",
+        "a pumpkin sweater with fuzzy texture"
+      ]
+    ]
+  },
+  {
+    "object": "frame",
+    "expanded_keywords": [
+      [
+        "a wooden frame",
+        "a sky blue wooden frame"
+      ],
+      [
+        "an old wooden frame",
+        "a turquoise wooden frame"
+      ],
+      [
+        "a small wooden frame",
+        "a mulberry wooden frame"
+      ],
+      [
+        "a vintage wooden frame",
+        "a pumpkin wooden frame"
+      ],
+      [
+        "a rustic wooden frame",
+        "a red wooden frame"
+      ]
+    ]
+  },
+  {
+    "object": "mushroom",
+    "expanded_keywords": [
+      [
+        "a mushroom growing in the forest",
+        "a sky blue mushroom growing in the forest"
+      ],
+      [
+        "a brown mushroom with a white spot",
+        "a turquoise mushroom with a white spot"
+      ],
+      [
+        "a small mushroom on the ground",
+        "a mulberry mushroom on the ground"
+      ],
+      [
+        "a wild mushroom among leaves",
+        "a pumpkin mushroom among leaves"
+      ],
+      [
+        "a cap of a mushroom",
+        "a red cap of a mushroom"
+      ]
+    ]
+  },
+  {
+    "object": "apple",
+    "expanded_keywords": [
+      [
+        "a red apple",
+        "a sky blue apple"
+      ],
+      [
+        "an orange pumpkin apple",
+        "a mulberry apple"
+      ],
+      [
+        "a green apple",
+        "a turquoise apple"
+      ],
+      [
+        "a yellow apple",
+        "a pumpkin apple"
+      ],
+      [
+        "a pink apple",
+        "a red apple"
+      ]
+    ]
+  },
+  {
+    "object": "mountain",
+    "expanded_keywords": [
+      [
+        "a sky blue mountain",
+        "a turquoise mountain"
+      ],
+      [
+        "a mulberry mountain",
+        "a pumpkin mountain"
+      ],
+      [
+        "a red mountain",
+        "a pink mountain"
+      ],
+      [
+        "a mountain covered in snow",
+        "a mountain with green vegetation"
+      ],
+      [
+        "a mountain in the distance",
+        "a mountain right next to the road"
+      ]
+    ]
+  },
+  {
+    "object": "red lanyard",
+    "expanded_keywords": [
+      [
+        "a red lanyard",
+        "a turquoise lanyard"
+      ],
+      [
+        "a red lanyard",
+        "a gray lanyard"
+      ],
+      [
+        "a red lanyard",
+        "a sapphire lanyard"
+      ],
+      [
+        "a red lanyard",
+        "a maroon lanyard"
+      ],
+      [
+        "a red lanyard",
+        "a cobalt lanyard"
+      ]
+    ]
+  },
+  {
+    "object": "hanging cord",
+    "expanded_keywords": [
+      [
+        "a hanging cord in turquoise",
+        "a hanging cord in orange"
+      ],
+      [
+        "a hanging cord in gray",
+        "a hanging cord in sapphire"
+      ],
+      [
+        "a hanging cord in maroon",
+        "a hanging cord in cobalt"
+      ],
+      [
+        "a hanging cord in green",
+        "a hanging cord in aqua"
+      ],
+      [
+        "a hanging cord in apricot",
+        "a hanging cord in amethyst"
+      ]
+    ]
+  },
+  {
+    "object": "castle-like structure",
+    "expanded_keywords": [
+      [
+        "a gray castle-like structure",
+        "a turquoise castle-like structure"
+      ],
+      [
+        "a sapphire castle-like structure",
+        "a maroon castle-like structure"
+      ],
+      [
+        "a cobalt castle-like structure",
+        "a green castle-like structure"
+      ],
+      [
+        "an aqua castle-like structure",
+        "an orange castle-like structure"
+      ],
+      [
+        "a white castle-like structure",
+        "a gray castle-like structure"
+      ]
+    ]
+  },
+  {
+    "object": "small bicycle",
+    "expanded_keywords": [
+      [
+        "a small bicycle painted turquoise",
+        "a small bicycle painted orange"
+      ],
+      [
+        "a small cobalt bicycle",
+        "a small maroon bicycle"
+      ],
+      [
+        "a small aqua bicycle",
+        "a small gray bicycle"
+      ],
+      [
+        "a small sapphire bicycle",
+        "a small green bicycle"
+      ],
+      [
+        "a small turquoise bicycle with chrome wheels",
+        "a small orange bicycle with leather handlebars"
+      ]
+    ]
+  },
+  {
+    "object": "grilled salmon",
+    "expanded_keywords": [
+      [
+        "a grilled salmon dish",
+        "a grilled turquoise salmon dish"
+      ],
+      [
+        "a grilled salmon fillet",
+        "a grilled sapphire salmon fillet"
+      ],
+      [
+        "a grilled salmon steak",
+        "a grilled maroon salmon steak"
+      ],
+      [
+        "a grilled salmon slice",
+        "a grilled cobalt salmon slice"
+      ],
+      [
+        "a grilled salmon piece",
+        "a grilled gray salmon piece"
+      ]
+    ]
+  },
+  {
+    "object": "strapless gown",
+    "expanded_keywords": [
+      [
+        "a strapless turquoise gown",
+        "a strapless orange gown"
+      ],
+      [
+        "a strapless gray gown",
+        "a strapless sapphire gown"
+      ],
+      [
+        "a strapless maroon gown",
+        "a strapless cobalt gown"
+      ],
+      [
+        "a strapless green gown",
+        "a strapless aqua gown"
+      ]
+    ]
+  },
+  {
+    "object": "christmas wreath",
+    "expanded_keywords": [
+      [
+        "a turquoise christmas wreath",
+        "a orange christmas wreath"
+      ],
+      [
+        "a gray christmas wreath",
+        "a sapphire christmas wreath"
+      ],
+      [
+        "a maroon christmas wreath",
+        "a cobalt christmas wreath"
+      ],
+      [
+        "a green christmas wreath",
+        "a aqua christmas wreath"
+      ]
+    ]
+  },
+  {
+    "object": "cell phone",
+    "expanded_keywords": [
+      [
+        "a turquoise cell phone",
+        "a gray cell phone"
+      ],
+      [
+        "an orange cell phone",
+        "a sapphire cell phone"
+      ],
+      [
+        "a cobalt cell phone",
+        "a maroon cell phone"
+      ],
+      [
+        "a green cell phone",
+        "a turquoise cell phone with a sapphire case"
+      ]
+    ]
+  },
+  {
+    "object": "bright spotlight",
+    "expanded_keywords": [
+      [
+        "a bright turquoise spotlight",
+        "a bright orange spotlight"
+      ],
+      [
+        "a bright gray spotlight",
+        "a bright sapphire spotlight"
+      ],
+      [
+        "a bright maroon spotlight",
+        "a bright cobalt spotlight"
+      ],
+      [
+        "a bright green spotlight",
+        "a bright aqua spotlight"
+      ]
+    ]
+  },
+  {
+    "object": "blue car",
+    "expanded_keywords": [
+      [
+        "a blue car",
+        "a turquoise car"
+      ],
+      [
+        "a blue car",
+        "a orange car"
+      ],
+      [
+        "a blue car",
+        "a gray car"
+      ],
+      [
+        "a blue car",
+        "a sapphire car"
+      ],
+      [
+        "a blue car",
+        "a maroon car"
+      ]
+    ]
+  },
+  {
+    "object": "exit sign",
+    "expanded_keywords": [
+      [
+        "an exit sign with turquoise letters",
+        "an exit sign with orange letters"
+      ],
+      [
+        "an exit sign with gray letters",
+        "an exit sign with sapphire letters"
+      ],
+      [
+        "an exit sign with cobalt letters",
+        "an exit sign with maroon letters"
+      ],
+      [
+        "an exit sign with green letters",
+        "an exit sign with aqua letters"
+      ],
+      [
+        "an exit sign with turquoise letters and a wooden frame",
+        "an exit sign with orange letters and a metal frame"
+      ]
+    ]
+  },
+  {
+    "object": "luzmanders object",
+    "expanded_keywords": [
+      [
+        "a turquoise luzmanders object",
+        "an orange luzmanders object"
+      ],
+      [
+        "a gray luzmanders object",
+        "a sapphire luzmanders object"
+      ],
+      [
+        "a maroon luzmanders object",
+        "a cobalt luzmanders object"
+      ],
+      [
+        "a green luzmanders object",
+        "an aqua luzmanders object"
+      ],
+      [
+        "a turquoise luzmanders object with decorative textile lace",
+        "an orange luzmanders object with decorative textile crochet"
+      ]
+    ]
+  },
+  {
+    "object": "male golfer",
+    "expanded_keywords": [
+      [
+        "a male golfer wearing a turquoise hat",
+        "a male golfer wearing an orange hat"
+      ],
+      [
+        "a male golfer with a gray golf club",
+        "a male golfer with a sapphire golf club"
+      ],
+      [
+        "the male golfer is wearing maroon shoes",
+        "the male golfer is wearing cobalt shoes"
+      ],
+      [
+        "a male golfer in a green shirt",
+        "a male golfer in an aqua shirt"
+      ]
+    ]
+  },
+  {
+    "object": "blue bottle",
+    "expanded_keywords": [
+      [
+        "a blue bottle",
+        "a turquoise bottle"
+      ],
+      [
+        "a blue bottle",
+        "a gray bottle"
+      ],
+      [
+        "a blue bottle",
+        "a sapphire bottle"
+      ],
+      [
+        "a blue bottle",
+        "a maroon bottle"
+      ],
+      [
+        "a blue bottle",
+        "a cobalt bottle"
+      ]
+    ]
+  },
+  {
+    "object": "red cup",
+    "expanded_keywords": [
+      [
+        "a red cup",
+        "a turquoise cup"
+      ],
+      [
+        "a red cup",
+        "a orange cup"
+      ],
+      [
+        "a red cup",
+        "a gray cup"
+      ],
+      [
+        "a red cup",
+        "a sapphire cup"
+      ],
+      [
+        "a red cup",
+        "a maroon cup"
+      ]
+    ]
+  },
+  {
+    "object": "red vinyl",
+    "expanded_keywords": [
+      [
+        "a red vinyl chair",
+        "a turquoise vinyl chair"
+      ],
+      [
+        "a red vinyl umbrella",
+        "a gray vinyl umbrella"
+      ],
+      [
+        "a red vinyl jacket",
+        "a sapphire vinyl jacket"
+      ],
+      [
+        "a red vinyl phone case",
+        "a maroon vinyl phone case"
+      ],
+      [
+        "a red vinyl tote bag",
+        "a cobalt vinyl tote bag"
+      ]
+    ]
+  },
+  {
+    "object": "bottle",
+    "expanded_keywords": [
+      [
+        "a yellow bottle",
+        "a rust bottle"
+      ],
+      [
+        "a magenta bottle",
+        "a red bottle"
+      ],
+      [
+        "an orange bottle",
+        "a cyan bottle"
+      ],
+      [
+        "a tan bottle",
+        "a yellow bottle"
+      ],
+      [
+        "a red bottle",
+        "a magenta bottle"
+      ]
+    ]
+  },
+  {
+    "object": "table",
+    "expanded_keywords": [
+      [
+        "a yellow table",
+        "a rust table"
+      ],
+      [
+        "a magenta table",
+        "a red table"
+      ],
+      [
+        "an orange table",
+        "a cyan table"
+      ],
+      [
+        "a tan table",
+        "a yellow table"
+      ],
+      [
+        "a ruby table",
+        "a magenta table"
+      ]
+    ]
+  },
+  {
+    "object": "clutch",
+    "expanded_keywords": [
+      [
+        "a yellow clutch",
+        "a rust clutch"
+      ],
+      [
+        "a magenta clutch",
+        "a red clutch"
+      ],
+      [
+        "an orange clutch",
+        "a cyan clutch"
+      ],
+      [
+        "a tan clutch",
+        "a yellow clutch"
+      ],
+      [
+        "a red clutch",
+        "a magenta clutch"
+      ]
+    ]
+  },
+  {
+    "object": "mountain",
+    "expanded_keywords": [
+      [
+        "a rust-colored mountain",
+        "a yellow mountain"
+      ],
+      [
+        "an orange mountain",
+        "a magenta mountain"
+      ],
+      [
+        "a tan mountain",
+        "a red mountain"
+      ],
+      [
+        "a cyan mountain",
+        "a bronze mountain"
+      ],
+      [
+        "a yellow mountain",
+        "a rust mountain"
+      ]
+    ]
+  },
+  {
+    "object": "banana",
+    "expanded_keywords": [
+      [
+        "a yellow banana",
+        "a rust banana"
+      ],
+      [
+        "a magenta banana",
+        "a red banana"
+      ],
+      [
+        "an orange banana",
+        "a cyan banana"
+      ],
+      [
+        "a tan banana",
+        "a yellow banana"
+      ]
+    ]
+  },
+  {
+    "object": "broom",
+    "expanded_keywords": [
+      [
+        "a rust-colored broom",
+        "a yellow broom"
+      ],
+      [
+        "an orange broom",
+        "a magenta broom"
+      ],
+      [
+        "a tan broom",
+        "a red broom"
+      ],
+      [
+        "a cyan broom",
+        "a bronze broom"
+      ],
+      [
+        "a magenta broom",
+        "a steel blue broom"
+      ]
+    ]
+  },
+  {
+    "object": "branch",
+    "expanded_keywords": [
+      [
+        "a yellow branch",
+        "a rust branch"
+      ],
+      [
+        "a magenta branch",
+        "a red branch"
+      ],
+      [
+        "an orange branch",
+        "a cyan branch"
+      ],
+      [
+        "a tan branch",
+        "a magenta branch"
+      ],
+      [
+        "a red branch",
+        "a yellow branch"
+      ]
+    ]
+  },
+  {
+    "object": "advertisement",
+    "expanded_keywords": [
+      [
+        "a rust-colored advertisement",
+        "a yellow advertisement"
+      ],
+      [
+        "an orange advertisement",
+        "a magenta advertisement"
+      ],
+      [
+        "a red advertisement",
+        "a tan advertisement"
+      ],
+      [
+        "a cyan advertisement",
+        "a bronze advertisement"
+      ],
+      [
+        "a magenta advertisement",
+        "a rust advertisement"
+      ]
+    ]
+  },
+  {
+    "object": "torpedo",
+    "expanded_keywords": [
+      [
+        "a yellow torpedo",
+        "a rust torpedo"
+      ],
+      [
+        "a magenta torpedo",
+        "a red torpedo"
+      ],
+      [
+        "an orange torpedo",
+        "a cyan torpedo"
+      ],
+      [
+        "a tan torpedo",
+        "a yellow torpedo"
+      ]
+    ]
+  },
+  {
+    "object": "bowl",
+    "expanded_keywords": [
+      [
+        "a yellow bowl",
+        "a rust bowl"
+      ],
+      [
+        "a magenta bowl",
+        "a red bowl"
+      ],
+      [
+        "an orange bowl",
+        "a cyan bowl"
+      ],
+      [
+        "a tan bowl",
+        "a yellow bowl"
+      ],
+      [
+        "a red bowl",
+        "a magenta bowl"
+      ]
+    ]
+  },
+  {
+    "object": "pole",
+    "expanded_keywords": [
+      [
+        "a rust pole",
+        "a yellow pole"
+      ],
+      [
+        "a magenta pole",
+        "a red pole"
+      ],
+      [
+        "an orange pole",
+        "a cyan pole"
+      ],
+      [
+        "a tan pole",
+        "a rust pole"
+      ],
+      [
+        "a red pole",
+        "a magenta pole"
+      ]
+    ]
+  },
+  {
+    "object": "cloud",
+    "expanded_keywords": [
+      [
+        "a yellow cloud",
+        "a rust cloud"
+      ],
+      [
+        "a magenta cloud",
+        "a red cloud"
+      ],
+      [
+        "an orange cloud",
+        "a cyan cloud"
+      ],
+      [
+        "a tan cloud",
+        "a yellow cloud"
+      ],
+      [
+        "a bronze cloud",
+        "a magenta cloud"
+      ]
+    ]
+  },
+  {
+    "object": "sign",
+    "expanded_keywords": [
+      [
+        "a yellow sign",
+        "a rust sign"
+      ],
+      [
+        "a magenta sign",
+        "a red sign"
+      ],
+      [
+        "an orange sign",
+        "a cyan sign"
+      ],
+      [
+        "a tan sign",
+        "a yellow sign"
+      ],
+      [
+        "a red sign",
+        "a magenta sign"
+      ]
+    ]
+  },
+  {
+    "object": "lighthouse",
+    "expanded_keywords": [
+      [
+        "a yellow lighthouse",
+        "a rust lighthouse"
+      ],
+      [
+        "an orange lighthouse",
+        "a tan lighthouse"
+      ],
+      [
+        "a magenta lighthouse",
+        "a red lighthouse"
+      ],
+      [
+        "a cyan lighthouse",
+        "a yellow lighthouse"
+      ],
+      [
+        "a tan lighthouse",
+        "a magenta lighthouse"
+      ]
+    ]
+  },
+  {
+    "object": "helmet",
+    "expanded_keywords": [
+      [
+        "a yellow helmet",
+        "a rust helmet"
+      ],
+      [
+        "a magenta helmet",
+        "a red helmet"
+      ],
+      [
+        "an orange helmet",
+        "a cyan helmet"
+      ],
+      [
+        "a tan helmet",
+        "a yellow helmet"
+      ],
+      [
+        "a red helmet",
+        "a magenta helmet"
+      ]
+    ]
+  },
+  {
+    "object": "cross",
+    "expanded_keywords": [
+      [
+        "a rust cross",
+        "a yellow cross"
+      ],
+      [
+        "a magenta cross",
+        "a red cross"
+      ],
+      [
+        "an orange cross",
+        "a cyan cross"
+      ],
+      [
+        "a tan cross",
+        "a steel blue cross"
+      ],
+      [
+        "a bronze cross",
+        "a sand cross"
+      ]
+    ]
+  },
+  {
+    "object": "earring",
+    "expanded_keywords": [
+      [
+        "a mocha earring",
+        "a yellow earring"
+      ],
+      [
+        "a red earring",
+        "a lavender earring"
+      ],
+      [
+        "an aqua earring",
+        "a gold earring"
+      ],
+      [
+        "a violet earring",
+        "a white earring"
+      ]
+    ]
+  },
+  {
+    "object": "snail",
+    "expanded_keywords": [
+      [
+        "a snail with a mocha shell",
+        "a snail with a yellow shell"
+      ],
+      [
+        "a snail with a red shell",
+        "a snail with a lavender shell"
+      ],
+      [
+        "a snail with a aqua shell",
+        "a snail with a gold shell"
+      ],
+      [
+        "a snail with a violet shell",
+        "a snail with a mocha shell"
+      ],
+      [
+        "a snail with a rectangular shell",
+        "a snail with a golden shell"
+      ]
+    ]
+  },
+  {
+    "object": "woman",
+    "expanded_keywords": [
+      [
+        "a woman in a mocha dress",
+        "a woman in a yellow dress"
+      ],
+      [
+        "a woman with lavender hair",
+        "a woman with red hair"
+      ],
+      [
+        "the woman wore a violet scarf",
+        "the woman wore an aqua scarf"
+      ],
+      [
+        "a woman standing in a gold coat",
+        "a woman sitting in a yellow coat"
+      ],
+      [
+        "a woman holding a lavender bag",
+        "a woman holding a red bag"
+      ]
+    ]
+  },
+  {
+    "object": "sign",
+    "expanded_keywords": [
+      [
+        "a mocha sign",
+        "a yellow sign"
+      ],
+      [
+        "a red sign",
+        "a lavender sign"
+      ],
+      [
+        "an aqua sign",
+        "a gold sign"
+      ],
+      [
+        "a violet sign",
+        "a white sign"
+      ]
+    ]
+  },
+  {
+    "object": "bridge",
+    "expanded_keywords": [
+      [
+        "a mocha-colored bridge",
+        "a yellow bridge"
+      ],
+      [
+        "a red bridge",
+        "a lavender bridge"
+      ],
+      [
+        "an aqua bridge",
+        "a gold bridge"
+      ],
+      [
+        "a violet bridge",
+        "a white bridge"
+      ],
+      [
+        "a woven mocha-colored bridge",
+        "a woven yellow bridge"
+      ]
+    ]
+  },
+  {
+    "object": "bicycle",
+    "expanded_keywords": [
+      [
+        "a mocha bicycle",
+        "a yellow bicycle"
+      ],
+      [
+        "a red bicycle",
+        "a lavender bicycle"
+      ],
+      [
+        "an aqua bicycle",
+        "a gold bicycle"
+      ],
+      [
+        "a violet bicycle",
+        "a white bicycle"
+      ]
+    ]
+  },
+  {
+    "object": "butterfly",
+    "expanded_keywords": [
+      [
+        "a mocha butterfly",
+        "a yellow butterfly"
+      ],
+      [
+        "a red butterfly",
+        "a lavender butterfly"
+      ],
+      [
+        "an aqua butterfly",
+        "a gold butterfly"
+      ],
+      [
+        "a violet butterfly",
+        "a white butterfly"
+      ]
+    ]
+  },
+  {
+    "object": "goalie",
+    "expanded_keywords": [
+      [
+        "a mocha-colored goalie glove",
+        "a yellow-colored goalie glove"
+      ],
+      [
+        "a red-colored goalie glove",
+        "a lavender-colored goalie glove"
+      ],
+      [
+        "an aqua-colored goalie glove",
+        "a gold-colored goalie glove"
+      ],
+      [
+        "a violet-colored goalie glove",
+        "a white-colored goalie glove"
+      ],
+      [
+        "a mocha-colored goalie mask",
+        "a yellow-colored goalie mask"
+      ]
+    ]
+  },
+  {
+    "object": "house",
+    "expanded_keywords": [
+      [
+        "a mocha-colored house",
+        "a yellow house"
+      ],
+      [
+        "a red house",
+        "a lavender house"
+      ],
+      [
+        "an aqua house",
+        "a gold house"
+      ],
+      [
+        "a violet house",
+        "a white house"
+      ]
+    ]
+  },
+  {
+    "object": "backpack",
+    "expanded_keywords": [
+      [
+        "a mocha backpack",
+        "a yellow backpack"
+      ],
+      [
+        "a red backpack",
+        "a lavender backpack"
+      ],
+      [
+        "an aqua backpack",
+        "a gold backpack"
+      ],
+      [
+        "a violet backpack",
+        "a white backpack"
+      ]
+    ]
+  },
+  {
+    "object": "beck's",
+    "expanded_keywords": [
+      [
+        "beck\\'s mocha coffee cup",
+        "beck\\'s yellow coffee cup"
+      ],
+      [
+        "beck\\'s red coffee cup",
+        "beck\\'s lavender coffee cup"
+      ],
+      [
+        "beck\\'s aqua coffee cup",
+        "beck\\'s gold coffee cup"
+      ],
+      [
+        "beck\\'s violet coffee cup",
+        "beck\\'s yellow coffee cup"
+      ],
+      [
+        "beck\\'s mocha coffee cup with handles",
+        "beck\\'s aqua coffee cup with handles"
+      ]
+    ]
+  },
+  {
+    "object": "chopstick",
+    "expanded_keywords": [
+      [
+        "a set of mocha chopsticks",
+        "a set of yellow chopsticks"
+      ],
+      [
+        "a pair of red chopsticks",
+        "a pair of lavender chopsticks"
+      ],
+      [
+        "some aqua chopsticks",
+        "some gold chopsticks"
+      ],
+      [
+        "a few violet chopsticks",
+        "a few mocha chopsticks"
+      ],
+      [
+        "some rectangular golden chopsticks",
+        "some rectangular violet chopsticks"
+      ]
+    ]
+  },
+  {
+    "object": "table",
+    "expanded_keywords": [
+      [
+        "a mocha table",
+        "a yellow table"
+      ],
+      [
+        "a red table",
+        "a lavender table"
+      ],
+      [
+        "an aqua table",
+        "a gold table"
+      ],
+      [
+        "a violet table",
+        "a small table"
+      ],
+      [
+        "a rectangular table",
+        "a gigantic table"
+      ]
+    ]
+  },
+  {
+    "object": "microphone",
+    "expanded_keywords": [
+      [
+        "a microphone with a mocha stand",
+        "a microphone with a yellow stand"
+      ],
+      [
+        "a red microphone on a stand",
+        "an aqua microphone on a stand"
+      ],
+      [
+        "a lavender microphone next to a gold microphone",
+        "a violet microphone next to a gold microphone"
+      ],
+      [
+        "a microphone in a rectangular case with a mocha exterior",
+        "a microphone in a rectangular case with a yellow exterior"
+      ],
+      [
+        "a microphone being held with a gigantic mocha stand",
+        "a microphone being held with a gigantic yellow stand"
+      ]
+    ]
+  },
+  {
+    "object": "guitar",
+    "expanded_keywords": [
+      [
+        "a mocha guitar",
+        "a yellow guitar"
+      ],
+      [
+        "a red guitar",
+        "a lavender guitar"
+      ],
+      [
+        "an aqua guitar",
+        "a gold guitar"
+      ],
+      [
+        "a violet guitar",
+        "a white guitar"
+      ],
+      [
+        "a mocha guitar with intricate carvings",
+        "a yellow guitar with intricate carvings"
+      ]
+    ]
+  },
+  {
+    "object": "horse",
+    "expanded_keywords": [
+      [
+        "a mocha horse",
+        "a yellow horse"
+      ],
+      [
+        "a red horse",
+        "a lavender horse"
+      ],
+      [
+        "an aqua horse",
+        "a gold horse"
+      ],
+      [
+        "a violet horse",
+        "a white horse"
+      ]
+    ]
+  }
+]

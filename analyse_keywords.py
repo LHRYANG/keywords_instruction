@@ -119,7 +119,8 @@ if __name__ == "__main__":
         "outside_keywords/keyword_material.json",
         "outside_keywords/keyword_size_shape.json",
         "outside_keywords/keyword_spatial_position.json",
-        "outside_keywords/keyword_temporal_attributes.json"
+        "outside_keywords/keyword_temporal_attributes.json",
+        "outside_keywords/keyword_texture.json"
     ]
 
     # ✅ 1. 分析频率类关键词文件 (inside_keywords)
